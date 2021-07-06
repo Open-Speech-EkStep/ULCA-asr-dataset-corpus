@@ -10,3 +10,4 @@
 * Hindi | swayamprabha_chapter_16 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_16_06-07-2021_10-39.zip
 * Hindi | Live_By_FnP_Media | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Live_By_FnP_Media_06-07-2021_10-36.zip
 * Hindi | Your_Voice | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Your_Voice_06-07-2021_10-46.zip
+* Hindi | swayamprabha_chapter_6 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_6_06-07-2021_11-24.zip

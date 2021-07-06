@@ -11,3 +11,7 @@
 * Hindi | Live_By_FnP_Media | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Live_By_FnP_Media_06-07-2021_10-36.zip
 * Hindi | Your_Voice | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Your_Voice_06-07-2021_10-46.zip
 * Hindi | swayamprabha_chapter_6 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_6_06-07-2021_11-24.zip
+* Hindi | swayamprabha_chapter_25 | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_25_06-07-2021_14-08.zip
+* Hindi | Stage_Time | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/Stage_Time_06-07-2021_12-27.zip
+* Hindi | STAGE | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/STAGE_06-07-2021_12-36.zip
+* Hindi | KalaManthan | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/KalaManthan_06-07-2021_12-09.zip

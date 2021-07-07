@@ -16,3 +16,5 @@
 * Hindi | STAGE | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/STAGE_06-07-2021_12-36.zip
 * Hindi | KalaManthan | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/KalaManthan_06-07-2021_12-09.zip
 * Hindi | swayamprabha_chapter_30 | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_30_06-07-2021_16-32.zip
+* Hindi | puliyabaazi | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/puliyabaazi_07-07-2021_03-46.zip
+* Hindi | DD_JHARKHAND 1st part | Labelled  | https://storage.googleapis.com/test_public_bucket/labelled/DD_Jharkhand_07-07-2021_04-02.zip

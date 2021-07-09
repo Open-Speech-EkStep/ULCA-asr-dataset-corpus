@@ -30,3 +30,5 @@
 * Hindi | DD_NEWS PART 2 | Labelled |  https://storage.googleapis.com/test_public_bucket/labelled/DD_news_08-07-2021_10-22.zip
 * Hindi | THE_MODERN_POETS | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/THE_MODERN_POETS_08-07-2021_09-51.zip
 * Hindi | kalArt | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/kalArt_08-07-2021_09-53.zip
+* Hindi | Vividh_Bharti_Mumbai | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Vividh_Bharti_Mumbai_09-07-2021_08-24.zip
+* Hindi | Krishi_Darshan_2 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_2_09-07-2021_07-14.zip

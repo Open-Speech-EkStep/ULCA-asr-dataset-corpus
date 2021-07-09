@@ -25,4 +25,8 @@
 * Hindi | DD_JHARKHAND 2nd part | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/DD_Jharkhand_07-07-2021_04-16.zip
 * Hindi |STAGE 2nd part | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/STAGE_07-07-2021_09-28.zip
 * Hindi | swayamprabha_chapter_26 | Labelled  |https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_26_08-07-2021_07-48.zip
-* Hindi | swayamprabha_chapter_24 | Labelledhttps://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_24_08-07-2021_07-46.zip
+* Hindi | swayamprabha_chapter_24 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_24_08-07-2021_07-46.zip
+* Hindi | DD_NEWS PART 1 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/DD_news_08-07-2021_10-00.zip
+* Hindi | DD_NEWS PART 2 | Labelled |  https://storage.googleapis.com/test_public_bucket/labelled/DD_news_08-07-2021_10-22.zip
+* Hindi | THE_MODERN_POETS | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/THE_MODERN_POETS_08-07-2021_09-51.zip
+* Hindi | kalArt | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/kalArt_08-07-2021_09-53.zip

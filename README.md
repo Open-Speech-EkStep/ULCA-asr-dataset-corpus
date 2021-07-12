@@ -41,3 +41,4 @@ General | swayamprabha_chapter_1 First | Labelled | [swayamprabha_chapter_1 Firs
 General | swayamprabha_chapter_1 Second | Labelled | [swayamprabha_chapter_1 Second](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_05-03.zip)
 General | swayamprabha_chapter_1 Third | Labelled | [swayamprabha_chapter_1 Third](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_06-05.zip)
 General | swayamprabha_chapter_1 Fourth | Labelled | [swayamprabha_chapter_1 Fourth](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_06-23.zip)
+General | swayamprabha_chapter_28 | Labelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_28_12-07-2021_08-11.zip)

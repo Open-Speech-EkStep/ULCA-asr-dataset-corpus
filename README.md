@@ -34,3 +34,4 @@
 * Hindi | Krishi_Darshan_2 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_2_09-07-2021_07-14.zip
 * Hindi | Nojoto_App_Open_Mic | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/Nojoto_App_Open_Mic_09-07-2021_11-01.zip
 * Hindi | swayamprabha_chapter_4 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_4_09-07-2021_09-02.zip
+* Hindi | swayamprabha_chapter_3 | Labelled | https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_3_10-07-2021_06-55.zip

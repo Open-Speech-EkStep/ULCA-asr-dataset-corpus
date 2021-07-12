@@ -37,4 +37,5 @@ General | Krishi_Darshan_2 | Labelled | [Krishi_Darshan_2](https://storage.googl
 General | Nojoto_App_Open_Mic | Labelled | [Nojoto_App_Open_Mic](https://storage.googleapis.com/test_public_bucket/labelled/Nojoto_App_Open_Mic_09-07-2021_11-01.zip)
 General | swayamprabha_chapter_4 | Labelled | [swayamprabha_chapter_4](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_4_09-07-2021_09-02.zip)
 General | swayamprabha_chapter_3 | Labelled | [swayamprabha_chapter_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_3_10-07-2021_06-55.zip)
-
+General | swayamprabha_chapter_1 First | Labelled | [swayamprabha_chapter_1 First](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_05-24.zip)
+General | swayamprabha_chapter_1 Second | Labelled | [swayamprabha_chapter_1 Second](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_05-03.zip)

@@ -50,3 +50,7 @@ General | Nojoto_App | Labelled | [Nojoto_App](https://storage.googleapis.com/te
 General | Krishi_Darshan_1 | Labelled | [Krishi_Darshan_1](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_04-18.zip)
 General | Krishi_Darshan_2 | Labelled | [Krishi_Darshan_2](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_07-01.zip)
 General | Krishi_Darshan_3 | Labelled | [Krishi_Darshan_3](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_09-29.zip)
+General | DD_Kisan_1 | Labelled | [DD_Kisan_1](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_04-30.zip)
+General | DD_Kisan_2 | Labelled | [DD_Kisan_2](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_03-54.zip)
+General | DD_Kisan_3 | Labelled | [DD_Kisan_3](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_03-26.zip)
+General | DD_Kisan_4 | Labelled | [DD_Kisan_4](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_15-07-2021_12-22.zip)

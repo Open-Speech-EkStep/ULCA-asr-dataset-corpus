@@ -55,3 +55,7 @@ General | DD_Kisan_2 | Labelled | [DD_Kisan_2](https://storage.googleapis.com/te
 General | DD_Kisan_3 | Labelled | [DD_Kisan_3](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_03-26.zip)
 General | DD_Kisan_4 | Labelled | [DD_Kisan_4](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_15-07-2021_12-22.zip)
 General | DD_Madhya_Pradesh_1 | Labelled | [DD_Madhya_Pradesh_1](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_16-07-2021_05-58.zip)
+General | DD_Madhya_Pradesh_2 | Labelled | [DD_Madhya_Pradesh_2](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_16-07-2021_09-30.zip)
+General | DD_Madhya_Pradesh_3 | Labelled | [DD_Madhya_Pradesh_3](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_05-50.zip)
+General | DD_Madhya_Pradesh_4 | Labelled | [DD_Madhya_Pradesh_4](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_06-33.zip)
+General | DD_Madhya_Pradesh_5 | Labelled | [DD_Madhya_Pradesh_5](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_06-54.zip)

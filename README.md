@@ -69,4 +69,5 @@ General | NEWS_ON_AIR_OFFICIAL_3 | Labelled | [NEWS_ON_AIR_OFFICIAL_3](https://s
 ### `Tamil`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
-General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip)
+General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) 
+General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip) 

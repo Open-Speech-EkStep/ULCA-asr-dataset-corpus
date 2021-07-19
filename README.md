@@ -59,3 +59,7 @@ General | DD_Madhya_Pradesh_2 | Labelled | [DD_Madhya_Pradesh_2](https://storage
 General | DD_Madhya_Pradesh_3 | Labelled | [DD_Madhya_Pradesh_3](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_05-50.zip)
 General | DD_Madhya_Pradesh_4 | Labelled | [DD_Madhya_Pradesh_4](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_06-33.zip)
 General | DD_Madhya_Pradesh_5 | Labelled | [DD_Madhya_Pradesh_5](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_06-54.zip)
+General | swayamprabha_chapter_32_1 | Labelled | [swayamprabha_chapter_32_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_07-54.zip)
+General | swayamprabha_chapter_32_2 | Labelled | [swayamprabha_chapter_32_2](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-16.zip)
+General | swayamprabha_chapter_32_3 | Labelled | [swayamprabha_chapter_32_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-35.zip)
+General | swayamprabha_chapter_32_4 | Labelled | [swayamprabha_chapter_32_4](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-54.zip)

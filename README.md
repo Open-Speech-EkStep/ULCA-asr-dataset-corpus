@@ -63,3 +63,7 @@ General | swayamprabha_chapter_32_1 | Labelled | [swayamprabha_chapter_32_1](htt
 General | swayamprabha_chapter_32_2 | Labelled | [swayamprabha_chapter_32_2](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-16.zip)
 General | swayamprabha_chapter_32_3 | Labelled | [swayamprabha_chapter_32_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-35.zip)
 General | swayamprabha_chapter_32_4 | Labelled | [swayamprabha_chapter_32_4](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-54.zip)
+### `Tamil`
+Domain | Source | Type | Corpus_Download_link |  
+:--- |:--- | :---: | :---: |
+General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip)

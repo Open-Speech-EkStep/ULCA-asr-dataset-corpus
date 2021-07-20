@@ -71,3 +71,8 @@ Domain | Source | Type | Corpus_Download_link |
 :--- |:--- | :---: | :---: |
 General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) 
 General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip) 
+### `Kannada`
+Domain | Source | Type | Corpus_Download_link |  
+:--- |:--- | :---: | :---: |
+General | Nimma_Upendra | Labelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/labelled/Nimma_Upendra_20-07-2021_11-18.zip) 
+General | Tech_in_Kannada| Labelled | [Tech_in_Kannada](https://storage.googleapis.com/test_public_bucket/labelled/Tech_in_Kannada_20-07-2021_11-22.zip) 

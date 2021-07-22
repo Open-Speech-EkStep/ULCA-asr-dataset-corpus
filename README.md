@@ -103,9 +103,20 @@ General | Astroyogi_Kannada_3 | Labelled | [Astroyogi_Kannada_3](https://storage
 General | Astroyogi_Kannada_4 | Labelled | [Astroyogi_Kannada_4](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-45.zip) 
 General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/labelled/sadhgurukannada_20-07-2021_13-26.zip) 
 General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) 
+### `Bengali Labelled`
+Domain | Source | Type | Corpus_Download_link |  
+:--- |:--- | :---: | :---: |
+General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip)
+General | CTVN_AKD_PLUS_2 | Labelled | [CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-42.zip) 
 ### `Bengali Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+General | News18_Bangla_1 | Unlabelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-28.zip)
+General | News18_Bangla_2 | Unlabelled | [News18_Bangla_2](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-38.zip)
+General | News18_Bangla_3 | Unlabelled | [News18_Bangla_3](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-49.zip)
+General | News18_Bangla_4 | Unlabelled | [News18_Bangla_4](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-58.zip)
+General | News18_Bangla_5 | Unlabelled | [News18_Bangla_5](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_06-11.zip)
+General | News18_Bangla_6 | Unlabelled | [News18_Bangla_6](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_06-21.zip)
 ### `Assamese Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

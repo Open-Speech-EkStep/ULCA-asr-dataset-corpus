@@ -117,6 +117,17 @@ General | News18_Bangla_3 | Unlabelled | [News18_Bangla_3](https://storage.googl
 General | News18_Bangla_4 | Unlabelled | [News18_Bangla_4](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-58.zip)
 General | News18_Bangla_5 | Unlabelled | [News18_Bangla_5](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_06-11.zip)
 General | News18_Bangla_6 | Unlabelled | [News18_Bangla_6](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_06-21.zip)
+General | News18_Bangla_7 | Unlabelled | [News18_Bangla_7](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_two_21-07-2021_05-31.zip)
+General | Babai_Da | Unlabelled | [Babai_Da](https://storage.googleapis.com/test_public_bucket/unlabelled/Babai_Da_21-07-2021_06-30.zip)
+General | Bangla_World_Service_AIR_1 | Unlabelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bangla_World_Service_AIR_21-07-2021_06-40.zip)
+General | Bangla_World_Service_AIR_2 | Unlabelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Bangla_World_Service_AIR_21-07-2021_06-52.zip)
+General | Mirchi_Bangla_1 | Unlabelled | [Mirchi_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_06-40.zip)
+General | Mirchi_Bangla_2 | Unlabelled | [Mirchi_Bangla_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_06-52.zip)
+General | Mirchi_Bangla_3 | Unlabelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-36.zip)
+General | Mirchi_Bangla_4 | Unlabelled | [Mirchi_Bangla_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-46.zip)
+General | Mirchi_Bangla_5 | Unlabelled | [Mirchi_Bangla_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-56.zip)
+General | Podcast_Bangla | Unlabelled | [Podcast_Bangla](https://storage.googleapis.com/test_public_bucket/unlabelled/Podcast_Bangla_21-07-2021_06-42.zip)
+General | Eso_Golpo_Kori | Unlabelled | [Eso_Golpo_Kori](https://storage.googleapis.com/test_public_bucket/unlabelled/Eso_Golpo_Kori_21-07-2021_06-49.zip)
 ### `Assamese Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

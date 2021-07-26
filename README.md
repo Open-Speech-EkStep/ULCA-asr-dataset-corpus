@@ -92,6 +92,14 @@ General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https
 ### `Tamil Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+### `English Labelled`
+Domain | Source | Type | Corpus_Download_link |  
+:--- |:--- | :---: | :---: |
+Philosophy | Sadhguru_1 | Labelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_06-46.zip) 
+Philosophy | Sadhguru_2 | Labelled | [Sadhguru_2](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_07-09.zip)
+### `English Unlabelled`
+Domain | Source | Type | Corpus_Download_link |  
+:--- |:--- | :---: | :---: |
 ### `Kannada Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

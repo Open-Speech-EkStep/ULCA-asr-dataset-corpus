@@ -170,7 +170,7 @@ Education | Unacademy-KarnatakaPSC_non_cc_4 | Unlabelled | [Unacademy-KarnatakaP
 Education | Unacademy-KarnatakaPSC_non_cc_5 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
 General | Total_Kannada_1 | Unlabelled | [Total_Kannada_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Total_Kannada1_27-07-2021_10-05.zip)
 General | Total_Kannada_2 | Unlabelled | [Total_Kannada_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Total_Kannada1_27-07-2021_10-11.zip)
-Philosophy | sadhgurukannada | Unlabelled | [Unlabelled](https://storage.googleapis.com/test_public_bucket/unlabelled/sadhgurukannada_29-07-2021_08-21.zip)
+Philosophy | sadhgurukannada | Unlabelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/unlabelled/sadhgurukannada_29-07-2021_08-21.zip)
 ### `Urdu Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

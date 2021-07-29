@@ -97,6 +97,13 @@ Domain | Source | Type | Corpus_Download_link |
 :--- |:--- | :---: | :---: |
 Philosophy | Sadhguru_1 | Labelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_06-46.zip) 
 Philosophy | Sadhguru_2 | Labelled | [Sadhguru_2](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_07-09.zip)
+Education | CEC_English_1 | Labelled | [CEC_English_1](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_06-46.zip)
+Education | CEC_English_2 | Labelled | [CEC_English_2](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_07-14.zip)
+Education | CEC_English_3 | Labelled | [CEC_English_3](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_07-40.zip)
+Education | CEC_English_4 | Labelled | [CEC_English_4](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_08-02.zip)
+Education | CEC_English_5 | Labelled | [CEC_English_5](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_08-26.zip)
+Education | CEC_English_6 | Labelled | [CEC_English_6](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_09-01.zip)
+Education | CEC_English_7 | Labelled | [CEC_English_7](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_09-33.zip)
 ### `English Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
@@ -148,27 +155,3 @@ Domain | Source | Type | Corpus_Download_link |
 ### `Malayalam Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
-
-### `Hindi Unlabelled External`
-Domain | Source | Corpus_Download_link |  
-:--- |:--- | :---: |
-Education | IITM_ASR_TTS_Female_hi_un | [IITM_ASR_TTS_Female_hi](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_hi_28-07-2021_13-23.zip)
-Education | IITM_ASR_TTS_male_hi_un | [IITM_ASR_TTS_male_hi](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_hi_28-07-2021_15-53.zip)
-
-### `English Unlabelled External`
-Domain | Source | Corpus_Download_link |  
-:--- |:--- | :---: |
-Education | IITM_ASR_TTS_Female_en_un | [IITM_ASR_TTS_Female_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_IN-EN_28-07-2021_11-38.zip)
-Education | IITM_ASR_TTS_Male_en_un | [IITM_ASR_TTS_Male_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_IN-EN_28-07-2021_10-32.zip)
-
-### `Hindi labelled External`
-Domain | Source | Corpus_Download_link |  
-:--- |:--- | :---: |
-Education | IITM_ASR_TTS_Female_hi_la | [IITM_ASR_TTS_Female_hi](https://storage.googleapis.com/test_public_bucket/external/labelled/IITM_ASR_TTS_Female_hi_28-07-2021_13-33.zip)
-Education | IITM_ASR_TTS_male_hi_la | [IITM_ASR_TTS_male_hi](https://storage.googleapis.com/test_public_bucket/external/labelled/IITM_ASR_TTS_Male_hi_28-07-2021_14-10.zip)
-
-### `English labelled External`
-Domain | Source | Corpus_Download_link |  
-:--- |:--- | :---: |
-Education | IITM_ASR_TTS_Female_en_la | [IITM_ASR_TTS_Female_en](https://storage.googleapis.com/test_public_bucket/external/labelled/IITM_ASR_TTS_Female_IN-EN_28-07-2021_11-21.zip)
-Education | IITM_ASR_TTS_Male_en_la | [IITM_ASR_TTS_Male_en](https://storage.googleapis.com/test_public_bucket/external/labelled/IITM_ASR_TTS_Male_IN-EN_28-07-2021_11-01.zip)

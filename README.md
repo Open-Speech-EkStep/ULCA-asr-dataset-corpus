@@ -223,6 +223,27 @@ Education | Unacademy_GPSC_1 | Unlabelled | [Unacademy_GPSC_1](https://storage.g
 Education | Unacademy_GPSC_2 | Unlabelled | [Unacademy_GPSC_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-15.zip)
 News | Aakashwani_Mumbai_1 | Unlabelled | [Aakashwani_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-25.zip)
 News | Aakashwani_Mumbai_2 | Unlabelled | [Aakashwani_Mumbai_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-31.zip)
-### `Malayalam Unlabelled`
+### `Telugu Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+News | Zee_Telugu | Unlabelled | [Zee_Telugu](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Telugu_22-07-2021_08-46.zip)
+News | BBC_News_Telugu_1 | Unlabelled | [BBC_News_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-01.zip)
+News | BBC_News_Telugu_2 | Unlabelled | [BBC_News_Telugu_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-09.zip)
+News | BBC_News_Telugu_3 | Unlabelled | [BBC_News_Telugu_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-18.zip)
+News | BBC_News_Telugu_4 | Unlabelled | [BBC_News_Telugu_4](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-28.zip)
+News | BBC_News_Telugu_5 | Unlabelled | [BBC_News_Telugu_5](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-37.zip)
+News | DD_Saptagiri_1 | Unlabelled | [DD_Saptagiri_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_07-47.zip)
+News | DD_Saptagiri_2 | Unlabelled | [DD_Saptagiri_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_08-02.zip)
+News | DD_Saptagiri_3 | Unlabelled | [DD_Saptagiri_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_08-10.zip)
+News | Telangana_Sahitya_Akademi_1 | Unlabelled | [Telangana_Sahitya_Akademi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_07-47.zip)
+News | Telangana_Sahitya_Akademi_2 | Unlabelled | [Telangana_Sahitya_Akademi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_08-00.zip)
+News | Telangana_Sahitya_Akademi_3 | Unlabelled | [Telangana_Sahitya_Akademi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_08-10.zip)
+News | Telangana_Sahitya_Akademi_4 | Unlabelled | [Telangana_Sahitya_Akademi_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_08-18.zip)
+Philosophy | Josh_Talks_Telugu_1 | Unlabelled | [Josh_Talks_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Telugu_22-07-2021_07-47.zip)
+Philosophy | Josh_Talks_Telugu_1 | Unlabelled | [Josh_Talks_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Telugu_22-07-2021_08-00.zip)
+Entertainment | iDream_Telugu_Movies_1 | Unlabelled | [iDream_Telugu_Movies_1](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-01.zip)
+Entertainment | iDream_Telugu_Movies_2 | Unlabelled | [iDream_Telugu_Movies_2](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-09.zip)
+Entertainment | iDream_Telugu_Movies_3 | Unlabelled | [iDream_Telugu_Movies_3](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-18.zip)
+Entertainment | iDream_Telugu_Movies_4 | Unlabelled | [iDream_Telugu_Movies_4](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-28.zip)
+Entertainment | iDream_Telugu_Movies_5 | Unlabelled | [iDream_Telugu_Movies_5](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-37.zip)
+Entertainment | Chai_Bisket_Stories | Unlabelled | [Chai_Bisket_Stories](https://storage.googleapis.com/test_public_bucket/unlabelled/Chai_Bisket_Stories_22-07-2021_06-21.zip)

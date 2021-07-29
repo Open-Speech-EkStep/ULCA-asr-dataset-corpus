@@ -186,6 +186,7 @@ News | Daily_Post_Punjabi_2_5 | Unlabelled | [Daily_Post_Punjabi_2_5](https://st
 News | Daily_Post_Punjabi_2_6 | Unlabelled | [Daily_Post_Punjabi_2_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-21.zip)
 News | Daily_Post_Punjabi_2_7 | Unlabelled | [Daily_Post_Punjabi_2_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-29.zip)
 News | Daily_Post_Punjabi_2_8 | Unlabelled | [Daily_Post_Punjabi_2_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-37.zip)
+News | Edusat_punjabi | Unlabelled | [Edusat_punjabi](https://storage.googleapis.com/test_public_bucket/unlabelled/Edusat_punjabi_26-07-2021_20-33.zip)
 ### `Marathi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

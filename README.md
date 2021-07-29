@@ -168,6 +168,8 @@ Education | Unacademy-KarnatakaPSC_non_cc_2 | Unlabelled | [Unacademy-KarnatakaP
 Education | Unacademy-KarnatakaPSC_non_cc_3 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-02.zip)
 Education | Unacademy-KarnatakaPSC_non_cc_4 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-07.zip)
 Education | Unacademy-KarnatakaPSC_non_cc_5 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
+General | Total_Kannada_1 | Unlabelled | [Total_Kannada_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Total_Kannada1_27-07-2021_10-05.zip)
+General | Total_Kannada_2 | Unlabelled | [Total_Kannada_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Total_Kannada1_27-07-2021_10-11.zip)
 ### `Urdu Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

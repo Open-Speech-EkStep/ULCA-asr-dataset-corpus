@@ -198,9 +198,31 @@ Philosophy | Josh_Talks_Punjabi | Unlabelled | [Josh_Talks_Punjabi](https://stor
 News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-34.zip)
 News | Daily_Post_Punjab_News_2 | Unlabelled | [Daily_Post_Punjab_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-48.zip)
 News | Daily_Post_Punjab_News_3 | Unlabelled | [Daily_Post_Punjab_News_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_21-01.zip)
-### `Marathi Unlabelled`
+### `Gujarati Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+News | DD_News_Gujarati_1 | Unlabelled | [DD_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-19.zip)
+News | DD_News_Gujarati_2 | Unlabelled | [DD_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-28.zip)
+News | DD_News_Gujarati_3 | Unlabelled | [DD_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-36.zip)
+News | DD_News_Gujarati_4 | Unlabelled | [DD_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-46.zip)
+News | DD_News_Gujarati_5 | Unlabelled | [DD_News_Gujarati_5](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-53.zip)
+News | DD_News_Gujarati_6 | Unlabelled | [DD_News_Gujarati_6](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-59.zip)
+News | BBC_News_Gujarati_1 | Unlabelled | [BBC_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-19.zip)
+News | BBC_News_Gujarati_2 | Unlabelled | [BBC_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-28.zip)
+News | BBC_News_Gujarati_3 | Unlabelled | [BBC_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-36.zip)
+News | BBC_News_Gujarati_4 | Unlabelled | [BBC_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-46.zip)
+Literature | Gujarat_Sahitya_Academy_1 | Unlabelled | [Gujarat_Sahitya_Academy_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-19.zip)
+Literature | Gujarat_Sahitya_Academy_2 | Unlabelled | [Gujarat_Sahitya_Academy_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-28.zip)
+Literature | Gujarat_Sahitya_Academy_3 | Unlabelled | [Gujarat_Sahitya_Academy_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-36.zip)
+Literature | Gujarat_Sahitya_Academy_4 | Unlabelled | [Gujarat_Sahitya_Academy_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-46.zip)
+News | AIR_News_Gujarati_1 | Unlabelled | [AIR_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-08.zip)
+News | AIR_News_Gujarati_2 | Unlabelled | [AIR_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-16.zip)
+News | AIR_News_Gujarati_3 | Unlabelled | [AIR_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-23.zip)
+News | AIR_News_Gujarati_4 | Unlabelled | [AIR_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-29.zip)
+Education | Unacademy_GPSC_1 | Unlabelled | [Unacademy_GPSC_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-08.zip)
+Education | Unacademy_GPSC_2 | Unlabelled | [Unacademy_GPSC_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-15.zip)
+News | Aakashwani_Mumbai_1 | Unlabelled | [Aakashwani_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-25.zip)
+News | Aakashwani_Mumbai_2 | Unlabelled | [Aakashwani_Mumbai_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-31.zip)
 ### `Malayalam Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

@@ -172,9 +172,12 @@ General | Total_Kannada_1 | Unlabelled | [Total_Kannada_1](https://storage.googl
 General | Total_Kannada_2 | Unlabelled | [Total_Kannada_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Total_Kannada1_27-07-2021_10-11.zip)
 Philosophy | sadhgurukannada | Unlabelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/unlabelled/sadhgurukannada_29-07-2021_08-21.zip)
 Entertainment | Nimma_Upendra | Unlabelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/unlabelled/Nimma_Upendra_29-07-2021_08-39.zip)
-### `Urdu Unlabelled`
+### `Punjabi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+News | Daily_Post_Punjabi_1_1 | Unlabelled | [Daily_Post_Punjabi_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-06.zip)
+News | Daily_Post_Punjabi_1_2 | Unlabelled | [Daily_Post_Punjabi_1_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-15.zip)
+News | Daily_Post_Punjabi_1_3 | Unlabelled | [Daily_Post_Punjabi_1_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-26.zip)
 ### `Marathi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

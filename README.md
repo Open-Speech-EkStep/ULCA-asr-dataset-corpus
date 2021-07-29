@@ -84,6 +84,9 @@ General | LSTV_YT_15 | Labelled | [LSTV_YT_15](https://storage.googleapis.com/te
 General | LSTV_YT_16 | Labelled | [LSTV_YT_16](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_23-49.zip)
 General | LSTV_YT_17 | Labelled | [LSTV_YT_17](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_21-07-2021_00-11.zip)
 General | LSTV_YT_18 | Labelled | [LSTV_YT_18](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_21-07-2021_00-33.zip)
+Education | swayamprabha_chapter_5_1 | Labelled | [swayamprabha_chapter_5_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_19-57.zip)
+Education | swayamprabha_chapter_5_2 | Labelled | [swayamprabha_chapter_5_2](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-07.zip)
+Education | swayamprabha_chapter_5_3 | Labelled | [swayamprabha_chapter_5_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-18.zip)
 ### `Tamil Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

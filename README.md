@@ -160,9 +160,14 @@ News | DD_News_Odia_Official_1 | Unlabelled | [DD_News_Odia_Official_1](https://
 News | DD_News_Odia_Official_2 | Unlabelled | [DD_News_Odia_Official_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-58.zip)
 News | DD_News_Odia_Official_3 | Unlabelled | [DD_News_Odia_Official_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_11-04.zip)
 News | Mann_Ki_Baat_odia | Unlabelled | [Mann_Ki_Baat_odia](https://storage.googleapis.com/test_public_bucket/unlabelled/Mann_Ki_Baat_odia_27-07-2021_10-52.zip)
-### `Assamese Unlabelled`
+### `Kannada Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+Education | Unacademy-KarnatakaPSC_non_cc_1 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-51.zip)
+Education | Unacademy-KarnatakaPSC_non_cc_2 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-56.zip)
+Education | Unacademy-KarnatakaPSC_non_cc_3 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-02.zip)
+Education | Unacademy-KarnatakaPSC_non_cc_4 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-07.zip)
+Education | Unacademy-KarnatakaPSC_non_cc_5 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
 ### `Urdu Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

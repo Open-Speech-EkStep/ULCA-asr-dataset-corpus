@@ -178,6 +178,14 @@ Domain | Source | Type | Corpus_Download_link |
 News | Daily_Post_Punjabi_1_1 | Unlabelled | [Daily_Post_Punjabi_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-06.zip)
 News | Daily_Post_Punjabi_1_2 | Unlabelled | [Daily_Post_Punjabi_1_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-15.zip)
 News | Daily_Post_Punjabi_1_3 | Unlabelled | [Daily_Post_Punjabi_1_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-26.zip)
+News | Daily_Post_Punjabi_2_1 | Unlabelled | [Daily_Post_Punjabi_2_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-37.zip)
+News | Daily_Post_Punjabi_2_2 | Unlabelled | [Daily_Post_Punjabi_2_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-46.zip)
+News | Daily_Post_Punjabi_2_3 | Unlabelled | [Daily_Post_Punjabi_2_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-55.zip)
+News | Daily_Post_Punjabi_2_4 | Unlabelled | [Daily_Post_Punjabi_2_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-03.zip)
+News | Daily_Post_Punjabi_2_5 | Unlabelled | [Daily_Post_Punjabi_2_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-13.zip)
+News | Daily_Post_Punjabi_2_6 | Unlabelled | [Daily_Post_Punjabi_2_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-21.zip)
+News | Daily_Post_Punjabi_2_7 | Unlabelled | [Daily_Post_Punjabi_2_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-29.zip)
+News | Daily_Post_Punjabi_2_8 | Unlabelled | [Daily_Post_Punjabi_2_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-37.zip)
 ### `Marathi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

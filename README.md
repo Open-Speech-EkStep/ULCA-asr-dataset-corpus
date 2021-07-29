@@ -191,6 +191,9 @@ Entertainment | Pitaara_TV | Unlabelled | [Pitaara_TV](https://storage.googleapi
 News | BBC_News_Punjabi_1 | Unlabelled | [BBC_News_Punjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-06.zip)
 News | BBC_News_Punjabi_2 | Unlabelled | [BBC_News_Punjabi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-15.zip)
 News | BBC_News_Punjabi_3 | Unlabelled | [BBC_News_Punjabi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-26.zip)
+News | ddpunjabi_1 | Unlabelled | [ddpunjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-33.zip)
+News | ddpunjabi_2 | Unlabelled | [ddpunjabi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-48.zip)
+News | ddpunjabi_3 | Unlabelled | [ddpunjabi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_21-01.zip)
 ### `Marathi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

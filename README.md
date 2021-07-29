@@ -194,6 +194,10 @@ News | BBC_News_Punjabi_3 | Unlabelled | [BBC_News_Punjabi_3](https://storage.go
 News | ddpunjabi_1 | Unlabelled | [ddpunjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-33.zip)
 News | ddpunjabi_2 | Unlabelled | [ddpunjabi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-48.zip)
 News | ddpunjabi_3 | Unlabelled | [ddpunjabi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_21-01.zip)
+Philosophy | Josh_Talks_Punjabi | Unlabelled | [Josh_Talks_Punjabi](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Punjabi_26-07-2021_20-37.zip)
+News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-34.zip)
+News | Daily_Post_Punjab_News_2 | Unlabelled | [Daily_Post_Punjab_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-48.zip)
+News | Daily_Post_Punjab_News_3 | Unlabelled | [Daily_Post_Punjab_News_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_21-01.zip)
 ### `Marathi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

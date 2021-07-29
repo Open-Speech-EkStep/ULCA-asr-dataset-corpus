@@ -87,6 +87,13 @@ General | LSTV_YT_18 | Labelled | [LSTV_YT_18](https://storage.googleapis.com/te
 Education | swayamprabha_chapter_5_1 | Labelled | [swayamprabha_chapter_5_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_19-57.zip)
 Education | swayamprabha_chapter_5_2 | Labelled | [swayamprabha_chapter_5_2](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-07.zip)
 Education | swayamprabha_chapter_5_3 | Labelled | [swayamprabha_chapter_5_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-18.zip)
+News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_07-24.zip)
+News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-00.zip)
+News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-29.zip)
+News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-50.zip)
+News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
+News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
+News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
 ### `Tamil Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

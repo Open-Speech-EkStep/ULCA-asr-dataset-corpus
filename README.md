@@ -99,6 +99,12 @@ Domain | Source | Type | Corpus_Download_link |
 :--- |:--- | :---: | :---: |
 General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) 
 General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip)
+Education | Tamil_Education_1 | Labelled | [Tamil_Education_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_09-53.zip)
+Education | Tamil_Education_2 | Labelled | [Tamil_Education_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_10-02.zip)
+Education | Tamil_Education_3 | Labelled | [Tamil_Education_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_11-10.zip)
+Religion | Tamil_Pechu_1 | Labelled | [Tamil_Pechu_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_09-53.zip)
+Religion | Tamil_Pechu_2 | Labelled | [Tamil_Pechu_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_10-02.zip)
+Religion | Tamil_Pechu_3 | Labelled | [Tamil_Pechu_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_11-10.zip)
 ### `English Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

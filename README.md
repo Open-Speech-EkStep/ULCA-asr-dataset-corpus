@@ -401,6 +401,8 @@ General | CA_in_Tamil | Unlabelled | [CA_in_Tamil](https://storage.googleapis.co
 General | Buff_Tutorial_Tamil | Unlabelled | [Buff_Tutorial_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Buff_Tutorial_Tamil_21-07-2021_08-15.zip)
 General | A_Tech_Tamil | Unlabelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/A_Tech_Tamil_21-07-2021_08-15.zip)
 General | Azhagu_Tamil_Kudil | Unlabelled | [Azhagu_Tamil_Kudil](https://storage.googleapis.com/test_public_bucket/unlabelled/Azhagu_Tamil_Kudil_21-07-2021_09-39.zip)
+Technology | Electrical_Express_Tamil | Unlabelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Electrical_Express_Tamil_30-07-2021_10-18.zip)
+Education | Dilse_Tamil | Unlabelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Dilse_Tamil_30-07-2021_10-18.zip)
 ### `Hindi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

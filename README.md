@@ -132,6 +132,7 @@ Domain | Source | Type | Corpus_Download_link |
 :--- |:--- | :---: | :---: |
 General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip)
 General | CTVN_AKD_PLUS_2 | Labelled | [CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-42.zip) 
+News | News18_Bangla_two | Labelled | [News18_Bangla_two](https://storage.googleapis.com/test_public_bucket/labelled/News18_Bangla_two_29-07-2021_06-03.zip)
 ### `Bengali Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

@@ -111,6 +111,11 @@ Education | CEC_English_4 | Labelled | [CEC_English_4](https://storage.googleapi
 Education | CEC_English_5 | Labelled | [CEC_English_5](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_08-26.zip)
 Education | CEC_English_6 | Labelled | [CEC_English_6](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_09-01.zip)
 Education | CEC_English_7 | Labelled | [CEC_English_7](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_09-33.zip)
+News | News_on_AIR_English_1 | Labelled | [News_on_AIR_English_1](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_10-06.zip)
+News | News_on_AIR_English_2 | Labelled | [News_on_AIR_English_2](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_10-44.zip)
+News | News_on_AIR_English_3 | Labelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-23.zip)
+News | News_on_AIR_English_4 | Labelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-57.zip)
+News | News_on_AIR_English_5 | Labelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_12-33.zip)
 ### `Kannada Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

@@ -164,6 +164,8 @@ General | Mirchi_Bangla_4 | Unlabelled | [Mirchi_Bangla_4](https://storage.googl
 General | Mirchi_Bangla_5 | Unlabelled | [Mirchi_Bangla_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-56.zip)
 General | Podcast_Bangla | Unlabelled | [Podcast_Bangla](https://storage.googleapis.com/test_public_bucket/unlabelled/Podcast_Bangla_21-07-2021_06-42.zip)
 General | Eso_Golpo_Kori | Unlabelled | [Eso_Golpo_Kori](https://storage.googleapis.com/test_public_bucket/unlabelled/Eso_Golpo_Kori_21-07-2021_06-49.zip)
+Religion |  CTVN_AKD_PLUS_1 | Unlabelled | [ CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-33.zip)
+Religion |  CTVN_AKD_PLUS_2 | Unlabelled | [ CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-39.zip)
 ### `Odia Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

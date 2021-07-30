@@ -133,6 +133,11 @@ Domain | Source | Type | Corpus_Download_link |
 General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip)
 General | CTVN_AKD_PLUS_2 | Labelled | [CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-42.zip) 
 News | News18_Bangla_two | Labelled | [News18_Bangla_two](https://storage.googleapis.com/test_public_bucket/labelled/News18_Bangla_two_29-07-2021_06-03.zip)
+Entertainment | Mirchi_Bangla_1 | Labelled | [Mirchi_Bangla_1](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-42.zip)
+Entertainment | Mirchi_Bangla_2 | Labelled | [Mirchi_Bangla_2](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-49.zip)
+Entertainment | Mirchi_Bangla_3 | Labelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-55.zip)
+News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip)
+News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-49.zip)
 ### `Bengali Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

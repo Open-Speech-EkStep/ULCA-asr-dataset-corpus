@@ -105,6 +105,10 @@ Education | Tamil_Education_3 | Labelled | [Tamil_Education_3](https://storage.g
 Religion | Tamil_Pechu_1 | Labelled | [Tamil_Pechu_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_09-53.zip)
 Religion | Tamil_Pechu_2 | Labelled | [Tamil_Pechu_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_10-02.zip)
 Religion | Tamil_Pechu_3 | Labelled | [Tamil_Pechu_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_11-10.zip)
+Sports | Cricket_Talks-Tamil | Labelled | [Cricket_Talks-Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Cricket_Talks-Tamil_03-08-2021_05-59.zip)
+Technology | A_Tech_Tamil | Labelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/A_Tech_Tamil_03-08-2021_06-10.zip)
+Religion | Acting_Christians_Tamil | Labelled | [Acting_Christians_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Acting_Christians_Tamil_03-08-2021_06-09.zip)
+General | CSC_Tamil | Labelled | [CSC_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/CSC_Tamil_03-08-2021_06-11.zip)
 ### `English Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

@@ -1,6 +1,6 @@
 # ULCA-asr-dataset-corpus
-### `Hindi Labelled`
-Domain | Source | Type | Corpus_Download_link | Durartion | 
+### `Hindi Labelled ` _Total Duration is 1847.76 hours_
+Domain | Source | Type | Corpus_Download_link | Duration(hrs) | 
 :--- |:--- | :---: | :---: | :---: |
 General | DD_Science_Vigyan_Prasar | Labelled | [DD_Science_Vigyan_Prasar](https://storage.googleapis.com/test_public_bucket/labelled/DD_Science_Vigyan_Prasar_05-07-2021_10-05.zip) | 0.77
 General | News_on_air | Labelled | [News_on_air](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_30-06-2021_17-40.zip)
@@ -94,8 +94,8 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
-### `Tamil Labelled`
-Domain | Source | Type | Corpus_Download_link |  Duration
+### `Tamil Labelled`  _Total Duration is 392.5 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
 General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) | 3.2
 General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip) | 14.5
@@ -109,8 +109,8 @@ Sports | Cricket_Talks-Tamil | Labelled | [Cricket_Talks-Tamil](https://storage.
 Technology | A_Tech_Tamil | Labelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/A_Tech_Tamil_03-08-2021_06-10.zip) | 6.66
 Religion | Acting_Christians_Tamil | Labelled | [Acting_Christians_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Acting_Christians_Tamil_03-08-2021_06-09.zip) | 1.16
 General | CSC_Tamil | Labelled | [CSC_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/CSC_Tamil_03-08-2021_06-11.zip) | 9.2
-### `English Labelled`
-Domain | Source | Type | Corpus_Download_link |  Duration |
+### `English Labelled`  _Total Duration is 162.81 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs) |
 :--- |:--- | :---: | :---: | :---: |
 Philosophy | Sadhguru_1 | Labelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_06-46.zip) | 58
 Philosophy | Sadhguru_2 | Labelled | [Sadhguru_2](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_07-09.zip)
@@ -126,8 +126,8 @@ News | News_on_AIR_English_2 | Labelled | [News_on_AIR_English_2](https://storag
 News | News_on_AIR_English_3 | Labelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-23.zip)
 News | News_on_AIR_English_4 | Labelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-57.zip)
 News | News_on_AIR_English_5 | Labelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_12-33.zip)
-### `Kannada Labelled`
-Domain | Source | Type | Corpus_Download_link |  Duration
+### `Kannada Labelled`  _Total Duration is 288.72 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
 General | Nimma_Upendra | Labelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/labelled/Nimma_Upendra_20-07-2021_11-18.zip) | 2
 General | Tech_in_Kannada| Labelled | [Tech_in_Kannada](https://storage.googleapis.com/test_public_bucket/labelled/Tech_in_Kannada_20-07-2021_11-22.zip) | 5.88
@@ -139,8 +139,8 @@ General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googlea
 General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) | 17.67
 General | Doordarshan_Chandana_1 | Labelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-38.zip) | 41.3
 General | Doordarshan_Chandana_2 | Labelled | [Doordarshan_Chandana_2](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-47.zip)
-### `Bengali Labelled`
-Domain | Source | Type | Corpus_Download_link |  Duration
+### `Bengali Labelled`  _Total Duration is 130.7 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
 General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip) | 21.7
 General | CTVN_AKD_PLUS_2 | Labelled | [CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-42.zip) 
@@ -150,7 +150,7 @@ Entertainment | Mirchi_Bangla_2 | Labelled | [Mirchi_Bangla_2](https://storage.g
 Entertainment | Mirchi_Bangla_3 | Labelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-55.zip)
 News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip) | 33
 News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-49.zip)
-### `Bengali Unlabelled`
+### `Bengali Unlabelled`  _Total Duration is 234.47 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 General | News18_Bangla_1 | Unlabelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-28.zip)
@@ -172,14 +172,14 @@ General | Podcast_Bangla | Unlabelled | [Podcast_Bangla](https://storage.googlea
 General | Eso_Golpo_Kori | Unlabelled | [Eso_Golpo_Kori](https://storage.googleapis.com/test_public_bucket/unlabelled/Eso_Golpo_Kori_21-07-2021_06-49.zip)
 Religion |  CTVN_AKD_PLUS_1 | Unlabelled | [ CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-33.zip)
 Religion |  CTVN_AKD_PLUS_2 | Unlabelled | [ CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-39.zip)
-### `Odia Unlabelled`
+### `Odia Unlabelled`  _Total Duration is 39.39 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 News | DD_News_Odia_Official_1 | Unlabelled | [DD_News_Odia_Official_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-52.zip)
 News | DD_News_Odia_Official_2 | Unlabelled | [DD_News_Odia_Official_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-58.zip)
 News | DD_News_Odia_Official_3 | Unlabelled | [DD_News_Odia_Official_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_11-04.zip)
 News | Mann_Ki_Baat_odia | Unlabelled | [Mann_Ki_Baat_odia](https://storage.googleapis.com/test_public_bucket/unlabelled/Mann_Ki_Baat_odia_27-07-2021_10-52.zip)
-### `Kannada Unlabelled`
+### `Kannada Unlabelled`  _Total Duration is 239.41 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 Education | Unacademy-KarnatakaPSC_non_cc_1 | Unlabelled | [Unacademy-KarnatakaPSC_non_cc_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-51.zip)
@@ -197,7 +197,7 @@ Genreal | Unacademy-KarnatakaPSC_2 | Unlabelled | [Unacademy-KarnatakaPSC_2](htt
 Genreal | Unacademy-KarnatakaPSC_3 | Unlabelled | [Unacademy-KarnatakaPSC_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-02.zip)
 Genreal | Unacademy-KarnatakaPSC_4 | Unlabelled | [Unacademy-KarnatakaPSC_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-07.zip)
 Genreal | Unacademy-KarnatakaPSC_5 | Unlabelled | [Unacademy-KarnatakaPSC_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
-### `Punjabi Unlabelled`
+### `Punjabi Unlabelled`  _Total Duration is 520.14 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 General | Daily_Post_Punjabi_1_1 | Unlabelled | [Daily_Post_Punjabi_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-06.zip)
@@ -223,7 +223,7 @@ Philosophy | Josh_Talks_Punjabi | Unlabelled | [Josh_Talks_Punjabi](https://stor
 News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-34.zip)
 News | Daily_Post_Punjab_News_2 | Unlabelled | [Daily_Post_Punjab_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-48.zip)
 News | Daily_Post_Punjab_News_3 | Unlabelled | [Daily_Post_Punjab_News_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_21-01.zip)
-### `Gujarati Unlabelled`
+### `Gujarati Unlabelled`  _Total Duration is 284.14 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 News | DD_News_Gujarati_1 | Unlabelled | [DD_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-19.zip)
@@ -248,7 +248,7 @@ General | Unacademy_GPSC_1 | Unlabelled | [Unacademy_GPSC_1](https://storage.goo
 General | Unacademy_GPSC_2 | Unlabelled | [Unacademy_GPSC_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-15.zip)
 General | Aakashwani_Mumbai_1 | Unlabelled | [Aakashwani_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-25.zip)
 General | Aakashwani_Mumbai_2 | Unlabelled | [Aakashwani_Mumbai_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-31.zip)
-### `Telugu Unlabelled`
+### `Telugu Unlabelled`  _Total Duration is 230.09 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 News | Zee_Telugu | Unlabelled | [Zee_Telugu](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Telugu_22-07-2021_08-46.zip)
@@ -272,7 +272,7 @@ General | iDream_Telugu_Movies_3 | Unlabelled | [iDream_Telugu_Movies_3](https:/
 General | iDream_Telugu_Movies_4 | Unlabelled | [iDream_Telugu_Movies_4](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-28.zip)
 General | iDream_Telugu_Movies_5 | Unlabelled | [iDream_Telugu_Movies_5](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-37.zip)
 General | Chai_Bisket_Stories | Unlabelled | [Chai_Bisket_Stories](https://storage.googleapis.com/test_public_bucket/unlabelled/Chai_Bisket_Stories_22-07-2021_06-21.zip)
-### `Marathi Unlabelled`
+### `Marathi Unlabelled`  _Total Duration is 375.6 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 General | Bharatiya_Digital_Party | Unlabelled | [Bharatiya_Digital_Party](https://storage.googleapis.com/test_public_bucket/unlabelled/Bharatiya_Digital_Party_21-07-2021_11-30.zip)
@@ -297,7 +297,7 @@ News | Lokmat_8 | Unlabelled | [Lokmat_8](https://storage.googleapis.com/test_pu
 News | Lokmat_9 | Unlabelled | [Lokmat_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_18-28.zip)
 News | Lokmat_10 | Unlabelled | [Lokmat_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_18-39.zip)
 News | Lokmat_11 | Unlabelled | [Lokmat_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_20-19.zip)
-### `Malayalam Unlabelled`
+### `Malayalam Unlabelled`  _Total Duration is 172.88 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 General | Josh_talks_malayalam_1 | Unlabelled | [Josh_talks_malayalam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_talks_malayalam_21-07-2021_14-04.zip)
@@ -328,7 +328,7 @@ Education | Kerala_Freethinkers_Forum_13 | Unlabelled | [Kerala_Freethinkers_For
 Education | Kerala_Freethinkers_Forum_14 | Unlabelled | [Kerala_Freethinkers_Forum_14](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_15-43.zip)
 Education | Kerala_Freethinkers_Forum_15 | Unlabelled | [Kerala_Freethinkers_Forum_15](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_15-49.zip)
 Education | Kerala_Freethinkers_Forum_16 | Unlabelled | [Kerala_Freethinkers_Forum_16](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_15-54.zip)
-### `Urdu Unlabelled`
+### `Urdu Unlabelled`  _Total Duration is 289.26 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 General | DD_Urdu_News_1 | Unlabelled | [DD_Urdu_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Urdu_News_21-07-2021_14-20.zip)
@@ -357,7 +357,7 @@ Movies | Rewind_with_Samina_Peerzada_5 | Unlabelled | [Rewind_with_Samina_Peerza
 General | cec_urdu_1 | Unlabelled | [cec_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/cec_urdu_21-07-2021_14-20.zip)
 General | cec_urdu_1 | Unlabelled | [cec_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/cec_urdu_21-07-2021_14-38.zip)
 General | DD_urdu_v2 | Unlabelled | [DD_urdu_v2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_urdu_v2_21-07-2021_14-20.zip)
-### `Assamese Unlabelled`
+### `Assamese Unlabelled`  _Total Duration is 270.43 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 General | KKHSOU | Unlabelled | [KKHSOU](https://storage.googleapis.com/test_public_bucket/unlabelled/KKHSOU_21-07-2021_10-55.zip)
@@ -380,7 +380,7 @@ News | AIR_News_Guwahati_4 | Unlabelled | [AIR_News_Guwahati_4](https://storage.
 News | AIR_News_Guwahati_5 | Unlabelled | [AIR_News_Guwahati_5](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-38.zip)
 News | Prag_News_1 | Unlabelled | [Prag_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Prag_News_27-07-2021_07-10.zip)
 News | Prag_News_2 | Unlabelled | [Prag_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Prag_News_27-07-2021_07-16.zip)
-### `Tamil Unlabelled`
+### `Tamil Unlabelled`  _Total Duration is 425.29 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 News | RTV_Tamil_1 | Unlabelled | [RTV_Tamil_1](https://storage.googleapis.com/test_public_bucket/unlabelled/RTV_Tamil_27-07-2021_08-12.zip)
@@ -429,7 +429,7 @@ General | A_Tech_Tamil | Unlabelled | [A_Tech_Tamil](https://storage.googleapis.
 General | Azhagu_Tamil_Kudil | Unlabelled | [Azhagu_Tamil_Kudil](https://storage.googleapis.com/test_public_bucket/unlabelled/Azhagu_Tamil_Kudil_21-07-2021_09-39.zip)
 Technology | Electrical_Express_Tamil | Unlabelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Electrical_Express_Tamil_30-07-2021_10-18.zip)
 Education | Dilse_Tamil | Unlabelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Dilse_Tamil_30-07-2021_10-18.zip)
-### `Hindi Unlabelled`
+### `Hindi Unlabelled`  _Total Duration is 1881.92 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 News | newsonair.nic.in_1 | Unlabelled | [ newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-27.zip)
@@ -539,7 +539,7 @@ Education | swayamprabha_chapter_25 | Unlabelled | [swayamprabha_chapter_25](htt
 Education | swayamprabha_chapter_28 | Unlabelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_28_02-08-2021_10-06.zip)
 Education | swayamprabha_chapter_30 | Unlabelled | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_30_02-08-2021_10-06.zip)
 Art-and-culture | Stage_Time | Unlabelled | [Stage_Time](https://storage.googleapis.com/test_public_bucket/unlabelled/Stage_Time_02-08-2021_10-18.zip)
-### `English Unlabelled`
+### `English Unlabelled`  _Total Duration is 595.64 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 Philosophy | Sadhguru_1 | Unlabelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Sadhguru_30-07-2021_06-33.zip)

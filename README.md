@@ -94,9 +94,21 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
-### `Tamil Labelled`  _Total Duration is 245.49 hours_
+### `Tamil Labelled`  _Total Duration is 425.29 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
+Religion | Dawah_Team_Tamil_Islamic_Bayans_1 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_14-24.zip) | 71.79
+Religion | Dawah_Team_Tamil_Islamic_Bayans_2 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_14-43.zip)
+Religion | Dawah_Team_Tamil_Islamic_Bayans_3 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_15-01.zip)
+Religion | Dawah_Team_Tamil_Islamic_Bayans_4 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_4](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_15-13.zip)
+Healthcare | Ekam_Channel_Tamil | Labelled | [Ekam_Channel_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Ekam_Channel_Tamil_04-08-2021_14-23.zip) | 13.53
+Technology | FoneArena_1 | Labelled | [FoneArena_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_FoneArena_04-08-2021_14-24.zip) | 89.91
+echnology | FoneArena_2 | Labelled | [FoneArena_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_FoneArena_04-08-2021_14-43.zip)
+echnology | FoneArena_3 | Labelled | [FoneArena_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_FoneArena_04-08-2021_14-58.zip)
+echnology | FoneArena_4 | Labelled | [FoneArena_4](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_FoneArena_04-08-2021_15-12.zip)
+News | JPR_TAMIL_NEWS | Labelled | [JPR_TAMIL_NEWS](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_JPR_TAMIL_NEWS_04-08-2021_14-24.zip) | 35.78
+News | RTV_Tamil_1 | Labelled | [RTV_Tamil_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_RTV_Tamil_04-08-2021_14-24.zip) | 43.36
+News | RTV_Tamil_2 | Labelled | [RTV_Tamil_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_RTV_Tamil_04-08-2021_14-40.zip)
 Entertaiment | Mr.Creative_Tamil | Labelled | [Mr.Creative_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Mr.Creative_Tamil_04-08-2021_13-44.zip) | 4.89
 Education | Mathematics_Education_In_Tamil | Labelled | [Mathematics_Education_In_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Mathematics_Education_In_Tamil_04-08-2021_13-44.zip) | 6
 Technology | New_Tech_in_Tamil | Labelled | [New_Tech_in_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_New_Tech_in_Tamil_04-08-2021_13-43.zip) | 1.54

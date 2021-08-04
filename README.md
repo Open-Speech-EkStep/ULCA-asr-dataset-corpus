@@ -94,7 +94,7 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
-### `Tamil Labelled`  _Total Duration is 425.29 hours_
+### `Tamil Labelled`  _Total Duration is 499.86 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
 Religion | Dawah_Team_Tamil_Islamic_Bayans_1 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_14-24.zip) | 71.79

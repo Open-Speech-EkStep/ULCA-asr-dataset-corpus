@@ -1,72 +1,72 @@
 # ULCA-asr-dataset-corpus
 ### `Hindi Labelled`
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | DD_Science_Vigyan_Prasar | Labelled | [DD_Science_Vigyan_Prasar](https://storage.googleapis.com/test_public_bucket/labelled/DD_Science_Vigyan_Prasar_05-07-2021_10-05.zip)
+Domain | Source | Type | Corpus_Download_link | Durartion | 
+:--- |:--- | :---: | :---: | :---: |
+General | DD_Science_Vigyan_Prasar | Labelled | [DD_Science_Vigyan_Prasar](https://storage.googleapis.com/test_public_bucket/labelled/DD_Science_Vigyan_Prasar_05-07-2021_10-05.zip) | 0.77
 General | News_on_air | Labelled | [News_on_air](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_30-06-2021_17-40.zip)
-General | Autoportal | Labelled | [Autoportal](https://storage.googleapis.com/test_public_bucket/labelled/autoportal_05-07-2021_12-17%202.zip)
-General | dhruv_rathee |Labelled | [dhruv_rathee](https://storage.googleapis.com/test_public_bucket/labelled/dhruv_rathee_06-07-2021_07-17.zip)
-General | Tape_A_Tale | Labelled | [Tape_A_Tale](https://storage.googleapis.com/test_public_bucket/labelled/Tape_A_Tale_06-07-2021_10-52.zip)
+General | Autoportal | Labelled | [Autoportal](https://storage.googleapis.com/test_public_bucket/labelled/autoportal_05-07-2021_12-17%202.zip) | 0.95
+General | dhruv_rathee |Labelled | [dhruv_rathee](https://storage.googleapis.com/test_public_bucket/labelled/dhruv_rathee_06-07-2021_07-17.zip) | 1.1
+General | Tape_A_Tale | Labelled | [Tape_A_Tale](https://storage.googleapis.com/test_public_bucket/labelled/Tape_A_Tale_06-07-2021_10-52.zip) | 7.5
 General | Tape_A_Tale 2nd part | Labelled |[Tape_A_Tale 2nd part](https://storage.googleapis.com/test_public_bucket/labelled/Tape_A_Tale_08-07-2021_06-36.zip)
-General | Wordsutra | Labelled | [Wordsutra](https://storage.googleapis.com/test_public_bucket/labelled/Wordsutra_06-07-2021_08-37.zip)
-General | Spill_poetry | Labelled | [Spill_poetry](https://storage.googleapis.com/test_public_bucket/labelled/Spill_Poetry_06-07-2021_10-18.zip)
-General | swayamprabha_chapter_16 | Labelled | [swayamprabha_chapter_16](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_16_06-07-2021_10-39.zip)
-General | Live_By_FnP_Media | Labelled | [Live_By_FnP_Media](https://storage.googleapis.com/test_public_bucket/labelled/Live_By_FnP_Media_06-07-2021_10-36.zip)
-General | Your_Voice | Labelled | [Your_Voice](https://storage.googleapis.com/test_public_bucket/labelled/Your_Voice_06-07-2021_10-46.zip)
+General | Wordsutra | Labelled | [Wordsutra](https://storage.googleapis.com/test_public_bucket/labelled/Wordsutra_06-07-2021_08-37.zip) | 6.77
+General | Spill_poetry | Labelled | [Spill_poetry](https://storage.googleapis.com/test_public_bucket/labelled/Spill_Poetry_06-07-2021_10-18.zip) | 1.15
+General | swayamprabha_chapter_16 | Labelled | [swayamprabha_chapter_16](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_16_06-07-2021_10-39.zip) | 0.9
+General | Live_By_FnP_Media | Labelled | [Live_By_FnP_Media](https://storage.googleapis.com/test_public_bucket/labelled/Live_By_FnP_Media_06-07-2021_10-36.zip) | 1.64
+General | Your_Voice | Labelled | [Your_Voice](https://storage.googleapis.com/test_public_bucket/labelled/Your_Voice_06-07-2021_10-46.zip) | 1.69
 General | Your_Voice 2nd part | Labelled |[Your_Voice 2nd part](https://storage.googleapis.com/test_public_bucket/labelled/Your_Voice_08-07-2021_07-09.zip)
-General | swayamprabha_chapter_6 | Labelled | [swayamprabha_chapter_6](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_6_06-07-2021_11-24.zip)
-General | swayamprabha_chapter_25 | Labelled  | [swayamprabha_chapter_25](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_25_06-07-2021_14-08.zip)
+General | swayamprabha_chapter_6 | Labelled | [swayamprabha_chapter_6](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_6_06-07-2021_11-24.zip) | 2.87
+General | swayamprabha_chapter_25 | Labelled  | [swayamprabha_chapter_25](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_25_06-07-2021_14-08.zip) | 4.78
 General | swayamprabha_chapter_25 2nd part | Labelled  | [swayamprabha_chapter_25 2nd part](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_25_08-07-2021_07-24.zip)
-General | Stage_Time | Labelled  | [Stage_Time](https://storage.googleapis.com/test_public_bucket/labelled/Stage_Time_06-07-2021_12-27.zip)
-General | STAGE | Labelled  | [STAGE](https://storage.googleapis.com/test_public_bucket/labelled/STAGE_06-07-2021_12-36.zip)
-General | KalaManthan | Labelled  | [KalaManthan](https://storage.googleapis.com/test_public_bucket/labelled/KalaManthan_06-07-2021_12-09.zip)
-General | swayamprabha_chapter_30 | Labelled  | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_30_06-07-2021_16-32.zip)
+General | Stage_Time | Labelled  | [Stage_Time](https://storage.googleapis.com/test_public_bucket/labelled/Stage_Time_06-07-2021_12-27.zip) | 2.46
+General | STAGE | Labelled  | [STAGE](https://storage.googleapis.com/test_public_bucket/labelled/STAGE_06-07-2021_12-36.zip) | 3.24
+General | KalaManthan | Labelled  | [KalaManthan](https://storage.googleapis.com/test_public_bucket/labelled/KalaManthan_06-07-2021_12-09.zip) | 3.11
+General | swayamprabha_chapter_30 | Labelled  | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_30_06-07-2021_16-32.zip) | 4.2
 General | swayamprabha_chapter_30 2ND PART | Labelled  | [swayamprabha_chapter_30 2ND PART](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_30_08-07-2021_07-19.zip)
-General | puliyabaazi | Labelled  | [puliyabaazi](https://storage.googleapis.com/test_public_bucket/labelled/puliyabaazi_07-07-2021_03-46.zip)
-General | DD_JHARKHAND 1st part | Labelled  | [DD_JHARKHAND 1st part](https://storage.googleapis.com/test_public_bucket/labelled/DD_Jharkhand_07-07-2021_04-02.zip)
+General | puliyabaazi | Labelled  | [puliyabaazi](https://storage.googleapis.com/test_public_bucket/labelled/puliyabaazi_07-07-2021_03-46.zip) | 20.56
+General | DD_JHARKHAND 1st part | Labelled  | [DD_JHARKHAND 1st part](https://storage.googleapis.com/test_public_bucket/labelled/DD_Jharkhand_07-07-2021_04-02.zip) | 30
 General | DD_JHARKHAND 2nd part | Labelled | [DD_JHARKHAND 2nd part](https://storage.googleapis.com/test_public_bucket/labelled/DD_Jharkhand_07-07-2021_04-16.zip)
 General |STAGE 2nd part | Labelled | [STAGE 2nd part](https://storage.googleapis.com/test_public_bucket/labelled/STAGE_07-07-2021_09-28.zip)
-General | swayamprabha_chapter_26 | Labelled  |[swayamprabha_chapter_26](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_26_08-07-2021_07-48.zip)
-General | swayamprabha_chapter_24 | Labelled | [swayamprabha_chapter_24](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_24_08-07-2021_07-46.zip)
-General | DD_NEWS PART 1 | Labelled | [DD_NEWS PART 1](https://storage.googleapis.com/test_public_bucket/labelled/DD_news_08-07-2021_10-00.zip)
+General | swayamprabha_chapter_26 | Labelled  |[swayamprabha_chapter_26](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_26_08-07-2021_07-48.zip) | 6
+General | swayamprabha_chapter_24 | Labelled | [swayamprabha_chapter_24](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_24_08-07-2021_07-46.zip) | 5.57
+General | DD_NEWS PART 1 | Labelled | [DD_NEWS PART 1](https://storage.googleapis.com/test_public_bucket/labelled/DD_news_08-07-2021_10-00.zip) | 33.59
 General | DD_NEWS PART 2 | Labelled |  [DD_NEWS PART 2](https://storage.googleapis.com/test_public_bucket/labelled/DD_news_08-07-2021_10-22.zip)
-General | THE_MODERN_POETS | Labelled | [THE_MODERN_POETS](https://storage.googleapis.com/test_public_bucket/labelled/THE_MODERN_POETS_08-07-2021_09-51.zip)
-General | kalArt | Labelled | [kalArt](https://storage.googleapis.com/test_public_bucket/labelled/kalArt_08-07-2021_09-53.zip)
-General | Vividh_Bharti_Mumbai | Labelled | [Vividh_Bharti_Mumbai](https://storage.googleapis.com/test_public_bucket/labelled/Vividh_Bharti_Mumbai_09-07-2021_08-24.zip)
-General | Krishi_Darshan_2 | Labelled | [Krishi_Darshan_2](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_2_09-07-2021_07-14.zip)
-General | Nojoto_App_Open_Mic | Labelled | [Nojoto_App_Open_Mic](https://storage.googleapis.com/test_public_bucket/labelled/Nojoto_App_Open_Mic_09-07-2021_11-01.zip)
-General | swayamprabha_chapter_4 | Labelled | [swayamprabha_chapter_4](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_4_09-07-2021_09-02.zip)
-General | swayamprabha_chapter_3 | Labelled | [swayamprabha_chapter_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_3_10-07-2021_06-55.zip)
-General | swayamprabha_chapter_1 First | Labelled | [swayamprabha_chapter_1 First](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_05-24.zip)
+General | THE_MODERN_POETS | Labelled | [THE_MODERN_POETS](https://storage.googleapis.com/test_public_bucket/labelled/THE_MODERN_POETS_08-07-2021_09-51.zip) | 4.77
+General | kalArt | Labelled | [kalArt](https://storage.googleapis.com/test_public_bucket/labelled/kalArt_08-07-2021_09-53.zip) | 5.73
+General | Vividh_Bharti_Mumbai | Labelled | [Vividh_Bharti_Mumbai](https://storage.googleapis.com/test_public_bucket/labelled/Vividh_Bharti_Mumbai_09-07-2021_08-24.zip) | 6.39
+General | Krishi_Darshan_2 | Labelled | [Krishi_Darshan_2](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_2_09-07-2021_07-14.zip) | 49.96
+General | Nojoto_App_Open_Mic | Labelled | [Nojoto_App_Open_Mic](https://storage.googleapis.com/test_public_bucket/labelled/Nojoto_App_Open_Mic_09-07-2021_11-01.zip) | 9.97
+General | swayamprabha_chapter_4 | Labelled | [swayamprabha_chapter_4](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_4_09-07-2021_09-02.zip) | 9.38
+General | swayamprabha_chapter_3 | Labelled | [swayamprabha_chapter_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_3_10-07-2021_06-55.zip) | 72.79
+General | swayamprabha_chapter_1 First | Labelled | [swayamprabha_chapter_1 First](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_05-24.zip) | 81
 General | swayamprabha_chapter_1 Second | Labelled | [swayamprabha_chapter_1 Second](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_05-03.zip)
 General | swayamprabha_chapter_1 Third | Labelled | [swayamprabha_chapter_1 Third](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_06-05.zip)
 General | swayamprabha_chapter_1 Fourth | Labelled | [swayamprabha_chapter_1 Fourth](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_1_12-07-2021_06-23.zip)
-General | swayamprabha_chapter_28 | Labelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_28_12-07-2021_08-11.zip)
-General | swayamprabha_chapter_31 1st Part | Labelled | [swayamprabha_chapter_31 1st Part](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_31_14-07-2021_05-08.zip)
+General | swayamprabha_chapter_28 | Labelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_28_12-07-2021_08-11.zip) | 10.42
+General | swayamprabha_chapter_31 1st Part | Labelled | [swayamprabha_chapter_31 1st Part](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_31_14-07-2021_05-08.zip) | 80.29
 General | swayamprabha_chapter_31 2nd Part | Labelled | [swayamprabha_chapter_31 2nd Part](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_31_14-07-2021_06-26.zip)
 General | swayamprabha_chapter_31 3rd Part | Labelled | [swayamprabha_chapter_31 3rd Part](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_31_14-07-2021_06-57.zip)
-General | maatribhasha | Labelled | [maatribhasha](https://storage.googleapis.com/test_public_bucket/labelled/maatribhasha_14-07-2021_12-09.zip)
-General | Nojoto_App | Labelled | [Nojoto_App](https://storage.googleapis.com/test_public_bucket/labelled/Nojoto_App_14-07-2021_12-57.zip)
-General | Krishi_Darshan_1 | Labelled | [Krishi_Darshan_1](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_04-18.zip)
+General | maatribhasha | Labelled | [maatribhasha](https://storage.googleapis.com/test_public_bucket/labelled/maatribhasha_14-07-2021_12-09.zip) | 10.5
+General | Nojoto_App | Labelled | [Nojoto_App](https://storage.googleapis.com/test_public_bucket/labelled/Nojoto_App_14-07-2021_12-57.zip) | 13.11
+General | Krishi_Darshan_1 | Labelled | [Krishi_Darshan_1](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_04-18.zip) | 88.5
 General | Krishi_Darshan_2 | Labelled | [Krishi_Darshan_2](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_07-01.zip)
 General | Krishi_Darshan_3 | Labelled | [Krishi_Darshan_3](https://storage.googleapis.com/test_public_bucket/labelled/Krishi_Darshan_1_15-07-2021_09-29.zip)
-General | DD_Kisan_1 | Labelled | [DD_Kisan_1](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_04-30.zip)
+General | DD_Kisan_1 | Labelled | [DD_Kisan_1](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_04-30.zip) | 109
 General | DD_Kisan_2 | Labelled | [DD_Kisan_2](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_03-54.zip)
 General | DD_Kisan_3 | Labelled | [DD_Kisan_3](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_16-07-2021_03-26.zip)
 General | DD_Kisan_4 | Labelled | [DD_Kisan_4](https://storage.googleapis.com/test_public_bucket/labelled/DD_Kisan_15-07-2021_12-22.zip)
-General | DD_Madhya_Pradesh_1 | Labelled | [DD_Madhya_Pradesh_1](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_16-07-2021_05-58.zip)
+General | DD_Madhya_Pradesh_1 | Labelled | [DD_Madhya_Pradesh_1](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_16-07-2021_05-58.zip) | 111.5
 General | DD_Madhya_Pradesh_2 | Labelled | [DD_Madhya_Pradesh_2](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_16-07-2021_09-30.zip)
 General | DD_Madhya_Pradesh_3 | Labelled | [DD_Madhya_Pradesh_3](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_05-50.zip)
 General | DD_Madhya_Pradesh_4 | Labelled | [DD_Madhya_Pradesh_4](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_06-33.zip)
 General | DD_Madhya_Pradesh_5 | Labelled | [DD_Madhya_Pradesh_5](https://storage.googleapis.com/test_public_bucket/labelled/DD_Madhya_Pradesh_17-07-2021_06-54.zip)
-General | swayamprabha_chapter_32_1 | Labelled | [swayamprabha_chapter_32_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_07-54.zip)
+General | swayamprabha_chapter_32_1 | Labelled | [swayamprabha_chapter_32_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_07-54.zip) | 114.6
 General | swayamprabha_chapter_32_2 | Labelled | [swayamprabha_chapter_32_2](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-16.zip)
 General | swayamprabha_chapter_32_3 | Labelled | [swayamprabha_chapter_32_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-35.zip)
 General | swayamprabha_chapter_32_4 | Labelled | [swayamprabha_chapter_32_4](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_32_19-07-2021_08-54.zip)
-General | NEWS_ON_AIR_OFFICIAL_1 | Labelled | [NEWS_ON_AIR_OFFICIAL_1](https://storage.googleapis.com/test_public_bucket/labelled/NEWS_ON_AIR_OFFICIAL_19-07-2021_10-02.zip)
+General | NEWS_ON_AIR_OFFICIAL_1 | Labelled | [NEWS_ON_AIR_OFFICIAL_1](https://storage.googleapis.com/test_public_bucket/labelled/NEWS_ON_AIR_OFFICIAL_19-07-2021_10-02.zip) | 109
 General | NEWS_ON_AIR_OFFICIAL_2 | Labelled | [NEWS_ON_AIR_OFFICIAL_2](https://storage.googleapis.com/test_public_bucket/labelled/NEWS_ON_AIR_OFFICIAL_19-07-2021_10-43.zip)
 General | NEWS_ON_AIR_OFFICIAL_3 | Labelled | [NEWS_ON_AIR_OFFICIAL_3](https://storage.googleapis.com/test_public_bucket/labelled/NEWS_ON_AIR_OFFICIAL_19-07-2021_11-24.zip)
-General | LSTV_YT_1 | Labelled | [LSTV_YT_1](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_14-21.zip)
+General | LSTV_YT_1 | Labelled | [LSTV_YT_1](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_14-21.zip) | 491
 General | LSTV_YT_2 | Labelled | [LSTV_YT_2](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_14-44.zip)
 General | LSTV_YT_3 | Labelled | [LSTV_YT_3](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_15-05.zip)
 General | LSTV_YT_4 | Labelled | [LSTV_YT_4](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_15-26.zip)
@@ -84,10 +84,10 @@ General | LSTV_YT_15 | Labelled | [LSTV_YT_15](https://storage.googleapis.com/te
 General | LSTV_YT_16 | Labelled | [LSTV_YT_16](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_20-07-2021_23-49.zip)
 General | LSTV_YT_17 | Labelled | [LSTV_YT_17](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_21-07-2021_00-11.zip)
 General | LSTV_YT_18 | Labelled | [LSTV_YT_18](https://storage.googleapis.com/test_public_bucket/labelled/LSTV_YT_21-07-2021_00-33.zip)
-Education | swayamprabha_chapter_5_1 | Labelled | [swayamprabha_chapter_5_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_19-57.zip)
+Education | swayamprabha_chapter_5_1 | Labelled | [swayamprabha_chapter_5_1](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_19-57.zip) | 80
 Education | swayamprabha_chapter_5_2 | Labelled | [swayamprabha_chapter_5_2](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-07.zip)
 Education | swayamprabha_chapter_5_3 | Labelled | [swayamprabha_chapter_5_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-18.zip)
-News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_07-24.zip)
+News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_07-24.zip) | 251
 News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-00.zip)
 News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-29.zip)
 News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-50.zip)
@@ -95,60 +95,60 @@ News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.goog
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
 ### `Tamil Labelled`
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) 
-General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip)
-Education | Tamil_Education_1 | Labelled | [Tamil_Education_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_09-53.zip)
+Domain | Source | Type | Corpus_Download_link |  Duration
+:--- |:--- | :---: | :---: | :---: 
+General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) | 3.2
+General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip) | 14.5
+Education | Tamil_Education_1 | Labelled | [Tamil_Education_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_09-53.zip) | 64.04
 Education | Tamil_Education_2 | Labelled | [Tamil_Education_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_10-02.zip)
 Education | Tamil_Education_3 | Labelled | [Tamil_Education_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_11-10.zip)
-Religion | Tamil_Pechu_1 | Labelled | [Tamil_Pechu_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_09-53.zip)
+Religion | Tamil_Pechu_1 | Labelled | [Tamil_Pechu_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_09-53.zip) | 63.04
 Religion | Tamil_Pechu_2 | Labelled | [Tamil_Pechu_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_10-02.zip)
 Religion | Tamil_Pechu_3 | Labelled | [Tamil_Pechu_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Pechu_30-07-2021_11-10.zip)
-Sports | Cricket_Talks-Tamil | Labelled | [Cricket_Talks-Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Cricket_Talks-Tamil_03-08-2021_05-59.zip)
-Technology | A_Tech_Tamil | Labelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/A_Tech_Tamil_03-08-2021_06-10.zip)
-Religion | Acting_Christians_Tamil | Labelled | [Acting_Christians_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Acting_Christians_Tamil_03-08-2021_06-09.zip)
-General | CSC_Tamil | Labelled | [CSC_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/CSC_Tamil_03-08-2021_06-11.zip)
+Sports | Cricket_Talks-Tamil | Labelled | [Cricket_Talks-Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Cricket_Talks-Tamil_03-08-2021_05-59.zip) | 1.15
+Technology | A_Tech_Tamil | Labelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/A_Tech_Tamil_03-08-2021_06-10.zip) | 6.66
+Religion | Acting_Christians_Tamil | Labelled | [Acting_Christians_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Acting_Christians_Tamil_03-08-2021_06-09.zip) | 1.16
+General | CSC_Tamil | Labelled | [CSC_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/CSC_Tamil_03-08-2021_06-11.zip) | 9.2
 ### `English Labelled`
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-Philosophy | Sadhguru_1 | Labelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_06-46.zip) 
+Domain | Source | Type | Corpus_Download_link |  Duration |
+:--- |:--- | :---: | :---: | :---: |
+Philosophy | Sadhguru_1 | Labelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_06-46.zip) | 58
 Philosophy | Sadhguru_2 | Labelled | [Sadhguru_2](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_07-09.zip)
-Education | CEC_English_1 | Labelled | [CEC_English_1](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_06-46.zip)
+Education | CEC_English_1 | Labelled | [CEC_English_1](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_06-46.zip) | 136.5
 Education | CEC_English_2 | Labelled | [CEC_English_2](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_07-14.zip)
 Education | CEC_English_3 | Labelled | [CEC_English_3](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_07-40.zip)
 Education | CEC_English_4 | Labelled | [CEC_English_4](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_08-02.zip)
 Education | CEC_English_5 | Labelled | [CEC_English_5](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_08-26.zip)
 Education | CEC_English_6 | Labelled | [CEC_English_6](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_09-01.zip)
 Education | CEC_English_7 | Labelled | [CEC_English_7](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_09-33.zip)
-News | News_on_AIR_English_1 | Labelled | [News_on_AIR_English_1](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_10-06.zip)
+News | News_on_AIR_English_1 | Labelled | [News_on_AIR_English_1](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_10-06.zip) | 198
 News | News_on_AIR_English_2 | Labelled | [News_on_AIR_English_2](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_10-44.zip)
 News | News_on_AIR_English_3 | Labelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-23.zip)
 News | News_on_AIR_English_4 | Labelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-57.zip)
 News | News_on_AIR_English_5 | Labelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_12-33.zip)
 ### `Kannada Labelled`
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | Nimma_Upendra | Labelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/labelled/Nimma_Upendra_20-07-2021_11-18.zip) 
-General | Tech_in_Kannada| Labelled | [Tech_in_Kannada](https://storage.googleapis.com/test_public_bucket/labelled/Tech_in_Kannada_20-07-2021_11-22.zip)
-General | Astroyogi_Kannada_1 | Labelled | [Astroyogi_Kannada_1](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-14.zip)
+Domain | Source | Type | Corpus_Download_link |  Duration
+:--- |:--- | :---: | :---: | :---: |
+General | Nimma_Upendra | Labelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/labelled/Nimma_Upendra_20-07-2021_11-18.zip) | 2
+General | Tech_in_Kannada| Labelled | [Tech_in_Kannada](https://storage.googleapis.com/test_public_bucket/labelled/Tech_in_Kannada_20-07-2021_11-22.zip) | 5.88
+General | Astroyogi_Kannada_1 | Labelled | [Astroyogi_Kannada_1](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-14.zip) | 108.89
 General | Astroyogi_Kannada_2 | Labelled | [Astroyogi_Kannada_2](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-24.zip)
 General | Astroyogi_Kannada_3 | Labelled | [Astroyogi_Kannada_3](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-34.zip)
 General | Astroyogi_Kannada_4 | Labelled | [Astroyogi_Kannada_4](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-45.zip) 
-General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/labelled/sadhgurukannada_20-07-2021_13-26.zip) 
-General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) 
-General | Doordarshan_Chandana_1 | Labelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-38.zip)
+General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/labelled/sadhgurukannada_20-07-2021_13-26.zip) | 9.8
+General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) | 17.67
+General | Doordarshan_Chandana_1 | Labelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-38.zip) | 41.3
 General | Doordarshan_Chandana_2 | Labelled | [Doordarshan_Chandana_2](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-47.zip)
 ### `Bengali Labelled`
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip)
+Domain | Source | Type | Corpus_Download_link |  Duration
+:--- |:--- | :---: | :---: | :---: |
+General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip) | 21.7
 General | CTVN_AKD_PLUS_2 | Labelled | [CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-42.zip) 
-News | News18_Bangla_two | Labelled | [News18_Bangla_two](https://storage.googleapis.com/test_public_bucket/labelled/News18_Bangla_two_29-07-2021_06-03.zip)
-Entertainment | Mirchi_Bangla_1 | Labelled | [Mirchi_Bangla_1](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-42.zip)
+News | News18_Bangla_two | Labelled | [News18_Bangla_two](https://storage.googleapis.com/test_public_bucket/labelled/News18_Bangla_two_29-07-2021_06-03.zip) | 22
+Entertainment | Mirchi_Bangla_1 | Labelled | [Mirchi_Bangla_1](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-42.zip) | 54
 Entertainment | Mirchi_Bangla_2 | Labelled | [Mirchi_Bangla_2](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-49.zip)
 Entertainment | Mirchi_Bangla_3 | Labelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-55.zip)
-News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip)
+News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip) | 33
 News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-49.zip)
 ### `Bengali Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  

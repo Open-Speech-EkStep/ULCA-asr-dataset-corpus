@@ -137,6 +137,8 @@ General | Astroyogi_Kannada_3 | Labelled | [Astroyogi_Kannada_3](https://storage
 General | Astroyogi_Kannada_4 | Labelled | [Astroyogi_Kannada_4](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-45.zip) 
 General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/labelled/sadhgurukannada_20-07-2021_13-26.zip) 
 General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) 
+General | Doordarshan_Chandana_1 | Labelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-38.zip)
+General | Doordarshan_Chandana_2 | Labelled | [Doordarshan_Chandana_2](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-47.zip)
 ### `Bengali Labelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

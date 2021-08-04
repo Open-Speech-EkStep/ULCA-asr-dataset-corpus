@@ -94,9 +94,12 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
-### `Tamil Labelled`  _Total Duration is 392.5 hours_
+### `Tamil Labelled`  _Total Duration is 199.44 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
+News | Puthiyathalaimurai_TV | Labelled | [Puthiyathalaimurai_TV](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Puthiyathalaimurai_TV_04-08-2021_12-28.zip) | 26.22
+Automobile | AutoTrend_Tamil_Channel | Labelled | [AutoTrend_Tamil_Channel](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_AutoTrend_Tamil_Channel_04-08-2021_12-05.zip) | 1.39
+News | Tamil_News_-_Doordarshan | Labelled | [Tamil_News_-_Doordarshan](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Tamil_News_-_Doordarshan_04-08-2021_12-16.zip) |  9.02
 General | Dilse_Tamil | Labelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Dilse_Tamil_19-07-2021_10-59.zip) | 3.2
 General | Electrical_Express_Tamil | Labelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Electrical_Express_Tamil_19-07-2021_12-17.zip) | 14.5
 Education | Tamil_Education_1 | Labelled | [Tamil_Education_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Education_30-07-2021_09-53.zip) | 64.04
@@ -539,7 +542,7 @@ Education | swayamprabha_chapter_25 | Unlabelled | [swayamprabha_chapter_25](htt
 Education | swayamprabha_chapter_28 | Unlabelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_28_02-08-2021_10-06.zip)
 Education | swayamprabha_chapter_30 | Unlabelled | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_30_02-08-2021_10-06.zip)
 Art-and-culture | Stage_Time | Unlabelled | [Stage_Time](https://storage.googleapis.com/test_public_bucket/unlabelled/Stage_Time_02-08-2021_10-18.zip)
-### `English Unlabelled`  _Total Duration is 595.64 hours_
+### `English Unlabelled`  _Total Duration is 595.6 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
 Philosophy | Sadhguru_1 | Unlabelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Sadhguru_30-07-2021_06-33.zip)

@@ -94,9 +94,23 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
-### `Tamil Labelled`  _Total Duration is 199.44 hours_
+### `Tamil Labelled`  _Total Duration is 245.49 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
+Entertaiment | Mr.Creative_Tamil | Labelled | [Mr.Creative_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Mr.Creative_Tamil_04-08-2021_13-44.zip) | 4.89
+Education | Mathematics_Education_In_Tamil | Labelled | [Mathematics_Education_In_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Mathematics_Education_In_Tamil_04-08-2021_13-44.zip) | 6
+Technology | New_Tech_in_Tamil | Labelled | [New_Tech_in_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_New_Tech_in_Tamil_04-08-2021_13-43.zip) | 1.54
+Technology | Tamil_DTH | Labelled | [Tamil_DTH](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Tamil_DTH_04-08-2021_13-44.zip) | 5.75
+Entertainment | Vasanth_Tamil_Gaming | Labelled | [Vasanth_Tamil_Gaming](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Vasanth_Tamil_Gaming_04-08-2021_13-44.zip) | 5.39
+entertainment | Web_ulagam_tamil | Labelled | [Web_ulagam_tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Web_ulagam_tamil_04-08-2021_13-43.zip) | 2.83
+Technology | Tech_Settai | Labelled | [Tech_Settai](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Tech_Settai_04-08-2021_13-43.zip) | 3.26
+Entertainment | Azhagu_Tamil_Kudil | Labelled | [Azhagu_Tamil_Kudil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Azhagu_Tamil_Kudil_04-08-2021_13-17.zip) | 1.89
+Education | Buff_Tutorial_Tamil | Labelled | [Buff_Tutorial_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Buff_Tutorial_Tamil_04-08-2021_13-18.zip) | 3.85
+Education | CA_in_Tamil | Labelled | [CA_in_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_CA_in_Tamil_04-08-2021_13-17.zip) | 2.39
+Education | CMA_in_Tamil | Labelled | [CMA_in_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_CMA_in_Tamil_04-08-2021_13-17.zip) | 2.66
+Technology | CN_Tamil_Tech_CN | Labelled | [CN_Tamil_Tech_CN](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_CN_Tamil_Tech_CN_04-08-2021_13-17.zip) | 0.9
+News | Tamil_News | Labelled | [Tamil_News](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Tamil_News_04-08-2021_13-17.zip) | 1.86
+Education | Tamil_Hackz | Labelled | [Tamil_Hackz](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Tamil_Hackz_04-08-2021_13-17.zip) | 2.84
 News | Puthiyathalaimurai_TV | Labelled | [Puthiyathalaimurai_TV](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Puthiyathalaimurai_TV_04-08-2021_12-28.zip) | 26.22
 Automobile | AutoTrend_Tamil_Channel | Labelled | [AutoTrend_Tamil_Channel](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_AutoTrend_Tamil_Channel_04-08-2021_12-05.zip) | 1.39
 News | Tamil_News_-_Doordarshan | Labelled | [Tamil_News_-_Doordarshan](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Tamil_News_-_Doordarshan_04-08-2021_12-16.zip) |  9.02

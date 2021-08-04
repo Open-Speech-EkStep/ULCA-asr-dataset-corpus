@@ -190,11 +190,11 @@ General | Total_Kannada_2 | Unlabelled | [Total_Kannada_2](https://storage.googl
 Philosophy | sadhgurukannada | Unlabelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/unlabelled/sadhgurukannada_29-07-2021_08-21.zip)
 Entertainment | Nimma_Upendra | Unlabelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/unlabelled/Nimma_Upendra_29-07-2021_08-39.zip)
 General | ALL_INDIA_RADIO_BANGALORE | Unlabelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/unlabelled/ALL_INDIA_RADIO_BANGALORE_02-08-2021_10-25.zip)
-Genreal | Unacademy-KarnatakaPSC_1 | Unlabelled | [Unacademy-KarnatakaPSC_1](https://storage.googleapis.com/test_public_bucket/labelled/Unacademy-KarnatakaPSC_27-07-2021_10-38.zip)
-Genreal | Unacademy-KarnatakaPSC_2 | Unlabelled | [Unacademy-KarnatakaPSC_2](https://storage.googleapis.com/test_public_bucket/labelled/Unacademy-KarnatakaPSC_27-07-2021_10-47.zip)
-Genreal | Unacademy-KarnatakaPSC_3 | Unlabelled | [Unacademy-KarnatakaPSC_3](https://storage.googleapis.com/test_public_bucket/labelled/Unacademy-KarnatakaPSC_27-07-2021_10-55.zip)
-Genreal | Unacademy-KarnatakaPSC_4 | Unlabelled | [Unacademy-KarnatakaPSC_4](https://storage.googleapis.com/test_public_bucket/labelled/Unacademy-KarnatakaPSC_27-07-2021_11-02.zip)
-Genreal | Unacademy-KarnatakaPSC_5 | Unlabelled | [Unacademy-KarnatakaPSC_5](https://storage.googleapis.com/test_public_bucket/labelled/Unacademy-KarnatakaPSC_27-07-2021_11-09.zip)
+Genreal | Unacademy-KarnatakaPSC_1 | Unlabelled | [Unacademy-KarnatakaPSC_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-51.zip)
+Genreal | Unacademy-KarnatakaPSC_2 | Unlabelled | [Unacademy-KarnatakaPSC_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-56.zip)
+Genreal | Unacademy-KarnatakaPSC_3 | Unlabelled | [Unacademy-KarnatakaPSC_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-02.zip)
+Genreal | Unacademy-KarnatakaPSC_4 | Unlabelled | [Unacademy-KarnatakaPSC_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-07.zip)
+Genreal | Unacademy-KarnatakaPSC_5 | Unlabelled | [Unacademy-KarnatakaPSC_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
 ### `Punjabi Unlabelled`
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

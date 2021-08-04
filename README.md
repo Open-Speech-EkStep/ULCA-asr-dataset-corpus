@@ -138,9 +138,16 @@ Sports | Cricket_Talks-Tamil | Labelled | [Cricket_Talks-Tamil](https://storage.
 Technology | A_Tech_Tamil | Labelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/A_Tech_Tamil_03-08-2021_06-10.zip) | 6.66
 Religion | Acting_Christians_Tamil | Labelled | [Acting_Christians_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Acting_Christians_Tamil_03-08-2021_06-09.zip) | 1.16
 General | CSC_Tamil | Labelled | [CSC_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/CSC_Tamil_03-08-2021_06-11.zip) | 9.2
-### `English Labelled`  _Total Duration is 162.81 hours_
+### `English Labelled`  _Total Duration is 595.51 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs) |
 :--- |:--- | :---: | :---: | :---: |
+News | Rajya_Sabha_TV_Indias_World_1 | Labelled | [Rajya_Sabha_TV_Indias_World_1](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-13.zip) | 128.12
+News | Rajya_Sabha_TV_Indias_World_2 | Labelled | [Rajya_Sabha_TV_Indias_World_2](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-28.zip)
+News | Rajya_Sabha_TV_Indias_World_3 | Labelled | [Rajya_Sabha_TV_Indias_World_3](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-46.zip)
+News | Rajya_Sabha_TV_Indias_World_4 | Labelled | [Rajya_Sabha_TV_Indias_World_4](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-59.zip)
+News | Rajya_Sabha_TV_In_depth_1 | Labelled | [Rajya_Sabha_TV_In_depth_1](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_In_depth_04-08-2021_16-13.zip) | 74.89
+News | Rajya_Sabha_TV_In_depth_2 | Labelled | [Rajya_Sabha_TV_In_depth_2](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_In_depth_04-08-2021_16-28.zip)
+News | Rajya_Sabha_TV_In_depth_3 | Labelled | [Rajya_Sabha_TV_In_depth_3](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_In_depth_04-08-2021_16-41.zip)
 Philosophy | Sadhguru_1 | Labelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_06-46.zip) | 58
 Philosophy | Sadhguru_2 | Labelled | [Sadhguru_2](https://storage.googleapis.com/test_public_bucket/labelled/Sadhguru_23-07-2021_07-09.zip)
 Education | CEC_English_1 | Labelled | [CEC_English_1](https://storage.googleapis.com/test_public_bucket/labelled/CEC_English_23-07-2021_06-46.zip) | 136.5

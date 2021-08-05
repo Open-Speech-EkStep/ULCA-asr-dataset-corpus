@@ -611,10 +611,18 @@ General | Rajya_Sabha_TV_Indias_World_5 | Unlabelled | [Rajya_Sabha_TV_Indias_Wo
 General | Rajya_Sabha_TV_In_depth_1 | Unlabelled | [Rajya_Sabha_TV_In_depth_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-48.zip)
 General | Rajya_Sabha_TV_In_depth_2 | Unlabelled | [Rajya_Sabha_TV_In_depth_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-56.zip)
 General | Rajya_Sabha_TV_In_depth_3 | Unlabelled | [Rajya_Sabha_TV_In_depth_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_09-06.zip)
-### `Nepali Unlabelled`  _Total Duration is x hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-News| newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_11-42.zip)
+### `Nepali Unlabelled`  _Total Duration is 174 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_11-42.zip) | 174
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_12-53.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-05.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-11.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-22.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-32.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-39.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-56.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_14-07.zip)
 ### `Hindi Unlabelled External`
  Domain | Source | Corpus_Download_link |  
  :--- |:--- | :---: |

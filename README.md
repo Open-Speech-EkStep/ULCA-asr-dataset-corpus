@@ -162,9 +162,10 @@ News | News_on_AIR_English_2 | Labelled | [News_on_AIR_English_2](https://storag
 News | News_on_AIR_English_3 | Labelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-23.zip)
 News | News_on_AIR_English_4 | Labelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-57.zip)
 News | News_on_AIR_English_5 | Labelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_12-33.zip)
-### `Kannada Labelled`  _Total Duration is 323.03 hours_
+### `Kannada Labelled`  _Total Duration is 335.03 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+Education | Unacademy-KarnatakaPSC_non_cc | Labelled | [Unacademy-KarnatakaPSC_non_cc](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Unacademy-KarnatakaPSC_non_cc_05-08-2021_06-03.zip) | 12.51
 Entertainment | Total_Kannada1_1 | Labelled | [Total_Kannada1_1](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Total_Kannada1_05-08-2021_01-06.zip) | 34.36
 Entertainment | Total_Kannada1_2 | Labelled | [Total_Kannada1_2](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Total_Kannada1_05-08-2021_01-17.zip)
 General | Nimma_Upendra | Labelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/labelled/Nimma_Upendra_20-07-2021_11-18.zip) | 2

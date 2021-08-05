@@ -194,29 +194,39 @@ Entertainment | Mirchi_Bangla_2 | Labelled | [Mirchi_Bangla_2](https://storage.g
 Entertainment | Mirchi_Bangla_3 | Labelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-55.zip)
 News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip) | 33
 News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-49.zip)
-### `Bengali Unlabelled`  _Total Duration is 234.47 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_11-45.zip)
+### `Bengali Unlabelled`  _Total Duration is 562.47 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_11-45.zip) | 328
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_11-55.zip)
-General | News18_Bangla_1 | Unlabelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-28.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_12-49.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_13-09.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_13-29.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_13-47.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_14-02.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_14-49.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_15-08.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_15-28.zip)
+News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_15-47.zip)
+News | News18_Bangla_two | Unlabelled | [News18_Bangla_two](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_two_21-07-2021_05-31.zip) | 22.37
+General | News18_Bangla_1 | Unlabelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-28.zip) | 89.76
 General | News18_Bangla_2 | Unlabelled | [News18_Bangla_2](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-38.zip)
 General | News18_Bangla_3 | Unlabelled | [News18_Bangla_3](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-49.zip)
 General | News18_Bangla_4 | Unlabelled | [News18_Bangla_4](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-58.zip)
 General | News18_Bangla_5 | Unlabelled | [News18_Bangla_5](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_06-11.zip)
 General | News18_Bangla_6 | Unlabelled | [News18_Bangla_6](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_06-21.zip)
 General | News18_Bangla_7 | Unlabelled | [News18_Bangla_7](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_two_21-07-2021_05-31.zip)
-General | Babai_Da | Unlabelled | [Babai_Da](https://storage.googleapis.com/test_public_bucket/unlabelled/Babai_Da_21-07-2021_06-30.zip)
-General | Bangla_World_Service_AIR_1 | Unlabelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bangla_World_Service_AIR_21-07-2021_06-40.zip)
+General | Babai_Da | Unlabelled | [Babai_Da](https://storage.googleapis.com/test_public_bucket/unlabelled/Babai_Da_21-07-2021_06-30.zip) | 1.87
+General | Bangla_World_Service_AIR_1 | Unlabelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bangla_World_Service_AIR_21-07-2021_06-40.zip) | 33.74
 General | Bangla_World_Service_AIR_2 | Unlabelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Bangla_World_Service_AIR_21-07-2021_06-52.zip)
-General | Mirchi_Bangla_1 | Unlabelled | [Mirchi_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_06-40.zip)
+General | Mirchi_Bangla_1 | Unlabelled | [Mirchi_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_06-40.zip) | 54.8
 General | Mirchi_Bangla_2 | Unlabelled | [Mirchi_Bangla_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_06-52.zip)
 General | Mirchi_Bangla_3 | Unlabelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-36.zip)
 General | Mirchi_Bangla_4 | Unlabelled | [Mirchi_Bangla_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-46.zip)
 General | Mirchi_Bangla_5 | Unlabelled | [Mirchi_Bangla_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Mirchi_Bangla_21-07-2021_10-56.zip)
-General | Podcast_Bangla | Unlabelled | [Podcast_Bangla](https://storage.googleapis.com/test_public_bucket/unlabelled/Podcast_Bangla_21-07-2021_06-42.zip)
-General | Eso_Golpo_Kori | Unlabelled | [Eso_Golpo_Kori](https://storage.googleapis.com/test_public_bucket/unlabelled/Eso_Golpo_Kori_21-07-2021_06-49.zip)
-Religion |  CTVN_AKD_PLUS_1 | Unlabelled | [ CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-33.zip)
+General | Podcast_Bangla | Unlabelled | [Podcast_Bangla](https://storage.googleapis.com/test_public_bucket/unlabelled/Podcast_Bangla_21-07-2021_06-42.zip) | 1.78
+General | Eso_Golpo_Kori | Unlabelled | [Eso_Golpo_Kori](https://storage.googleapis.com/test_public_bucket/unlabelled/Eso_Golpo_Kori_21-07-2021_06-49.zip) | 8.36
+Religion |  CTVN_AKD_PLUS_1 | Unlabelled | [ CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-33.zip) | 21.79
 Religion |  CTVN_AKD_PLUS_2 | Unlabelled | [ CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-39.zip)
 ### `Odia Unlabelled`  _Total Duration is 39.39 hours_
 Domain | Source | Type | Corpus_Download_link |  

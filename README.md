@@ -175,9 +175,12 @@ General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googlea
 General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) | 17.67
 General | Doordarshan_Chandana_1 | Labelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-38.zip) | 41.3
 General | Doordarshan_Chandana_2 | Labelled | [Doordarshan_Chandana_2](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-47.zip)
-### `Bengali Labelled`  _Total Duration is 142.27 hours_
+### `Bengali Labelled`  _Total Duration is 215.51 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | News18_Bangla_1 | Labelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_News18_Bangla_04-08-2021_17-27.zip) | 73.24
+News | News18_Bangla_2 | Labelled | [News18_Bangla_2](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_News18_Bangla_04-08-2021_17-45.zip)
+News | News18_Bangla_3 | Labelled | [News18_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_News18_Bangla_04-08-2021_17-58.zip)
 Entertainment | Radio_Milan_90.4_FM | Labelled | [Radio_Milan_90.4_FM](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_Radio_Milan_90.4_FM_04-08-2021_17-24.zip) | 9.01
 Entertainment | Jon_Kabir | Labelled | [Jon_Kabir](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_Jon_Kabir_04-08-2021_17-23.zip) | 2.56
 General | CTVN_AKD_PLUS_1 | Labelled | [CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/labelled/CTVN_AKD_PLUS_22-07-2021_04-11.zip) | 21.7

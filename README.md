@@ -197,6 +197,8 @@ News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](http
 ### `Bengali Unlabelled`  _Total Duration is 234.47 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_11-45.zip)
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Bengali_newsonair.nic.in_05-08-2021_11-55.zip)
 General | News18_Bangla_1 | Unlabelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-28.zip)
 General | News18_Bangla_2 | Unlabelled | [News18_Bangla_2](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-38.zip)
 General | News18_Bangla_3 | Unlabelled | [News18_Bangla_3](https://storage.googleapis.com/test_public_bucket/unlabelled/News18_Bangla_21-07-2021_05-49.zip)

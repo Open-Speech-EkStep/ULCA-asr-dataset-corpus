@@ -162,9 +162,11 @@ News | News_on_AIR_English_2 | Labelled | [News_on_AIR_English_2](https://storag
 News | News_on_AIR_English_3 | Labelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-23.zip)
 News | News_on_AIR_English_4 | Labelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-57.zip)
 News | News_on_AIR_English_5 | Labelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_12-33.zip)
-### `Kannada Labelled`  _Total Duration is 288.72 hours_
+### `Kannada Labelled`  _Total Duration is 323.03 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+Entertainment | Total_Kannada1_1 | Labelled | [Total_Kannada1_1](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Total_Kannada1_05-08-2021_01-06.zip) | 34.36
+Entertainment | Total_Kannada1_2 | Labelled | [Total_Kannada1_2](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Total_Kannada1_05-08-2021_01-17.zip)
 General | Nimma_Upendra | Labelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/labelled/Nimma_Upendra_20-07-2021_11-18.zip) | 2
 General | Tech_in_Kannada| Labelled | [Tech_in_Kannada](https://storage.googleapis.com/test_public_bucket/labelled/Tech_in_Kannada_20-07-2021_11-22.zip) | 5.88
 General | Astroyogi_Kannada_1 | Labelled | [Astroyogi_Kannada_1](https://storage.googleapis.com/test_public_bucket/labelled/Astroyogi_Kannada_20-07-2021_20-14.zip) | 108.89

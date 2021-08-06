@@ -233,13 +233,29 @@ General | Podcast_Bangla | Unlabelled | [Podcast_Bangla](https://storage.googlea
 General | Eso_Golpo_Kori | Unlabelled | [Eso_Golpo_Kori](https://storage.googleapis.com/test_public_bucket/unlabelled/Eso_Golpo_Kori_21-07-2021_06-49.zip) | 8.36
 Religion |  CTVN_AKD_PLUS_1 | Unlabelled | [ CTVN_AKD_PLUS_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-33.zip) | 21.79
 Religion |  CTVN_AKD_PLUS_2 | Unlabelled | [ CTVN_AKD_PLUS_2](https://storage.googleapis.com/test_public_bucket/unlabelled/CTVN_AKD_PLUS_30-07-2021_11-39.zip)
-### `Odia Unlabelled`  _Total Duration is 39.39 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-News | DD_News_Odia_Official_1 | Unlabelled | [DD_News_Odia_Official_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-52.zip)
+### `Odia Unlabelled`  _Total Duration is 493.33 hours_
+Domain | Source | Type | Corpus_Download_link | Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_04-17.zip) | 451.94
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_07-34.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_07-46.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_07-55.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_08-11.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_08-26.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_08-41.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_08-57.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_09-12.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_09-27.zip)
+News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_09-43.zip)
+News | newsonair.nic.in_12 | Unlabelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_09-57.zip)
+News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_10-12.zip)
+News | newsonair.nic.in_14 | Unlabelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_10-28.zip)
+News | newsonair.nic.in_15 | Unlabelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_10-44.zip)
+News | newsonair.nic.in_16 | Unlabelled | [newsonair.nic.in_16](https://storage.googleapis.com/test_public_bucket/unlabelled/Odia_newsonair.nic.in_06-08-2021_10-58.zip)
+News | DD_News_Odia_Official_1 | Unlabelled | [DD_News_Odia_Official_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-52.zip) | 35.37
 News | DD_News_Odia_Official_2 | Unlabelled | [DD_News_Odia_Official_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-58.zip)
 News | DD_News_Odia_Official_3 | Unlabelled | [DD_News_Odia_Official_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_11-04.zip)
-News | Mann_Ki_Baat_odia | Unlabelled | [Mann_Ki_Baat_odia](https://storage.googleapis.com/test_public_bucket/unlabelled/Mann_Ki_Baat_odia_27-07-2021_10-52.zip)
+News | Mann_Ki_Baat_odia | Unlabelled | [Mann_Ki_Baat_odia](https://storage.googleapis.com/test_public_bucket/unlabelled/Mann_Ki_Baat_odia_27-07-2021_10-52.zip) | 4.02
 ### `Kannada Unlabelled`  _Total Duration is 547.53 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs) |
 :--- |:--- | :---: | :---: | :---: |

@@ -284,13 +284,26 @@ Genreal | Unacademy-KarnatakaPSC_2 | Unlabelled | [Unacademy-KarnatakaPSC_2](htt
 Genreal | Unacademy-KarnatakaPSC_3 | Unlabelled | [Unacademy-KarnatakaPSC_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-02.zip)
 Genreal | Unacademy-KarnatakaPSC_4 | Unlabelled | [Unacademy-KarnatakaPSC_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-07.zip)
 Genreal | Unacademy-KarnatakaPSC_5 | Unlabelled | [Unacademy-KarnatakaPSC_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
-### `Punjabi Unlabelled`  _Total Duration is 520.14 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | Daily_Post_Punjabi_1_1 | Unlabelled | [Daily_Post_Punjabi_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-06.zip)
+### `Punjabi Unlabelled`  _Total Duration is 863.1 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_07-42.zip) | 342.7
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_07-54.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_11-22.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_14-21.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_14-33.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_14-45.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_14-56.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_15-08.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_15-21.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_15-35.zip)
+News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_15-46.zip)
+News | newsonair.nic.in_12 | Unlabelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_16-00.zip)
+News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/unlabelled/Punjabi_newsonair.nic.in_06-08-2021_16-15.zip)
+General | Daily_Post_Punjabi_1_1 | Unlabelled | [Daily_Post_Punjabi_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-06.zip) | 51.04
 General | Daily_Post_Punjabi_1_2 | Unlabelled | [Daily_Post_Punjabi_1_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-15.zip)
 General | Daily_Post_Punjabi_1_3 | Unlabelled | [Daily_Post_Punjabi_1_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_1_22-07-2021_09-26.zip)
-News | Daily_Post_Punjabi_2_1 | Unlabelled | [Daily_Post_Punjabi_2_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-37.zip)
+News | Daily_Post_Punjabi_2_1 | Unlabelled | [Daily_Post_Punjabi_2_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-37.zip) | 221.46
 News | Daily_Post_Punjabi_2_2 | Unlabelled | [Daily_Post_Punjabi_2_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-46.zip)
 News | Daily_Post_Punjabi_2_3 | Unlabelled | [Daily_Post_Punjabi_2_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_20-55.zip)
 News | Daily_Post_Punjabi_2_4 | Unlabelled | [Daily_Post_Punjabi_2_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-03.zip)
@@ -298,16 +311,16 @@ News | Daily_Post_Punjabi_2_5 | Unlabelled | [Daily_Post_Punjabi_2_5](https://st
 News | Daily_Post_Punjabi_2_6 | Unlabelled | [Daily_Post_Punjabi_2_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-21.zip)
 News | Daily_Post_Punjabi_2_7 | Unlabelled | [Daily_Post_Punjabi_2_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-29.zip)
 News | Daily_Post_Punjabi_2_8 | Unlabelled | [Daily_Post_Punjabi_2_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjabi_2_26-07-2021_21-37.zip)
-News | Edusat_punjabi | Unlabelled | [Edusat_punjabi](https://storage.googleapis.com/test_public_bucket/unlabelled/Edusat_punjabi_26-07-2021_20-33.zip)
-Entertainment | Pitaara_TV | Unlabelled | [Pitaara_TV](https://storage.googleapis.com/test_public_bucket/unlabelled/Pitaara_TV_26-07-2021_20-37.zip)
-General | BBC_News_Punjabi_1 | Unlabelled | [BBC_News_Punjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-06.zip)
+News | Edusat_punjabi | Unlabelled | [Edusat_punjabi](https://storage.googleapis.com/test_public_bucket/unlabelled/Edusat_punjabi_26-07-2021_20-33.zip) | 17
+Entertainment | Pitaara_TV | Unlabelled | [Pitaara_TV](https://storage.googleapis.com/test_public_bucket/unlabelled/Pitaara_TV_26-07-2021_20-37.zip) | 10
+General | BBC_News_Punjabi_1 | Unlabelled | [BBC_News_Punjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-06.zip) | 55.46
 General | BBC_News_Punjabi_2 | Unlabelled | [BBC_News_Punjabi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-15.zip)
 General | BBC_News_Punjabi_3 | Unlabelled | [BBC_News_Punjabi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Punjabi_22-07-2021_09-26.zip)
-News | ddpunjabi_1 | Unlabelled | [ddpunjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-33.zip)
+News | ddpunjabi_1 | Unlabelled | [ddpunjabi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-33.zip) | 69.35
 News | ddpunjabi_2 | Unlabelled | [ddpunjabi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_20-48.zip)
 News | ddpunjabi_3 | Unlabelled | [ddpunjabi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/ddpunjabi_26-07-2021_21-01.zip)
-Philosophy | Josh_Talks_Punjabi | Unlabelled | [Josh_Talks_Punjabi](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Punjabi_26-07-2021_20-37.zip)
-News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-34.zip)
+Philosophy | Josh_Talks_Punjabi | Unlabelled | [Josh_Talks_Punjabi](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Punjabi_26-07-2021_20-37.zip) | 23
+News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-34.zip) | 71.9
 News | Daily_Post_Punjab_News_2 | Unlabelled | [Daily_Post_Punjab_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-48.zip)
 News | Daily_Post_Punjab_News_3 | Unlabelled | [Daily_Post_Punjab_News_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_21-01.zip)
 ### `Gujarati Unlabelled`  _Total Duration is 284.14 hours_

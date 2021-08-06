@@ -194,6 +194,11 @@ Entertainment | Mirchi_Bangla_2 | Labelled | [Mirchi_Bangla_2](https://storage.g
 Entertainment | Mirchi_Bangla_3 | Labelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-55.zip)
 News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip) | 33
 News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-49.zip)
+### `Nepali Labelled`  _Total Duration is 9.17 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | NTV_Plus | Labelled | [NTV_Plus](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_NTV_Plus_05-08-2021_07-54.zip) | 5.98
+News | Khulla_Manch | Labelled | [Khulla_Manch](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_Khulla_Manch_05-08-2021_07-54.zip) | 3.19
 ### `Bengali Unlabelled`  _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

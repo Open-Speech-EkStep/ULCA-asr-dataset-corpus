@@ -672,10 +672,10 @@ General | Rajya_Sabha_TV_Indias_World_5 | Unlabelled | [Rajya_Sabha_TV_Indias_Wo
 General | Rajya_Sabha_TV_In_depth_1 | Unlabelled | [Rajya_Sabha_TV_In_depth_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-48.zip)
 General | Rajya_Sabha_TV_In_depth_2 | Unlabelled | [Rajya_Sabha_TV_In_depth_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-56.zip)
 General | Rajya_Sabha_TV_In_depth_3 | Unlabelled | [Rajya_Sabha_TV_In_depth_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_09-06.zip)
-### `Nepali Unlabelled`  _Total Duration is 174 hours_
+### `Nepali Unlabelled`  _Total Duration is 124.5 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_11-42.zip) | 174
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_11-42.zip) | 124.5
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_12-53.zip)
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-05.zip)
 News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-11.zip)

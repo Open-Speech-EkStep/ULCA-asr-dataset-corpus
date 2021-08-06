@@ -467,6 +467,8 @@ News | newsonair.nic.in_15 | Unlabelled | [newsonair.nic.in_15](https://storage.
 News | newsonair.nic.in_16 | Unlabelled | [newsonair.nic.in_16](https://storage.googleapis.com/test_public_bucket/unlabelled/Tamil_newsonair.nic.in_06-08-2021_00-51.zip)
 News | newsonair.nic.in_17 | Unlabelled | [newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/unlabelled/Tamil_newsonair.nic.in_06-08-2021_01-08.zip)
 News | newsonair.nic.in_18 | Unlabelled | [newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/unlabelled/Tamil_newsonair.nic.in_06-08-2021_01-25.zip)
+News | newsonair.nic.in_19 | Unlabelled | [newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/unlabelled/Tamil_newsonair.nic.in_06-08-2021_01-42.zip)
+News | newsonair.nic.in_20 | Unlabelled | [newsonair.nic.in_20](https://storage.googleapis.com/test_public_bucket/unlabelled/Tamil_newsonair.nic.in_06-08-2021_02-00.zip)
 News | RTV_Tamil_1 | Unlabelled | [RTV_Tamil_1](https://storage.googleapis.com/test_public_bucket/unlabelled/RTV_Tamil_27-07-2021_08-12.zip) | 43.37
 News | RTV_Tamil_2 | Unlabelled | [RTV_Tamil_2](https://storage.googleapis.com/test_public_bucket/unlabelled/RTV_Tamil_27-07-2021_08-25.zip)
 News | Puthiyathalaimurai_TV_1 | Unlabelled | [Puthiyathalaimurai_TV_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Puthiyathalaimurai_TV_27-07-2021_08-13.zip) | 26.22

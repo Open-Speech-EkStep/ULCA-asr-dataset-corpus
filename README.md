@@ -1,7 +1,25 @@
 # ULCA-asr-dataset-corpus
-### `Hindi Labelled ` _Total Duration is 1847.76 hours_
+### `Hindi Labelled ` _Total Duration is 2398.76 hours_
 Domain | Source | Type | Corpus_Download_link | Duration(hrs) | 
 :--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_last_1 | Labelled | [newsonair.nic.in_last_1](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_13-41.zip) | 551
+News | newsonair.nic.in_last_2 | Labelled | [newsonair.nic.in_last_2](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_13-43.zip)
+News | newsonair.nic.in_last_3 | Labelled | [newsonair.nic.in_last_3](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_13-48.zip)
+News | newsonair.nic.in_last_4 | Labelled | [newsonair.nic.in_last_4](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_14-14.zip)
+News | newsonair.nic.in_last_5 | Labelled | [newsonair.nic.in_last_5](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_14-38.zip)
+News | newsonair.nic.in_last_6 | Labelled | [newsonair.nic.in_last_6](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_15-02.zip)
+News | newsonair.nic.in_last_7 | Labelled | [newsonair.nic.in_last_7](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_15-28.zip)
+News | newsonair.nic.in_last_8 | Labelled | [newsonair.nic.in_last_8](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_15-55.zip)
+News | newsonair.nic.in_last_9 | Labelled | [newsonair.nic.in_last_9](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_16-18.zip)
+News | newsonair.nic.in_last_10 | Labelled | [newsonair.nic.in_last_10](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_16-40.zip)
+News | newsonair.nic.in_last_11 | Labelled | [newsonair.nic.in_last_11](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_17-06.zip)
+News | newsonair.nic.in_last_12 | Labelled | [newsonair.nic.in_last_12](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_17-42.zip)
+News | newsonair.nic.in_last_13 | Labelled | [newsonair.nic.in_last_13](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_18-20.zip)
+News | newsonair.nic.in_last_14 | Labelled | [newsonair.nic.in_last_14](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_18-50.zip)
+News | newsonair.nic.in_last_15 | Labelled | [newsonair.nic.in_last_15](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_19-15.zip)
+News | newsonair.nic.in_last_16 | Labelled | [newsonair.nic.in_last_16](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_19-41.zip)
+News | newsonair.nic.in_last_17 | Labelled | [newsonair.nic.in_last_17](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_20-07.zip)
+News | newsonair.nic.in_last_18 | Labelled | [newsonair.nic.in_last_18](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_20-33.zip)
 General | DD_Science_Vigyan_Prasar | Labelled | [DD_Science_Vigyan_Prasar](https://storage.googleapis.com/test_public_bucket/labelled/DD_Science_Vigyan_Prasar_05-07-2021_10-05.zip) | 0.77
 General | News_on_air | Labelled | [News_on_air](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_30-06-2021_17-40.zip)
 General | Autoportal | Labelled | [Autoportal](https://storage.googleapis.com/test_public_bucket/labelled/autoportal_05-07-2021_12-17%202.zip) | 0.95
@@ -94,9 +112,28 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
 News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-49.zip)
-### `Tamil Labelled`  _Total Duration is 499.86 hours_
+### `Tamil Labelled`  _Total Duration is 1160.24 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
+News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_16-25.zip) | 660.38
+News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_16-32.zip)
+News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_16-49.zip)
+News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_17-11.zip)
+News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_17-33.zip)
+News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_17-56.zip)
+News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_18-19.zip)
+News | newsonair.nic.in_8 | Labelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_18-38.zip)
+News | newsonair.nic.in_9 | Labelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_18-58.zip)
+News | newsonair.nic.in_10 | Labelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_19-18.zip)
+News | newsonair.nic.in_11 | Labelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_19-38.zip)
+News | newsonair.nic.in_12 | Labelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_20-01.zip)
+News | newsonair.nic.in_13 | Labelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_20-21.zip)
+News | newsonair.nic.in_14 | Labelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_20-43.zip)
+News | newsonair.nic.in_15 | Labelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_21-05.zip)
+News | newsonair.nic.in_16 | Labelled | [newsonair.nic.in_16](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_21-27.zip)
+News | newsonair.nic.in_17 | Labelled | [newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_21-45.zip)
+News | newsonair.nic.in_18 | Labelled | [newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_22-08.zip)
+News | newsonair.nic.in_19 | Labelled | [newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_newsonair.nic.in_08-08-2021_23-23.zip)
 Religion | Dawah_Team_Tamil_Islamic_Bayans_1 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_1](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_14-24.zip) | 71.79
 Religion | Dawah_Team_Tamil_Islamic_Bayans_2 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_2](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_14-43.zip)
 Religion | Dawah_Team_Tamil_Islamic_Bayans_3 | Labelled | [Dawah_Team_Tamil_Islamic_Bayans_3](https://storage.googleapis.com/test_public_bucket/labelled/Tamil_Dawah_Team_Tamil_Islamic_Bayans_04-08-2021_15-01.zip)
@@ -480,18 +517,18 @@ General | DD_urdu_v2 | Unlabelled | [DD_urdu_v2](https://storage.googleapis.com/
 ### `Assamese Unlabelled`  _Total Duration is 672.2 hours_
 Domain | Source | Type | Corpus_Download_link | Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
-News | newsonair.nic.in_1 | Unlabelles | [newsoanir.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-26.zip) | 401.77
-News | newsonair.nic.in_2 | Unlabelles | [newsoanir.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-40.zip)
-News | newsonair.nic.in_3 | Unlabelles | [newsoanir.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-55.zip)
-News | newsonair.nic.in_4 | Unlabelles | [newsoanir.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-11.zip)
-News | newsonair.nic.in_5 | Unlabelles | [newsoanir.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-26.zip)
-News | newsonair.nic.in_6 | Unlabelles | [newsoanir.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-39.zip)
-News | newsonair.nic.in_7 | Unlabelles | [newsoanir.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-56.zip)
-News | newsonair.nic.in_8 | Unlabelles | [newsoanir.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-14.zip)
-News | newsonair.nic.in_9 | Unlabelles | [newsoanir.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-29.zip)
-News | newsonair.nic.in_10 | Unlabelles | [newsoanir.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-47.zip)
-News | newsonair.nic.in_11 | Unlabelles | [newsoanir.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_14-01.zip)
-News | newsonair.nic.in_12 | Unlabelles | [newsoanir.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_14-15.zip)
+News | newsonair.nic.in_1 | Unlabelled | [newsoanir.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-26.zip) | 401.77
+News | newsonair.nic.in_2 | Unlabelled | [newsoanir.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-40.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsoanir.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-55.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsoanir.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-11.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsoanir.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-26.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsoanir.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-39.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsoanir.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-56.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsoanir.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-14.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsoanir.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-29.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsoanir.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-47.zip)
+News | newsonair.nic.in_11 | Unlabelled | [newsoanir.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_14-01.zip)
+News | newsonair.nic.in_12 | Unlabelled | [newsoanir.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_14-15.zip)
 General | KKHSOU | Unlabelled | [KKHSOU](https://storage.googleapis.com/test_public_bucket/unlabelled/KKHSOU_21-07-2021_10-55.zip) | 12.37
 Education | NIOSSeniorSecondaryCourses_1 | Unlabelled | [NIOSSeniorSecondaryCourses_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NIOSSeniorSecondaryCourses_27-07-2021_07-10.zip) | 31.16
 Education | NIOSSeniorSecondaryCourses_2 | Unlabelled | [NIOSSeniorSecondaryCourses_2](https://storage.googleapis.com/test_public_bucket/unlabelled/NIOSSeniorSecondaryCourses_27-07-2021_07-16.zip)

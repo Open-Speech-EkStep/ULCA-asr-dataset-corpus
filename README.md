@@ -442,19 +442,25 @@ Education | Kerala_Freethinkers_Forum_13 | Unlabelled | [Kerala_Freethinkers_For
 Education | Kerala_Freethinkers_Forum_14 | Unlabelled | [Kerala_Freethinkers_Forum_14](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_15-43.zip)
 Education | Kerala_Freethinkers_Forum_15 | Unlabelled | [Kerala_Freethinkers_Forum_15](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_15-49.zip)
 Education | Kerala_Freethinkers_Forum_16 | Unlabelled | [Kerala_Freethinkers_Forum_16](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_15-54.zip)
-### `Urdu Unlabelled`  _Total Duration is 289.26 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | DD_Urdu_News_1 | Unlabelled | [DD_Urdu_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Urdu_News_21-07-2021_14-20.zip)
+### `Urdu Unlabelled`  _Total Duration is 439.11 hours_
+Domain | Source | Type | Corpus_Download_link | Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_newsonair.nic.in_08-08-2021_12-04.zip) | 149.85
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_newsonair.nic.in_08-08-2021_12-12.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_newsonair.nic.in_08-08-2021_12-19.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_newsonair.nic.in_08-08-2021_12-33.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_newsonair.nic.in_08-08-2021_12-46.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_newsonair.nic.in_08-08-2021_12-57.zip)
+General | DD_Urdu_News_1 | Unlabelled | [DD_Urdu_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Urdu_News_21-07-2021_14-20.zip) | 9.99
 General | DD_Urdu_News_2 | Unlabelled | [DD_Urdu_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Urdu_News_21-07-2021_14-38.zip)
-General | BBC_News_urdu_1 | Unlabelled | [BBC_News_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_urdu_21-07-2021_20-17.zip)
+General | BBC_News_urdu_1 | Unlabelled | [BBC_News_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_urdu_21-07-2021_20-17.zip) | 44.39
 General | BBC_News_urdu_2 | Unlabelled | [BBC_News_urdu_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_urdu_21-07-2021_20-34.zip)
 General | BBC_News_urdu_3 | Unlabelled | [BBC_News_urdu_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_urdu_21-07-2021_20-49.zip)
-General | NEWS_ON_AIR_URDU_1 | Unlabelled | [NEWS_ON_AIR_URDU_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_URDU_21-07-2021_14-20.zip)
+General | NEWS_ON_AIR_URDU_1 | Unlabelled | [NEWS_ON_AIR_URDU_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_URDU_21-07-2021_14-20.zip) | 54.29
 General | NEWS_ON_AIR_URDU_2 | Unlabelled | [NEWS_ON_AIR_URDU_2](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_URDU_21-07-2021_14-38.zip)
 General | NEWS_ON_AIR_URDU_3 | Unlabelled | [NEWS_ON_AIR_URDU_3](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_URDU_21-07-2021_14-54.zip)
-News | News_18_Urdu | Unlabelled | [News_18_Urdu](https://storage.googleapis.com/test_public_bucket/unlabelled/News_18_Urdu_27-07-2021_05-56.zip)
-News | Zee_Salaam_1 | Unlabelled | [Zee_Salaam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_05-56.zip)
+News | News_18_Urdu | Unlabelled | [News_18_Urdu](https://storage.googleapis.com/test_public_bucket/unlabelled/News_18_Urdu_27-07-2021_05-56.zip) | 10.56
+News | Zee_Salaam_1 | Unlabelled | [Zee_Salaam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_05-56.zip) | 69.5
 News | Zee_Salaam_2 | Unlabelled | [Zee_Salaam_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_06-04.zip)
 News | Zee_Salaam_3 | Unlabelled | [Zee_Salaam_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_06-11.zip)
 News | Zee_Salaam_4 | Unlabelled | [Zee_Salaam_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_06-20.zip)
@@ -462,37 +468,49 @@ News | Zee_Salaam_5 | Unlabelled | [Zee_Salaam_5](https://storage.googleapis.com
 News | Zee_Salaam_6 | Unlabelled | [Zee_Salaam_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_06-30.zip)
 News | Zee_Salaam_7 | Unlabelled | [Zee_Salaam_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_06-35.zip)
 News | Zee_Salaam_8 | Unlabelled | [Zee_Salaam_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Salaam_27-07-2021_06-55.zip)
-History | Urdu_diary | Unlabelled | [Urdu_diary](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_diary_27-07-2021_05-56.zip)
-Movies | Rewind_with_Samina_Peerzada_1 | Unlabelled | [Rewind_with_Samina_Peerzada_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rewind_with_Samina_Peerzada_27-07-2021_05-56.zip)
+History | Urdu_diary | Unlabelled | [Urdu_diary](https://storage.googleapis.com/test_public_bucket/unlabelled/Urdu_diary_27-07-2021_05-56.zip) | 2.43
+Movies | Rewind_with_Samina_Peerzada_1 | Unlabelled | [Rewind_with_Samina_Peerzada_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rewind_with_Samina_Peerzada_27-07-2021_05-56.zip) | 67.76
 Movies | Rewind_with_Samina_Peerzada_2 | Unlabelled | [Rewind_with_Samina_Peerzada_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Rewind_with_Samina_Peerzada_27-07-2021_06-04.zip)
 Movies | Rewind_with_Samina_Peerzada_3 | Unlabelled | [Rewind_with_Samina_Peerzada_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Rewind_with_Samina_Peerzada_27-07-2021_06-11.zip)
 Movies | Rewind_with_Samina_Peerzada_4 | Unlabelled | [Rewind_with_Samina_Peerzada_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Rewind_with_Samina_Peerzada_27-07-2021_06-20.zip)
 Movies | Rewind_with_Samina_Peerzada_5 | Unlabelled | [Rewind_with_Samina_Peerzada_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Rewind_with_Samina_Peerzada_27-07-2021_06-26.zip)
-General | cec_urdu_1 | Unlabelled | [cec_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/cec_urdu_21-07-2021_14-20.zip)
+General | cec_urdu_1 | Unlabelled | [cec_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/cec_urdu_21-07-2021_14-20.zip) | 21.82
 General | cec_urdu_1 | Unlabelled | [cec_urdu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/cec_urdu_21-07-2021_14-38.zip)
 General | DD_urdu_v2 | Unlabelled | [DD_urdu_v2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_urdu_v2_21-07-2021_14-20.zip)
-### `Assamese Unlabelled`  _Total Duration is 270.43 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | KKHSOU | Unlabelled | [KKHSOU](https://storage.googleapis.com/test_public_bucket/unlabelled/KKHSOU_21-07-2021_10-55.zip)
-Education | NIOSSeniorSecondaryCourses_1 | Unlabelled | [NIOSSeniorSecondaryCourses_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NIOSSeniorSecondaryCourses_27-07-2021_07-10.zip)
+### `Assamese Unlabelled`  _Total Duration is 672.2 hours_
+Domain | Source | Type | Corpus_Download_link | Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelles | [newsoanir.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-26.zip) | 401.77
+News | newsonair.nic.in_2 | Unlabelles | [newsoanir.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-40.zip)
+News | newsonair.nic.in_3 | Unlabelles | [newsoanir.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_11-55.zip)
+News | newsonair.nic.in_4 | Unlabelles | [newsoanir.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-11.zip)
+News | newsonair.nic.in_5 | Unlabelles | [newsoanir.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-26.zip)
+News | newsonair.nic.in_6 | Unlabelles | [newsoanir.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-39.zip)
+News | newsonair.nic.in_7 | Unlabelles | [newsoanir.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_12-56.zip)
+News | newsonair.nic.in_8 | Unlabelles | [newsoanir.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-14.zip)
+News | newsonair.nic.in_9 | Unlabelles | [newsoanir.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-29.zip)
+News | newsonair.nic.in_10 | Unlabelles | [newsoanir.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_13-47.zip)
+News | newsonair.nic.in_11 | Unlabelles | [newsoanir.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_14-01.zip)
+News | newsonair.nic.in_12 | Unlabelles | [newsoanir.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Assamese_newsonair.nic.in_08-08-2021_14-15.zip)
+General | KKHSOU | Unlabelled | [KKHSOU](https://storage.googleapis.com/test_public_bucket/unlabelled/KKHSOU_21-07-2021_10-55.zip) | 12.37
+Education | NIOSSeniorSecondaryCourses_1 | Unlabelled | [NIOSSeniorSecondaryCourses_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NIOSSeniorSecondaryCourses_27-07-2021_07-10.zip) | 31.16
 Education | NIOSSeniorSecondaryCourses_2 | Unlabelled | [NIOSSeniorSecondaryCourses_2](https://storage.googleapis.com/test_public_bucket/unlabelled/NIOSSeniorSecondaryCourses_27-07-2021_07-16.zip)
-General | DY365_1 | Unlabelled | [DY365_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DY365_21-07-2021_10-55.zip)
+General | DY365_1 | Unlabelled | [DY365_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DY365_21-07-2021_10-55.zip) | 13.21
 General | DY365_2 | Unlabelled | [DY365_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DY365_21-07-2021_11-02.zip)
-General | DD_Assam_1 | Unlabelled | [DD_Assam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Assam_21-07-2021_10-55.zip)
+General | DD_Assam_1 | Unlabelled | [DD_Assam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Assam_21-07-2021_10-55.zip) | 12.6
 General | DD_Assam_2 | Unlabelled | [DD_Assam_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Assam_21-07-2021_11-02.zip)
-General | AIR_Dibrugarh_Online_Radio | Unlabelled | [AIR_Dibrugarh_Online_Radio](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_Dibrugarh_Online_Radio_21-07-2021_10-55.zip)
-General | DD_News_Guwahati_1 | Unlabelled | [DD_News_Guwahati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Guwahati_21-07-2021_11-15.zip)
+General | AIR_Dibrugarh_Online_Radio | Unlabelled | [AIR_Dibrugarh_Online_Radio](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_Dibrugarh_Online_Radio_21-07-2021_10-55.zip) | 5.05
+General | DD_News_Guwahati_1 | Unlabelled | [DD_News_Guwahati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Guwahati_21-07-2021_11-15.zip) | 46.15
 General | DD_News_Guwahati_2 | Unlabelled | [DD_News_Guwahati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Guwahati_21-07-2021_11-21.zip)
 General | DD_News_Guwahati_3 | Unlabelled | [DD_News_Guwahati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Guwahati_21-07-2021_11-27.zip)
 General | DD_News_Guwahati_4 | Unlabelled | [DD_News_Guwahati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Guwahati_21-07-2021_11-54.zip)
 General | DD_News_Guwahati_5 | Unlabelled | [DD_News_Guwahati_5](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Guwahati_21-07-2021_12-00.zip)
-News | AIR_News_Guwahati_1 | Unlabelled | [AIR_News_Guwahati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-10.zip)
+News | AIR_News_Guwahati_1 | Unlabelled | [AIR_News_Guwahati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-10.zip) | 121.38
 News | AIR_News_Guwahati_2 | Unlabelled | [AIR_News_Guwahati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-16.zip)
 News | AIR_News_Guwahati_3 | Unlabelled | [AIR_News_Guwahati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-24.zip)
 News | AIR_News_Guwahati_4 | Unlabelled | [AIR_News_Guwahati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-31.zip)
 News | AIR_News_Guwahati_5 | Unlabelled | [AIR_News_Guwahati_5](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Guwahati_27-07-2021_07-38.zip)
-News | Prag_News_1 | Unlabelled | [Prag_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Prag_News_27-07-2021_07-10.zip)
+News | Prag_News_1 | Unlabelled | [Prag_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Prag_News_27-07-2021_07-10.zip) | 28.51
 News | Prag_News_2 | Unlabelled | [Prag_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Prag_News_27-07-2021_07-16.zip)
 ### `Tamil Unlabelled`  _Total Duration is 1087.29 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)

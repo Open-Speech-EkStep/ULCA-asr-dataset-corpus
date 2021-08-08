@@ -178,9 +178,19 @@ General | sadhgurukannada | Labelled | [sadhgurukannada](https://storage.googlea
 General | ALL_INDIA_RADIO_BANGALORE | Labelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/labelled/ALL_INDIA_RADIO_BANGALORE_20-07-2021_12-39.zip) | 17.67
 General | Doordarshan_Chandana_1 | Labelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-38.zip) | 41.3
 General | Doordarshan_Chandana_2 | Labelled | [Doordarshan_Chandana_2](https://storage.googleapis.com/test_public_bucket/labelled/Doordarshan_Chandana_27-07-2021_10-47.zip)
-### `Bengali Labelled`  _Total Duration is 215.51 hours_
+### `Bengali Labelled`  _Total Duration is 541.51 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_15-46.zip) | 326
+News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_15-52.zip)
+News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_16-12.zip)
+News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_16-34.zip)
+News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_16-54.zip)
+News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_17-15.zip)
+News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_17-36.zip)
+News | newsonair.nic.in_8 | Labelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_17-57.zip)
+News | newsonair.nic.in_9 | Labelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_18-19.zip)
+News | newsonair.nic.in_10 | Labelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_newsonair.nic.in_06-08-2021_18-40.zip)
 News | News18_Bangla_1 | Labelled | [News18_Bangla_1](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_News18_Bangla_04-08-2021_17-27.zip) | 73.24
 News | News18_Bangla_2 | Labelled | [News18_Bangla_2](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_News18_Bangla_04-08-2021_17-45.zip)
 News | News18_Bangla_3 | Labelled | [News18_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Bengali_News18_Bangla_04-08-2021_17-58.zip)
@@ -194,9 +204,13 @@ Entertainment | Mirchi_Bangla_2 | Labelled | [Mirchi_Bangla_2](https://storage.g
 Entertainment | Mirchi_Bangla_3 | Labelled | [Mirchi_Bangla_3](https://storage.googleapis.com/test_public_bucket/labelled/Mirchi_Bangla_30-07-2021_10-55.zip)
 News | Bangla_World_Service_AIR_1 | Labelled | [Bangla_World_Service_AIR_1](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-42.zip) | 33
 News | Bangla_World_Service_AIR_2 | Labelled | [Bangla_World_Service_AIR_2](https://storage.googleapis.com/test_public_bucket/labelled/Bangla_World_Service_AIR_30-07-2021_10-49.zip)
-### `Nepali Labelled`  _Total Duration is 9.17 hours_
+### `Nepali Labelled`  _Total Duration is 133.17 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_newsonair.nic.in_06-08-2021_16-50.zip) | 124
+News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_newsonair.nic.in_06-08-2021_17-05.zip)
+News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_newsonair.nic.in_06-08-2021_17-19.zip)
+News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_newsonair.nic.in_06-08-2021_17-34.zip)
 News | NTV_Plus | Labelled | [NTV_Plus](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_NTV_Plus_05-08-2021_07-54.zip) | 5.98
 News | Khulla_Manch | Labelled | [Khulla_Manch](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_Khulla_Manch_05-08-2021_07-54.zip) | 3.19
 ### `Bengali Unlabelled`  _Total Duration is 562.47 hours_

@@ -814,9 +814,18 @@ General | Rajya_Sabha_TV_Indias_World_5 | Unlabelled | [Rajya_Sabha_TV_Indias_Wo
 General | Rajya_Sabha_TV_In_depth_1 | Unlabelled | [Rajya_Sabha_TV_In_depth_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-48.zip) | 74
 General | Rajya_Sabha_TV_In_depth_2 | Unlabelled | [Rajya_Sabha_TV_In_depth_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-56.zip)
 General | Rajya_Sabha_TV_In_depth_3 | Unlabelled | [Rajya_Sabha_TV_In_depth_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_09-06.zip)
-### `Nepali Unlabelled`  _Total Duration is 124.5 hours_
+### `Nepali Unlabelled`  _Total Duration is 259.93 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | TheDeepeshShow_1 | Unlabelled | [TheDeepeshShow_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_TheDeepeshShow_09-08-2021_11-13.zip) | 115.1
+News | TheDeepeshShow_2 | Unlabelled | [TheDeepeshShow_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_TheDeepeshShow_09-08-2021_11-23.zip)
+News | TheDeepeshShow_3 | Unlabelled | [TheDeepeshShow_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_TheDeepeshShow_09-08-2021_11-32.zip)
+News | TheDeepeshShow_4 | Unlabelled | [TheDeepeshShow_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_TheDeepeshShow_09-08-2021_11-41.zip)
+News | TheDeepeshShow_5 | Unlabelled | [TheDeepeshShow_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_TheDeepeshShow_09-08-2021_11-50.zip)
+News | TheDeepeshShow_6 | Unlabelled | [TheDeepeshShow_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_TheDeepeshShow_09-08-2021_11-57.zip)
+News | Khulla_Manch | Unlabelled | [Khulla_Manch](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_Khulla_Manch_09-08-2021_11-10.zip) | 1.97
+News | NTV_Plus_1 | Unlabelled | [NTV_Plus_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_NTV_Plus_09-08-2021_11-13.zip) | 18.36
+News | NTV_Plus_2 | Unlabelled | [NTV_Plus_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_NTV_Plus_09-08-2021_11-21.zip)
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_11-42.zip) | 124.5
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_12-53.zip)
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-05.zip)

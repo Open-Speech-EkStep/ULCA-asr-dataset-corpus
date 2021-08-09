@@ -398,54 +398,54 @@ News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https:
 News | Daily_Post_Punjab_News_2 | Unlabelled | [Daily_Post_Punjab_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-48.zip)
 News | Daily_Post_Punjab_News_3 | Unlabelled | [Daily_Post_Punjab_News_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_21-01.zip)
 ### `Gujarati Unlabelled`  _Total Duration is 284.14 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-News | DD_News_Gujarati_1 | Unlabelled | [DD_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-19.zip)
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | DD_News_Gujarati_1 | Unlabelled | [DD_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-19.zip) | 81.68
 News | DD_News_Gujarati_2 | Unlabelled | [DD_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-28.zip)
 News | DD_News_Gujarati_3 | Unlabelled | [DD_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-36.zip)
 News | DD_News_Gujarati_4 | Unlabelled | [DD_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-46.zip)
 News | DD_News_Gujarati_5 | Unlabelled | [DD_News_Gujarati_5](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-53.zip)
 News | DD_News_Gujarati_6 | Unlabelled | [DD_News_Gujarati_6](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-59.zip)
-News | BBC_News_Gujarati_1 | Unlabelled | [BBC_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-19.zip)
+News | BBC_News_Gujarati_1 | Unlabelled | [BBC_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-19.zip) | 71.67
 News | BBC_News_Gujarati_2 | Unlabelled | [BBC_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-28.zip)
 News | BBC_News_Gujarati_3 | Unlabelled | [BBC_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-36.zip)
 News | BBC_News_Gujarati_4 | Unlabelled | [BBC_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Gujarati_27-07-2021_05-46.zip)
-Literature | Gujarat_Sahitya_Academy_1 | Unlabelled | [Gujarat_Sahitya_Academy_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-19.zip)
+Literature | Gujarat_Sahitya_Academy_1 | Unlabelled | [Gujarat_Sahitya_Academy_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-19.zip) | 54.7
 Literature | Gujarat_Sahitya_Academy_2 | Unlabelled | [Gujarat_Sahitya_Academy_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-28.zip)
 Literature | Gujarat_Sahitya_Academy_3 | Unlabelled | [Gujarat_Sahitya_Academy_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-36.zip)
 Literature | Gujarat_Sahitya_Academy_4 | Unlabelled | [Gujarat_Sahitya_Academy_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarat_Sahitya_Academy_27-07-2021_05-46.zip)
-General | AIR_News_Gujarati_1 | Unlabelled | [AIR_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-08.zip)
+General | AIR_News_Gujarati_1 | Unlabelled | [AIR_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-08.zip) | 40.98
 General | AIR_News_Gujarati_2 | Unlabelled | [AIR_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-16.zip)
 General | AIR_News_Gujarati_3 | Unlabelled | [AIR_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-23.zip)
 General | AIR_News_Gujarati_4 | Unlabelled | [AIR_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/unlabelled/AIR_News_Gujarati_22-07-2021_08-29.zip)
-General | Unacademy_GPSC_1 | Unlabelled | [Unacademy_GPSC_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-08.zip)
+General | Unacademy_GPSC_1 | Unlabelled | [Unacademy_GPSC_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-08.zip) | 16.58
 General | Unacademy_GPSC_2 | Unlabelled | [Unacademy_GPSC_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy_GPSC_22-07-2021_08-15.zip)
-General | Aakashwani_Mumbai_1 | Unlabelled | [Aakashwani_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-25.zip)
+General | Aakashwani_Mumbai_1 | Unlabelled | [Aakashwani_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-25.zip) | 18.53
 General | Aakashwani_Mumbai_2 | Unlabelled | [Aakashwani_Mumbai_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Aakashwani_Mumbai_22-07-2021_06-31.zip)
 ### `Telugu Unlabelled`  _Total Duration is 230.09 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-News | Zee_Telugu | Unlabelled | [Zee_Telugu](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Telugu_22-07-2021_08-46.zip)
-News | BBC_News_Telugu_1 | Unlabelled | [BBC_News_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-01.zip)
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | Zee_Telugu | Unlabelled | [Zee_Telugu](https://storage.googleapis.com/test_public_bucket/unlabelled/Zee_Telugu_22-07-2021_08-46.zip) | 6.47
+News | BBC_News_Telugu_1 | Unlabelled | [BBC_News_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-01.zip) | 792.
 News | BBC_News_Telugu_2 | Unlabelled | [BBC_News_Telugu_2](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-09.zip)
 News | BBC_News_Telugu_3 | Unlabelled | [BBC_News_Telugu_3](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-18.zip)
 News | BBC_News_Telugu_4 | Unlabelled | [BBC_News_Telugu_4](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-28.zip)
 News | BBC_News_Telugu_5 | Unlabelled | [BBC_News_Telugu_5](https://storage.googleapis.com/test_public_bucket/unlabelled/BBC_News_Telugu_27-07-2021_07-37.zip)
-General | DD_Saptagiri_1 | Unlabelled | [DD_Saptagiri_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_07-47.zip)
+General | DD_Saptagiri_1 | Unlabelled | [DD_Saptagiri_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_07-47.zip) | 23.65
 General | DD_Saptagiri_2 | Unlabelled | [DD_Saptagiri_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_08-02.zip)
 General | DD_Saptagiri_3 | Unlabelled | [DD_Saptagiri_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Saptagiri_22-07-2021_08-10.zip)
-General | Telangana_Sahitya_Akademi_1 | Unlabelled | [Telangana_Sahitya_Akademi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_07-47.zip)
+General | Telangana_Sahitya_Akademi_1 | Unlabelled | [Telangana_Sahitya_Akademi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_07-47.zip) | 51.18
 General | Telangana_Sahitya_Akademi_2 | Unlabelled | [Telangana_Sahitya_Akademi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_08-00.zip)
 General | Telangana_Sahitya_Akademi_3 | Unlabelled | [Telangana_Sahitya_Akademi_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_08-10.zip)
 General | Telangana_Sahitya_Akademi_4 | Unlabelled | [Telangana_Sahitya_Akademi_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Telangana_Sahitya_Akademi_22-07-2021_08-18.zip)
-General | Josh_Talks_Telugu_1 | Unlabelled | [Josh_Talks_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Telugu_22-07-2021_07-47.zip)
+General | Josh_Talks_Telugu_1 | Unlabelled | [Josh_Talks_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Telugu_22-07-2021_07-47.zip) | 21.43
 General | Josh_Talks_Telugu_1 | Unlabelled | [Josh_Talks_Telugu_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_Talks_Telugu_22-07-2021_08-00.zip)
-General | iDream_Telugu_Movies_1 | Unlabelled | [iDream_Telugu_Movies_1](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-01.zip)
+General | iDream_Telugu_Movies_1 | Unlabelled | [iDream_Telugu_Movies_1](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-01.zip) | 42.97
 General | iDream_Telugu_Movies_2 | Unlabelled | [iDream_Telugu_Movies_2](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-09.zip)
 General | iDream_Telugu_Movies_3 | Unlabelled | [iDream_Telugu_Movies_3](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-18.zip)
 General | iDream_Telugu_Movies_4 | Unlabelled | [iDream_Telugu_Movies_4](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-28.zip)
 General | iDream_Telugu_Movies_5 | Unlabelled | [iDream_Telugu_Movies_5](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-37.zip)
-General | Chai_Bisket_Stories | Unlabelled | [Chai_Bisket_Stories](https://storage.googleapis.com/test_public_bucket/unlabelled/Chai_Bisket_Stories_22-07-2021_06-21.zip)
+General | Chai_Bisket_Stories | Unlabelled | [Chai_Bisket_Stories](https://storage.googleapis.com/test_public_bucket/unlabelled/Chai_Bisket_Stories_22-07-2021_06-21.zip) | 5.19
 ### `Marathi Unlabelled`  _Total Duration is 1300.53 hours_
 Domain | Source | Type | Corpus_Download_link | Duration(hrs) | 
 :--- |:--- | :---: | :---: | :---: |
@@ -672,7 +672,7 @@ Education | Dilse_Tamil | Unlabelled | [Dilse_Tamil](https://storage.googleapis.
 ### `Hindi Unlabelled`  _Total Duration is 1881.92 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
-News | newsonair.nic.in_1 | Unlabelled | [ newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-27.zip)
+News | newsonair.nic.in_1 | Unlabelled | [ newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-27.zip) | 800
 News | newsonair.nic.in_2 | Unlabelled | [ newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-45.zip)
 News | newsonair.nic.in_3 | Unlabelled | [ newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_13-01.zip)
 News | newsonair.nic.in_4 | Unlabelled | [ newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_13-14.zip)

@@ -199,9 +199,17 @@ News | News_on_AIR_English_2 | Labelled | [News_on_AIR_English_2](https://storag
 News | News_on_AIR_English_3 | Labelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-23.zip)
 News | News_on_AIR_English_4 | Labelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_11-57.zip)
 News | News_on_AIR_English_5 | Labelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/labelled/News_on_AIR_English_23-07-2021_12-33.zip)
-### `Kannada Labelled`  _Total Duration is 335.03 hours_
+### `Kannada Labelled`  _Total Duration is 608.91 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_08-08-2021_23-30.zip) | 273.88
+News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_08-08-2021_23-49.zip)
+News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_09-08-2021_00-08.zip)
+News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_09-08-2021_00-29.zip)
+News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_09-08-2021_00-49.zip)
+News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_09-08-2021_01-08.zip)
+News | newsonair.nic.in_7 | Labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_09-08-2021_01-28.zip)
+News | newsonair.nic.in_8 | Labelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_newsonair.nic.in_09-08-2021_01-46.zip)
 Education | Unacademy-KarnatakaPSC_non_cc | Labelled | [Unacademy-KarnatakaPSC_non_cc](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Unacademy-KarnatakaPSC_non_cc_05-08-2021_06-03.zip) | 12.51
 Entertainment | Total_Kannada1_1 | Labelled | [Total_Kannada1_1](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Total_Kannada1_05-08-2021_01-06.zip) | 34.36
 Entertainment | Total_Kannada1_2 | Labelled | [Total_Kannada1_2](https://storage.googleapis.com/test_public_bucket/labelled/Kannada_Total_Kannada1_05-08-2021_01-17.zip)
@@ -424,20 +432,20 @@ General | iDream_Telugu_Movies_4 | Unlabelled | [iDream_Telugu_Movies_4](https:/
 General | iDream_Telugu_Movies_5 | Unlabelled | [iDream_Telugu_Movies_5](https://storage.googleapis.com/test_public_bucket/unlabelled/iDream_Telugu_Movies_27-07-2021_07-37.zip)
 General | Chai_Bisket_Stories | Unlabelled | [Chai_Bisket_Stories](https://storage.googleapis.com/test_public_bucket/unlabelled/Chai_Bisket_Stories_22-07-2021_06-21.zip)
 ### `Marathi Unlabelled`  _Total Duration is 375.6 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | Bharatiya_Digital_Party | Unlabelled | [Bharatiya_Digital_Party](https://storage.googleapis.com/test_public_bucket/unlabelled/Bharatiya_Digital_Party_21-07-2021_11-30.zip)
-General | OLI_NSS | Unlabelled | [OLI_NSS](https://storage.googleapis.com/test_public_bucket/unlabelled/OLI_NSS_21-07-2021_11-30.zip)
-General | josh_talks_marathi_1 | Unlabelled | [josh_talks_marathi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/josh_talks_marathi_21-07-2021_11-52.zip)
+Domain | Source | Type | Corpus_Download_link | Duration(hrs) | 
+:--- |:--- | :---: | :---: | :---: |
+General | Bharatiya_Digital_Party | Unlabelled | [Bharatiya_Digital_Party](https://storage.googleapis.com/test_public_bucket/unlabelled/Bharatiya_Digital_Party_21-07-2021_11-30.zip) | 2.59
+General | OLI_NSS | Unlabelled | [OLI_NSS](https://storage.googleapis.com/test_public_bucket/unlabelled/OLI_NSS_21-07-2021_11-30.zip) | 3.39
+General | josh_talks_marathi_1 | Unlabelled | [josh_talks_marathi_1](https://storage.googleapis.com/test_public_bucket/unlabelled/josh_talks_marathi_21-07-2021_11-52.zip) | 37.32
 General | josh_talks_marathi_2 | Unlabelled | [josh_talks_marathi_2](https://storage.googleapis.com/test_public_bucket/unlabelled/josh_talks_marathi_21-07-2021_12-12.zip)
-General | Max_Maharashtra_1 | Unlabelled | [Max_Maharashtra_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_11-52.zip)
+General | Max_Maharashtra_1 | Unlabelled | [Max_Maharashtra_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_11-52.zip) | 99.71
 General | Max_Maharashtra_2 | Unlabelled | [Max_Maharashtra_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_12-12.zip)
 General | Max_Maharashtra_3 | Unlabelled | [Max_Maharashtra_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_12-27.zip)
 General | Max_Maharashtra_4 | Unlabelled | [Max_Maharashtra_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_12-41.zip)
 General | Max_Maharashtra_5 | Unlabelled | [Max_Maharashtra_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_12-54.zip)
 General | Max_Maharashtra_6 | Unlabelled | [Max_Maharashtra_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_13-14.zip)
 General | Max_Maharashtra_7 | Unlabelled | [Max_Maharashtra_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Max_Maharashtra_21-07-2021_13-29.zip)
-News | Lokmat_1 | Unlabelled | [Lokmat_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_16-54.zip)
+News | Lokmat_1 | Unlabelled | [Lokmat_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_16-54.zip) | 221.59
 News | Lokmat_2 | Unlabelled | [Lokmat_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_17-07.zip)
 News | Lokmat_3 | Unlabelled | [Lokmat_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_17-18.zip)
 News | Lokmat_4 | Unlabelled | [Lokmat_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_17-29.zip)
@@ -449,21 +457,21 @@ News | Lokmat_9 | Unlabelled | [Lokmat_9](https://storage.googleapis.com/test_pu
 News | Lokmat_10 | Unlabelled | [Lokmat_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_18-39.zip)
 News | Lokmat_11 | Unlabelled | [Lokmat_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Lokmat_26-07-2021_20-19.zip)
 ### `Malayalam Unlabelled`  _Total Duration is 172.88 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-General | Josh_talks_malayalam_1 | Unlabelled | [Josh_talks_malayalam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_talks_malayalam_21-07-2021_14-04.zip)
+Domain | Source | Type | Corpus_Download_link | Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+General | Josh_talks_malayalam_1 | Unlabelled | [Josh_talks_malayalam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_talks_malayalam_21-07-2021_14-04.zip) | 35.14
 General | Josh_talks_malayalam_2 | Unlabelled | [Josh_talks_malayalam_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Josh_talks_malayalam_21-07-2021_14-12.zip)
-General | The_Cue_1 | Unlabelled | [The_Cue_1](https://storage.googleapis.com/test_public_bucket/unlabelled/The_Cue_21-07-2021_14-04.zip)
+General | The_Cue_1 | Unlabelled | [The_Cue_1](https://storage.googleapis.com/test_public_bucket/unlabelled/The_Cue_21-07-2021_14-04.zip) | 42.26
 General | The_Cue_2 | Unlabelled | [The_Cue_2](https://storage.googleapis.com/test_public_bucket/unlabelled/The_Cue_21-07-2021_14-12.zip)
 General | The_Cue_3 | Unlabelled | [The_Cue_3](https://storage.googleapis.com/test_public_bucket/unlabelled/The_Cue_21-07-2021_14-20.zip)
-General | dd_malayalam_1 | Unlabelled | [dd_malayalam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_14-43.zip)
+General | dd_malayalam_1 | Unlabelled | [dd_malayalam_1](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_14-43.zip) | 53.22
 General | dd_malayalam_2 | Unlabelled | [dd_malayalam_2](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_14-48.zip)
 General | dd_malayalam_3 | Unlabelled | [dd_malayalam_3](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_14-53.zip)
 General | dd_malayalam_4 | Unlabelled | [dd_malayalam_4](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_14-58.zip)
 General | dd_malayalam_5 | Unlabelled | [dd_malayalam_5](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_15-20.zip)
 General | dd_malayalam_6 | Unlabelled | [dd_malayalam_6](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_15-25.zip)
 General | dd_malayalam_7 | Unlabelled | [dd_malayalam_7](https://storage.googleapis.com/test_public_bucket/unlabelled/dd_malayalam_21-07-2021_20-15.zip)
-Education | Kerala_Freethinkers_Forum_1 | Unlabelled | [Kerala_Freethinkers_Forum_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_13-42.zip)
+Education | Kerala_Freethinkers_Forum_1 | Unlabelled | [Kerala_Freethinkers_Forum_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_13-42.zip) | 42.26
 Education | Kerala_Freethinkers_Forum_2 | Unlabelled | [Kerala_Freethinkers_Forum_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_13-55.zip)
 Education | Kerala_Freethinkers_Forum_3 | Unlabelled | [Kerala_Freethinkers_Forum_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_14-05.zip)
 Education | Kerala_Freethinkers_Forum_4 | Unlabelled | [Kerala_Freethinkers_Forum_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Kerala_Freethinkers_Forum_26-07-2021_14-15.zip)
@@ -619,8 +627,8 @@ General | Azhagu_Tamil_Kudil | Unlabelled | [Azhagu_Tamil_Kudil](https://storage
 Technology | Electrical_Express_Tamil | Unlabelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Electrical_Express_Tamil_30-07-2021_10-18.zip) | 14.49
 Education | Dilse_Tamil | Unlabelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Dilse_Tamil_30-07-2021_10-18.zip) | 3.17
 ### `Hindi Unlabelled`  _Total Duration is 1881.92 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
 News | newsonair.nic.in_1 | Unlabelled | [ newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-27.zip)
 News | newsonair.nic.in_2 | Unlabelled | [ newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-45.zip)
 News | newsonair.nic.in_3 | Unlabelled | [ newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_13-01.zip)
@@ -640,48 +648,48 @@ News | newsonair.nic.in_16 | Unlabelled | [ newsonair.nic.in_16](https://storage
 News | newsonair.nic.in_17 | Unlabelled | [ newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_16-42.zip)
 News | newsonair.nic.in_18 | Unlabelled | [ newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_16-59.zip)
 News | newsonair.nic.in_19 | Unlabelled | [ newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_20-19.zip)
-Education | swayamprabha_chapter_1_1 | Unlabelled | [swayamprabha_chapter_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_09-59.zip)
+Education | swayamprabha_chapter_1_1 | Unlabelled | [swayamprabha_chapter_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_09-59.zip) | 118.33
 Education | swayamprabha_chapter_1_2 | Unlabelled | [swayamprabha_chapter_1_2](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_10-08.zip)
 Education | swayamprabha_chapter_1_3 | Unlabelled | [swayamprabha_chapter_1_3](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_10-16.zip)
 Education | swayamprabha_chapter_1_4 | Unlabelled | [swayamprabha_chapter_1_4](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_10-24.zip)
-Education | swayamprabha_chapter_32_1 | Unlabelled | [swayamprabha_chapter_32_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_32_29-07-2021_09-59.zip)
+Education | swayamprabha_chapter_32_1 | Unlabelled | [swayamprabha_chapter_32_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_32_29-07-2021_09-59.zip) | 114.9
 Education | swayamprabha_chapter_32_2 | Unlabelled | [swayamprabha_chapter_32_2](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_32_29-07-2021_10-08.zip)
 Education | swayamprabha_chapter_32_3 | Unlabelled | [swayamprabha_chapter_32_3](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_32_29-07-2021_10-16.zip)
 Education | swayamprabha_chapter_32_4 | Unlabelled | [swayamprabha_chapter_32_4](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_32_29-07-2021_10-24.zip)
-News | DD_Madhya_Pradesh_1 | Unlabelled | [DD_Madhya_Pradesh_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Madhya_Pradesh_29-07-2021_11-56.zip)
+News | DD_Madhya_Pradesh_1 | Unlabelled | [DD_Madhya_Pradesh_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Madhya_Pradesh_29-07-2021_11-56.zip) | 111.58
 News | DD_Madhya_Pradesh_2 | Unlabelled | [DD_Madhya_Pradesh_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Madhya_Pradesh_29-07-2021_12-07.zip)
 News | DD_Madhya_Pradesh_3 | Unlabelled | [DD_Madhya_Pradesh_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Madhya_Pradesh_29-07-2021_12-16.zip)
 News | DD_Madhya_Pradesh_4 | Unlabelled | [DD_Madhya_Pradesh_4](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Madhya_Pradesh_29-07-2021_12-25.zip)
 News | DD_Madhya_Pradesh_5 | Unlabelled | [DD_Madhya_Pradesh_5](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Madhya_Pradesh_29-07-2021_12-31.zip)
-News | DD_Kisan_1 | Unlabelled | [DD_Kisan_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Kisan_29-07-2021_11-56.zip)
+News | DD_Kisan_1 | Unlabelled | [DD_Kisan_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Kisan_29-07-2021_11-56.zip) | 108.93
 News | DD_Kisan_2 | Unlabelled | [DD_Kisan_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Kisan_29-07-2021_12-07.zip)
 News | DD_Kisan_3 | Unlabelled | [DD_Kisan_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Kisan_29-07-2021_12-16.zip)
 News | DD_Kisan_4 | Unlabelled | [DD_Kisan_4](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Kisan_29-07-2021_12-25.zip)
-News | Krishi_Darshan_1_1 | Unlabelled | [Krishi_Darshan_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_1_29-07-2021_11-56.zip)
+News | Krishi_Darshan_1_1 | Unlabelled | [Krishi_Darshan_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_1_29-07-2021_11-56.zip) | 89.6
 News | Krishi_Darshan_1_2 | Unlabelled | [Krishi_Darshan_1_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_1_29-07-2021_12-06.zip)
 News | Krishi_Darshan_1_3 | Unlabelled | [Krishi_Darshan_1_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_1_29-07-2021_12-13.zip)
 News | Krishi_Darshan_1_4 | Unlabelled | [Krishi_Darshan_1_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_1_29-07-2021_12-20.zip)
-Education | swayamprabha_chapter_31_1 | Unlabelled | [swayamprabha_chapter_31_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_31_29-07-2021_11-56.zip)
+Education | swayamprabha_chapter_31_1 | Unlabelled | [swayamprabha_chapter_31_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_31_29-07-2021_11-56.zip) | 81.3
 Education | swayamprabha_chapter_31_2 | Unlabelled | [swayamprabha_chapter_31_2](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_31_29-07-2021_12-06.zip)
 Education | swayamprabha_chapter_31_3 | Unlabelled | [swayamprabha_chapter_31_3](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_31_29-07-2021_12-13.zip)
 Education | swayamprabha_chapter_31_4 | Unlabelled | [swayamprabha_chapter_31_4](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_31_29-07-2021_12-20.zip)
-Education | swayamprabha_chapter_5_1 | Unlabelled | [swayamprabha_chapter_5_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_5_26-07-2021_09-44.zip)
+Education | swayamprabha_chapter_5_1 | Unlabelled | [swayamprabha_chapter_5_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_5_26-07-2021_09-44.zip) | 81
 Education | swayamprabha_chapter_5_2 | Unlabelled | [swayamprabha_chapter_5_2](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_5_26-07-2021_09-52.zip)
 Education | swayamprabha_chapter_5_3 | Unlabelled | [swayamprabha_chapter_5_3](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_5_26-07-2021_10-01.zip)
 Education | swayamprabha_chapter_5_4 | Unlabelled | [swayamprabha_chapter_5_4](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_5_26-07-2021_10-07.zip)
-Education | swayamprabha_chapter_3_1 | Unlabelled | [swayamprabha_chapter_3_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_3_29-07-2021_11-56.zip)
+Education | swayamprabha_chapter_3_1 | Unlabelled | [swayamprabha_chapter_3_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_3_29-07-2021_11-56.zip) | 74
 Education | swayamprabha_chapter_3_2 | Unlabelled | [swayamprabha_chapter_3_2](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_3_29-07-2021_12-06.zip)
 Education | swayamprabha_chapter_3_3 | Unlabelled | [swayamprabha_chapter_3_3](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_3_29-07-2021_12-13.zip)
-News | Krishi_Darshan_2_1 | Unlabelled | [Krishi_Darshan_2_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_2_29-07-2021_11-56.zip)
+News | Krishi_Darshan_2_1 | Unlabelled | [Krishi_Darshan_2_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_2_29-07-2021_11-56.zip) | 50
 News | Krishi_Darshan_2_2 | Unlabelled | [Krishi_Darshan_2_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_2_29-07-2021_12-07.zip)
 News | Krishi_Darshan_2_3 | Unlabelled | [Krishi_Darshan_2_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Krishi_Darshan_2_29-07-2021_12-16.zip)
-News | DD_news_1 | Unlabelled | [DD_news_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_news_29-07-2021_12-52.zip)
+News | DD_news_1 | Unlabelled | [DD_news_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_news_29-07-2021_12-52.zip) | 33.68
 News | DD_news_2 | Unlabelled | [DD_news_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_news_29-07-2021_12-57.zip)
-News | DD_Jharkhand_1 | Unlabelled | [DD_Jharkhand_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Jharkhand_29-07-2021_12-52.zip)
+News | DD_Jharkhand_1 | Unlabelled | [DD_Jharkhand_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Jharkhand_29-07-2021_12-52.zip) | 30.4
 News | DD_Jharkhand_2 | Unlabelled | [DD_Jharkhand_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Jharkhand_29-07-2021_12-57.zip)
-Entertainment | puliyabaazi | Unlabelled | [puliyabaazi](https://storage.googleapis.com/test_public_bucket/unlabelled/puliyabaazi_29-07-2021_12-55.zip)
-Entertainment | Nojoto_App | Unlabelled | [Nojoto_App](https://storage.googleapis.com/test_public_bucket/unlabelled/Nojoto_App_29-07-2021_12-55.zip)
-News | LSTV_YT_1 | Unlabelled | [LSTV_YT_1](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_12-14.zip)
+Entertainment | puliyabaazi | Unlabelled | [puliyabaazi](https://storage.googleapis.com/test_public_bucket/unlabelled/puliyabaazi_29-07-2021_12-55.zip) | 24.87
+Entertainment | Nojoto_App | Unlabelled | [Nojoto_App](https://storage.googleapis.com/test_public_bucket/unlabelled/Nojoto_App_29-07-2021_12-55.zip) | 12.56
+News | LSTV_YT_1 | Unlabelled | [LSTV_YT_1](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_12-14.zip) | 491.9
 News | LSTV_YT_2 | Unlabelled | [LSTV_YT_2](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_12-24.zip)
 News | LSTV_YT_3 | Unlabelled | [LSTV_YT_3](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_12-35.zip)
 News | LSTV_YT_4 | Unlabelled | [LSTV_YT_4](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_12-44.zip)
@@ -696,38 +704,38 @@ News | LSTV_YT_12 | Unlabelled | [LSTV_YT_12](https://storage.googleapis.com/tes
 News | LSTV_YT_13 | Unlabelled | [LSTV_YT_13](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_13-52.zip)
 News | LSTV_YT_14 | Unlabelled | [LSTV_YT_14](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_14-03.zip)
 News | LSTV_YT_15 | Unlabelled | [LSTV_YT_15](https://storage.googleapis.com/test_public_bucket/unlabelled/LSTV_YT_27-07-2021_16-54.zip)
-News | DD_Science_Vigyan_Prasar | Unlabelled | [DD_Science_Vigyan_Prasar](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Science_Vigyan_Prasar_02-08-2021_09-12.zip)
-Automobile | autoportal | Unlabelled | [autoportal](https://storage.googleapis.com/test_public_bucket/unlabelled/autoportal_02-08-2021_09-12.zip)
-General | dhruv_rathee | Unlabelled | [dhruv_rathee](https://storage.googleapis.com/test_public_bucket/unlabelled/dhruv_rathee_02-08-2021_09-12.zip)
-Entertainment | Spill_Poetry | Unlabelled | [Spill_Poetry](https://storage.googleapis.com/test_public_bucket/unlabelled/Spill_Poetry_02-08-2021_09-12.zip)
-Entertainment | Live_By_FnP_Media | Unlabelled | [Live_By_FnP_Media](https://storage.googleapis.com/test_public_bucket/unlabelled/Live_By_FnP_Media_02-08-2021_09-12.zip)
-Entertainment | Your_Voice | Unlabelled | [Your_Voice](https://storage.googleapis.com/test_public_bucket/unlabelled/Your_Voice_02-08-2021_09-12.zip)
-News | NEWS_ON_AIR_OFFICIAL_1 | Unlablled | [NEWS_ON_AIR_OFFICIAL_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_OFFICIAL_02-08-2021_08-25.zip)
+News | DD_Science_Vigyan_Prasar | Unlabelled | [DD_Science_Vigyan_Prasar](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_Science_Vigyan_Prasar_02-08-2021_09-12.zip) | 0.77
+Automobile | autoportal | Unlabelled | [autoportal](https://storage.googleapis.com/test_public_bucket/unlabelled/autoportal_02-08-2021_09-12.zip) | 0.95
+General | dhruv_rathee | Unlabelled | [dhruv_rathee](https://storage.googleapis.com/test_public_bucket/unlabelled/dhruv_rathee_02-08-2021_09-12.zip) | 1.1
+Entertainment | Spill_Poetry | Unlabelled | [Spill_Poetry](https://storage.googleapis.com/test_public_bucket/unlabelled/Spill_Poetry_02-08-2021_09-12.zip) | 1.16
+Entertainment | Live_By_FnP_Media | Unlabelled | [Live_By_FnP_Media](https://storage.googleapis.com/test_public_bucket/unlabelled/Live_By_FnP_Media_02-08-2021_09-12.zip) | 1.65
+Entertainment | Your_Voice | Unlabelled | [Your_Voice](https://storage.googleapis.com/test_public_bucket/unlabelled/Your_Voice_02-08-2021_09-12.zip) | 1.7
+News | NEWS_ON_AIR_OFFICIAL_1 | Unlablled | [NEWS_ON_AIR_OFFICIAL_1](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_OFFICIAL_02-08-2021_08-25.zip) | 109.18
 News | NEWS_ON_AIR_OFFICIAL_2 | Unlablled | [NEWS_ON_AIR_OFFICIAL_2](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_OFFICIAL_02-08-2021_08-36.zip)
 News | NEWS_ON_AIR_OFFICIAL_3 | Unlablled | [NEWS_ON_AIR_OFFICIAL_3](https://storage.googleapis.com/test_public_bucket/unlabelled/NEWS_ON_AIR_OFFICIAL_02-08-2021_08-50.zip)
-Art-and-culture | THE_MODERN_POETS | Unlablled | [THE_MODERN_POETS](https://storage.googleapis.com/test_public_bucket/unlabelled/THE_MODERN_POETS_02-08-2021_09-38.zip)
+Art-and-culture | THE_MODERN_POETS | Unlablled | [THE_MODERN_POETS](https://storage.googleapis.com/test_public_bucket/unlabelled/THE_MODERN_POETS_02-08-2021_09-38.zip) | 4.77
 Art-and-culture | STAGE | Unlablled | [STAGE](https://storage.googleapis.com/test_public_bucket/unlabelled/STAGE_02-08-2021_09-38.zip)
-Art-and-culture | KalaManthan | Unlablled | [KalaManthan](https://storage.googleapis.com/test_public_bucket/unlabelled/KalaManthan_02-08-2021_09-38.zip)
-Art-and-culture | kalArt_1 | Unlablled | [kalArt_1](https://storage.googleapis.com/test_public_bucket/unlabelled/kalArt_02-08-2021_09-38.zip)
+Art-and-culture | KalaManthan | Unlablled | [KalaManthan](https://storage.googleapis.com/test_public_bucket/unlabelled/KalaManthan_02-08-2021_09-38.zip) | 3.11
+Art-and-culture | kalArt_1 | Unlablled | [kalArt_1](https://storage.googleapis.com/test_public_bucket/unlabelled/kalArt_02-08-2021_09-38.zip) | 5.73
 Art-and-culture | kalArt_2 | Unlablled | [kalArt_2](https://storage.googleapis.com/test_public_bucket/unlabelled/kalArt_02-08-2021_09-42.zip)
-Art-and-culture | Wordsutra_1 | Unlablled | [Wordsutra_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Wordsutra_02-08-2021_09-38.zip)
+Art-and-culture | Wordsutra_1 | Unlablled | [Wordsutra_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Wordsutra_02-08-2021_09-38.zip) | 6.77
 Art-and-culture | Wordsutra_2 | Unlablled | [Wordsutra_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Wordsutra_02-08-2021_09-42.zip)
-Art-and-culture | Tape_A_Tale_1 | Unlablled | [Tape_A_Tale_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Tape_A_Tale_02-08-2021_09-38.zip)
+Art-and-culture | Tape_A_Tale_1 | Unlablled | [Tape_A_Tale_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Tape_A_Tale_02-08-2021_09-38.zip) | 7.5
 Art-and-culture | Tape_A_Tale_2 | Unlablled | [Tape_A_Tale_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Tape_A_Tale_02-08-2021_09-42.zip)
-Art-and-culture | maatribhasha_1 | Unlablled | [maatribhasha_1](https://storage.googleapis.com/test_public_bucket/unlabelled/maatribhasha_02-08-2021_09-38.zip)
+Art-and-culture | maatribhasha_1 | Unlablled | [maatribhasha_1](https://storage.googleapis.com/test_public_bucket/unlabelled/maatribhasha_02-08-2021_09-38.zip) | 10.4
 Art-and-culture | maatribhasha_2 | Unlablled | [maatribhasha_2](https://storage.googleapis.com/test_public_bucket/unlabelled/maatribhasha_02-08-2021_09-42.zip)
-Art-and-culture | Nojoto_App_Open_Mic_1 | Unlabelled | [Nojoto_App_Open_Mic_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nojoto_App_Open_Mic_02-08-2021_09-38.zip)
+Art-and-culture | Nojoto_App_Open_Mic_1 | Unlabelled | [Nojoto_App_Open_Mic_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Nojoto_App_Open_Mic_02-08-2021_09-38.zip) | 1.16
 Art-and-culture | Nojoto_App_Open_Mic_2 | Unlabelled | [Nojoto_App_Open_Mic_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Nojoto_App_Open_Mic_02-08-2021_09-42.zip)
-News | Vividh_Bharti_Mumbai_1 | Unlabelled | [Vividh_Bharti_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Vividh_Bharti_Mumbai_02-08-2021_09-38.zip)
+News | Vividh_Bharti_Mumbai_1 | Unlabelled | [Vividh_Bharti_Mumbai_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Vividh_Bharti_Mumbai_02-08-2021_09-38.zip) | 6.39
 News | Vividh_Bharti_Mumbai_2 | Unlabelled | [Vividh_Bharti_Mumbai_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Vividh_Bharti_Mumbai_02-08-2021_09-42.zip)
-Education | swayamprabha_chapter_4 | Unlabelled | [swayamprabha_chapter_4](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_4_02-08-2021_10-06.zip)
-Education | swayamprabha_chapter_6 | Unlabelled | [swayamprabha_chapter_6](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_6_02-08-2021_10-06.zip)
-Education | swayamprabha_chapter_16 | Unlabelled | [swayamprabha_chapter_16](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_16_02-08-2021_10-06.zip)
-Education | swayamprabha_chapter_24 | Unlabelled | [swayamprabha_chapter_24](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_24_02-08-2021_10-06.zip)
-Education | swayamprabha_chapter_25 | Unlabelled | [swayamprabha_chapter_25](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_25_02-08-2021_10-06.zip)
-Education | swayamprabha_chapter_28 | Unlabelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_28_02-08-2021_10-06.zip)
-Education | swayamprabha_chapter_30 | Unlabelled | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_30_02-08-2021_10-06.zip)
-Art-and-culture | Stage_Time | Unlabelled | [Stage_Time](https://storage.googleapis.com/test_public_bucket/unlabelled/Stage_Time_02-08-2021_10-18.zip)
+Education | swayamprabha_chapter_4 | Unlabelled | [swayamprabha_chapter_4](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_4_02-08-2021_10-06.zip) | 9.38
+Education | swayamprabha_chapter_6 | Unlabelled | [swayamprabha_chapter_6](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_6_02-08-2021_10-06.zip) | 2.88
+Education | swayamprabha_chapter_16 | Unlabelled | [swayamprabha_chapter_16](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_16_02-08-2021_10-06.zip) | 0.91
+Education | swayamprabha_chapter_24 | Unlabelled | [swayamprabha_chapter_24](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_24_02-08-2021_10-06.zip) | 5.57
+Education | swayamprabha_chapter_25 | Unlabelled | [swayamprabha_chapter_25](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_25_02-08-2021_10-06.zip) | 4.78
+Education | swayamprabha_chapter_28 | Unlabelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_28_02-08-2021_10-06.zip) |10.44
+Education | swayamprabha_chapter_30 | Unlabelled | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_30_02-08-2021_10-06.zip) | 4.21
+Art-and-culture | Stage_Time | Unlabelled | [Stage_Time](https://storage.googleapis.com/test_public_bucket/unlabelled/Stage_Time_02-08-2021_10-18.zip) | 2.46
 ### `English Unlabelled`  _Total Duration is 595.6 hours_
 Domain | Source | Type | Corpus_Download_link |  
 :--- |:--- | :---: | :---: |

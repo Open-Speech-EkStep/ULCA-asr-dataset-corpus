@@ -744,30 +744,39 @@ Education | swayamprabha_chapter_25 | Unlabelled | [swayamprabha_chapter_25](htt
 Education | swayamprabha_chapter_28 | Unlabelled | [swayamprabha_chapter_28](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_28_02-08-2021_10-06.zip) |10.44
 Education | swayamprabha_chapter_30 | Unlabelled | [swayamprabha_chapter_30](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_30_02-08-2021_10-06.zip) | 4.21
 Art-and-culture | Stage_Time | Unlabelled | [Stage_Time](https://storage.googleapis.com/test_public_bucket/unlabelled/Stage_Time_02-08-2021_10-18.zip) | 2.46
-### `English Unlabelled`  _Total Duration is 595.6 hours_
-Domain | Source | Type | Corpus_Download_link |  
-:--- |:--- | :---: | :---: |
-Philosophy | Sadhguru_1 | Unlabelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Sadhguru_30-07-2021_06-33.zip)
+### `English Unlabelled`  _Total Duration is 780.64 hours_
+Domain | Source | Type | Corpus_Download_link | Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_05-54.zip) | 185
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_05-57.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_06-10.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_06-22.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_06-35.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_06-47.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_06-59.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_07-11.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Indian_English_newsonair.nic.in_09-08-2021_07-23.zip)
+Philosophy | Sadhguru_1 | Unlabelled | [Sadhguru_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Sadhguru_30-07-2021_06-33.zip) | 58
 Philosophy | Sadhguru_2 | Unlabelled | [Sadhguru_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Sadhguru_30-07-2021_06-43.zip)
 Philosophy | Sadhguru_3 | Unlabelled | [Sadhguru_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Sadhguru_30-07-2021_06-53.zip)
-Education | CEC_English_1 | Unlabelled | [CEC_English_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_06-29.zip)
+Education | CEC_English_1 | Unlabelled | [CEC_English_1](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_06-29.zip) | 136
 Education | CEC_English_2 | Unlabelled | [CEC_English_2](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_06-39.zip)
 Education | CEC_English_3 | Unlabelled | [CEC_English_3](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_06-50.zip)
 Education | CEC_English_4 | Unlabelled | [CEC_English_4](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_07-02.zip)
 Education | CEC_English_5 | Unlabelled | [CEC_English_5](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_07-13.zip)
 Education | CEC_English_6 | Unlabelled | [CEC_English_6](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_07-17.zip)
 Education | CEC_English_7 | Unlabelled | [CEC_English_7](https://storage.googleapis.com/test_public_bucket/unlabelled/CEC_English_30-07-2021_07-23.zip)
-News | News_on_AIR_English_1 | Unlabelled | [News_on_AIR_English_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News_on_AIR_English_30-07-2021_06-29.zip)
+News | News_on_AIR_English_1 | Unlabelled | [News_on_AIR_English_1](https://storage.googleapis.com/test_public_bucket/unlabelled/News_on_AIR_English_30-07-2021_06-29.zip) | 198
 News | News_on_AIR_English_2 | Unlabelled | [News_on_AIR_English_2](https://storage.googleapis.com/test_public_bucket/unlabelled/News_on_AIR_English_30-07-2021_06-39.zip)
 News | News_on_AIR_English_3 | Unlabelled | [News_on_AIR_English_3](https://storage.googleapis.com/test_public_bucket/unlabelled/News_on_AIR_English_30-07-2021_06-50.zip)
 News | News_on_AIR_English_4 | Unlabelled | [News_on_AIR_English_4](https://storage.googleapis.com/test_public_bucket/unlabelled/News_on_AIR_English_30-07-2021_07-02.zip)
 News | News_on_AIR_English_5 | Unlabelled | [News_on_AIR_English_5](https://storage.googleapis.com/test_public_bucket/unlabelled/News_on_AIR_English_30-07-2021_07-13.zip)
-General | Rajya_Sabha_TV_Indias_World_1 | Unlabelled | [Rajya_Sabha_TV_Indias_World_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_Indias_World_26-07-2021_07-25.zip)
+General | Rajya_Sabha_TV_Indias_World_1 | Unlabelled | [Rajya_Sabha_TV_Indias_World_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_Indias_World_26-07-2021_07-25.zip) | 127
 General | Rajya_Sabha_TV_Indias_World_2 | Unlabelled | [Rajya_Sabha_TV_Indias_World_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_Indias_World_26-07-2021_07-54.zip)
 General | Rajya_Sabha_TV_Indias_World_3 | Unlabelled | [Rajya_Sabha_TV_Indias_World_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_Indias_World_26-07-2021_08-04.zip)
 General | Rajya_Sabha_TV_Indias_World_4 | Unlabelled | [Rajya_Sabha_TV_Indias_World_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_Indias_World_26-07-2021_08-16.zip)
 General | Rajya_Sabha_TV_Indias_World_5 | Unlabelled | [Rajya_Sabha_TV_Indias_World_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_Indias_World_26-07-2021_08-28.zip)
-General | Rajya_Sabha_TV_In_depth_1 | Unlabelled | [Rajya_Sabha_TV_In_depth_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-48.zip)
+General | Rajya_Sabha_TV_In_depth_1 | Unlabelled | [Rajya_Sabha_TV_In_depth_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-48.zip) | 74
 General | Rajya_Sabha_TV_In_depth_2 | Unlabelled | [Rajya_Sabha_TV_In_depth_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_08-56.zip)
 General | Rajya_Sabha_TV_In_depth_3 | Unlabelled | [Rajya_Sabha_TV_In_depth_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Rajya_Sabha_TV_In_depth_26-07-2021_09-06.zip)
 ### `Nepali Unlabelled`  _Total Duration is 124.5 hours_

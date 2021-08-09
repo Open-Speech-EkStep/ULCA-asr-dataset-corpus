@@ -175,9 +175,17 @@ Sports | Cricket_Talks-Tamil | Labelled | [Cricket_Talks-Tamil](https://storage.
 Technology | A_Tech_Tamil | Labelled | [A_Tech_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/A_Tech_Tamil_03-08-2021_06-10.zip) | 6.66
 Religion | Acting_Christians_Tamil | Labelled | [Acting_Christians_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/Acting_Christians_Tamil_03-08-2021_06-09.zip) | 1.16
 General | CSC_Tamil | Labelled | [CSC_Tamil](https://storage.googleapis.com/test_public_bucket/labelled/CSC_Tamil_03-08-2021_06-11.zip) | 9.2
-### `English Labelled`  _Total Duration is 595.51 hours_
+### `English Labelled`  _Total Duration is 780.51 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs) |
 :--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Labelled | [ newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_01-57.zip) | 185
+News | newsonair.nic.in_2 | Labelled | [ newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_02-11.zip)
+News | newsonair.nic.in_3 | Labelled | [ newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_02-25.zip)
+News | newsonair.nic.in_4 | Labelled | [ newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_02-40.zip)
+News | newsonair.nic.in_5 | Labelled | [ newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_02-54.zip)
+News | newsonair.nic.in_6 | Labelled | [ newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_03-09.zip)
+News | newsonair.nic.in_7 | Labelled | [ newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_03-24.zip)
+News | newsonair.nic.in_8 | Labelled | [ newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_newsonair.nic.in_09-08-2021_03-37.zip)
 News | Rajya_Sabha_TV_Indias_World_1 | Labelled | [Rajya_Sabha_TV_Indias_World_1](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-13.zip) | 128.12
 News | Rajya_Sabha_TV_Indias_World_2 | Labelled | [Rajya_Sabha_TV_Indias_World_2](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-28.zip)
 News | Rajya_Sabha_TV_Indias_World_3 | Labelled | [Rajya_Sabha_TV_Indias_World_3](https://storage.googleapis.com/test_public_bucket/labelled/Indian_English_Rajya_Sabha_TV_Indias_World_04-08-2021_16-46.zip)

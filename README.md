@@ -392,9 +392,22 @@ Philosophy | Josh_Talks_Punjabi | Unlabelled | [Josh_Talks_Punjabi](https://stor
 News | Daily_Post_Punjab_News_1 | Unlabelled | [Daily_Post_Punjab_News_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-34.zip) | 71.9
 News | Daily_Post_Punjab_News_2 | Unlabelled | [Daily_Post_Punjab_News_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_20-48.zip)
 News | Daily_Post_Punjab_News_3 | Unlabelled | [Daily_Post_Punjab_News_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Daily_Post_Punjab_News_26-07-2021_21-01.zip)
-### `Gujarati Unlabelled` _Total Duration is 284.14 hours_
+### `Gujarati Unlabelled` _Total Duration is 348.4 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_13-46.zip) | 64.26
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_13-52.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_13-59.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-06.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-14.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-19.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-24.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-28.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-32.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-33.zip)
+News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-35.zip)
+News | newsonair.nic.in_12 | Unlabelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-36.zip)
+News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Gujarati_newsonair.nic.in_10-08-2021_14-37.zip)
 News | DD_News_Gujarati_1 | Unlabelled | [DD_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-19.zip) | 81.68
 News | DD_News_Gujarati_2 | Unlabelled | [DD_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-28.zip)
 News | DD_News_Gujarati_3 | Unlabelled | [DD_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Gujarati_27-07-2021_05-36.zip)
@@ -905,9 +918,18 @@ News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.go
 News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-39.zip)
 News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-56.zip)
 News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_14-07.zip)
-### `Kashmiri Unlabelled` _Total Duration is 235.59 hours_
+### `Kashmiri Unlabelled` _Total Duration is 251.63 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | [DD_Kashir_1] | Unlabelled | [DD_Kashir_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-20.zip) | 16
+News | [DD_Kashir_2] | Unlabelled | [DD_Kashir_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-23.zip)
+News | [DD_Kashir_3] | Unlabelled | [DD_Kashir_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-36.zip)
+News | [DD_Kashir_4] | Unlabelled | [DD_Kashir_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-37.zip)
+News | [DD_Kashir_5] | Unlabelled | [DD_Kashir_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-39.zip)
+News | [DD_Kashir_6] | Unlabelled | [DD_Kashir_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-40.zip)
+News | [DD_Kashir_7] | Unlabelled | [DD_Kashir_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-41.zip)
+News | [DD_Kashir_8] | Unlabelled | [DD_Kashir_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_15-54.zip)
+News | [DD_Kashir_9] | Unlabelled | [DD_Kashir_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_DD_Kashir_10-08-2021_16-02.zip)
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_08-52.zip) | 235.59
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_09-00.zip)
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_09-08.zip)
@@ -939,19 +961,50 @@ News | newsonair.nic.in_12 | Unalabelled | [newsonair.nic.in_12](https://storage
 News | newsonair.nic.in_13 | Unalabelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_11-05.zip)
 News | newsonair.nic.in_14 | Unalabelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_11-11.zip)
 News | newsonair.nic.in_15 | Unalabelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_11-17.zip)
-### `Manipuri Unlabelled` _Total Duration is 201.45 hours_
+### `Manipuri Unlabelled` _Total Duration is 221.29 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | AIR_News_Imphal_1 | Unlabelled | [AIR_News_Imphal_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-22.zip) | 19.84
+News | AIR_News_Imphal_2 | Unlabelled | [AIR_News_Imphal_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-26.zip)
+News | AIR_News_Imphal_3 | Unlabelled | [AIR_News_Imphal_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-36.zip)
+News | AIR_News_Imphal_4 | Unlabelled | [AIR_News_Imphal_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-37.zip)
+News | AIR_News_Imphal_5 | Unlabelled | [AIR_News_Imphal_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-39.zip)
+News | AIR_News_Imphal_6 | Unlabelled | [AIR_News_Imphal_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-40.zip)
+News | AIR_News_Imphal_7 | Unlabelled | [AIR_News_Imphal_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-41.zip)
+News | AIR_News_Imphal_8 | Unlabelled | [AIR_News_Imphal_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-42.zip)
+News | AIR_News_Imphal_9 | Unlabelled | [AIR_News_Imphal_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-43.zip)
+News | AIR_News_Imphal_10 | Unlabelled | [AIR_News_Imphal_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-54.zip)
+News | AIR_News_Imphal_11 | Unlabelled | [AIR_News_Imphal_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_15-56.zip)
+News | AIR_News_Imphal_12 | Unlabelled | [AIR_News_Imphal_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_AIR_News_Imphal_10-08-2021_16-01.zip)
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-14.zip) | 201.45
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-23.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-32.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-41.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-49.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-58.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-05.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-13.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-20.zip)
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-27.zip)
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-23.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-32.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-41.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-49.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-58.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-05.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-13.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-20.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-27.zip)
+### `Dogri Unlabelled` _Total Duration is 301.6 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_12-29.zip) | 301.6
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_12-39.zip)
+News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_12-52.zip)
+News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_13-03.zip)
+News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_13-15.zip)
+News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_13-26.zip)
+News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_13-37.zip)
+News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_13-47.zip)
+News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_13-57.zip)
+News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-05.zip)
+News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-15.zip)
+News | newsonair.nic.in_12 | Unlabelled | [newsonair.nic.in_12](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-25.zip)
+News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_13](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-33.zip)
+News | newsonair.nic.in_14 | Unlabelled | [newsonair.nic.in_14](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-42.zip)
+News | newsonair.nic.in_15 | Unlabelled | [newsonair.nic.in_15](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-50.zip)
+News | newsonair.nic.in_16 | Unlabelled | [newsonair.nic.in_16](htt]ps://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-58.zip)
 ### `Hindi labelled External` _Total Duration is 141 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: | 

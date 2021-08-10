@@ -330,7 +330,7 @@ News | DD_News_Odia_Official_1 | Unlabelled | [DD_News_Odia_Official_1](https://
 News | DD_News_Odia_Official_2 | Unlabelled | [DD_News_Odia_Official_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-58.zip)
 News | DD_News_Odia_Official_3 | Unlabelled | [DD_News_Odia_Official_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_11-04.zip)
 News | Mann_Ki_Baat_odia | Unlabelled | [Mann_Ki_Baat_odia](https://storage.googleapis.com/test_public_bucket/unlabelled/Mann_Ki_Baat_odia_27-07-2021_10-52.zip) | 4.02
-### `Kannada Unlabelled`  _Total Duration is 547.53 hours_
+### `Kannada Unlabelled`  _Total Duration is 441.99 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs) |
 :--- |:--- | :---: | :---: | :---: |
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_newsonair.nic.in_05-08-2021_15-03.zip) | 280
@@ -353,11 +353,6 @@ General | Total_Kannada_2 | Unlabelled | [Total_Kannada_2](https://storage.googl
 Philosophy | sadhgurukannada | Unlabelled | [sadhgurukannada](https://storage.googleapis.com/test_public_bucket/unlabelled/sadhgurukannada_29-07-2021_08-21.zip) | 9.8
 Entertainment | Nimma_Upendra | Unlabelled | [Nimma_Upendra](https://storage.googleapis.com/test_public_bucket/unlabelled/Nimma_Upendra_29-07-2021_08-39.zip) | 2
 General | ALL_INDIA_RADIO_BANGALORE | Unlabelled | [ALL_INDIA_RADIO_BANGALORE](https://storage.googleapis.com/test_public_bucket/unlabelled/ALL_INDIA_RADIO_BANGALORE_02-08-2021_10-25.zip) | 17.67
-Genreal | Unacademy-KarnatakaPSC_1 | Unlabelled | [Unacademy-KarnatakaPSC_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-51.zip) | 103.13
-Genreal | Unacademy-KarnatakaPSC_2 | Unlabelled | [Unacademy-KarnatakaPSC_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_09-56.zip)
-Genreal | Unacademy-KarnatakaPSC_3 | Unlabelled | [Unacademy-KarnatakaPSC_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-02.zip)
-Genreal | Unacademy-KarnatakaPSC_4 | Unlabelled | [Unacademy-KarnatakaPSC_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-07.zip)
-Genreal | Unacademy-KarnatakaPSC_5 | Unlabelled | [Unacademy-KarnatakaPSC_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Unacademy-KarnatakaPSC_non_cc_27-07-2021_10-11.zip)
 ### `Punjabi Unlabelled`  _Total Duration is 863.1 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

@@ -669,7 +669,7 @@ General | A_Tech_Tamil | Unlabelled | [A_Tech_Tamil](https://storage.googleapis.
 General | Azhagu_Tamil_Kudil | Unlabelled | [Azhagu_Tamil_Kudil](https://storage.googleapis.com/test_public_bucket/unlabelled/Azhagu_Tamil_Kudil_21-07-2021_09-39.zip) | 1.9
 Technology | Electrical_Express_Tamil | Unlabelled | [Electrical_Express_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Electrical_Express_Tamil_30-07-2021_10-18.zip) | 14.49
 Education | Dilse_Tamil | Unlabelled | [Dilse_Tamil](https://storage.googleapis.com/test_public_bucket/unlabelled/Dilse_Tamil_30-07-2021_10-18.zip) | 3.17
-### `Hindi Unlabelled`  _Total Duration is 1881.92 hours_
+### `Hindi Unlabelled`  _Total Duration is 2432.92 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
 News | newsonair.nic.in_1 | Unlabelled | [ newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_12-27.zip) | 800
@@ -691,6 +691,27 @@ News | newsonair.nic.in_16 | Unlabelled | [ newsonair.nic.in_16](https://storage
 News | newsonair.nic.in_17 | Unlabelled | [ newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_16-42.zip)
 News | newsonair.nic.in_18 | Unlabelled | [ newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_16-59.zip)
 News | newsonair.nic.in_19 | Unlabelled | [ newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/unlabelled/newsonair.nic.in_26-07-2021_20-19.zip)
+News | newsonair.nic.in_20 | Unlabelled | [ newsonair.nic.in_20](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_08-10.zip)
+News | newsonair.nic.in_20 | Unlabelled | [ newsonair.nic.in_21](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_08-28.zip)
+News | newsonair.nic.in_21 | Unlabelled | [ newsonair.nic.in_22](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_08-45.zip)
+News | newsonair.nic.in_22 | Unlabelled | [ newsonair.nic.in_23](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_09-05.zip)
+News | newsonair.nic.in_23 | Unlabelled | [ newsonair.nic.in_24](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_12-09.zip)
+News | newsonair.nic.in_24 | Unlabelled | [ newsonair.nic.in_25](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_12-27.zip)
+News | newsonair.nic.in_25 | Unlabelled | [ newsonair.nic.in_26](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_12-45.zip)
+News | newsonair.nic.in_26 | Unlabelled | [ newsonair.nic.in_27](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_13-02.zip)
+News | newsonair.nic.in_27 | Unlabelled | [ newsonair.nic.in_28](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_13-19.zip)
+News | newsonair.nic.in_28 | Unlabelled | [ newsonair.nic.in_29](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_13-36.zip)
+News | newsonair.nic.in_29 | Unlabelled | [ newsonair.nic.in_30](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_13-54.zip)
+News | newsonair.nic.in_30 | Unlabelled | [ newsonair.nic.in_30](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_14-12.zip)
+News | newsonair.nic.in_31 | Unlabelled | [ newsonair.nic.in_31](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_14-31.zip)
+News | newsonair.nic.in_32 | Unlabelled | [ newsonair.nic.in_32](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_14-49.zip)
+News | newsonair.nic.in_33 | Unlabelled | [ newsonair.nic.in_33](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_15-07.zip)
+News | newsonair.nic.in_34 | Unlabelled | [ newsonair.nic.in_34](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_15-25.zip)
+News | newsonair.nic.in_35 | Unlabelled | [ newsonair.nic.in_35](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_15-44.zip)
+News | newsonair.nic.in_36 | Unlabelled | [ newsonair.nic.in_36](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_16-02.zip)
+News | newsonair.nic.in_37 | Unlabelled | [ newsonair.nic.in_37](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_16-20.zip)
+News | newsonair.nic.in_38 | Unlabelled | [ newsonair.nic.in_38](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_16-38.zip)
+News | newsonair.nic.in_39 | Unlabelled | [ newsonair.nic.in_39](https://storage.googleapis.com/test_public_bucket/unlabelled/Hindi_newsonair.nic.in_09-08-2021_16-56.zip)
 Education | swayamprabha_chapter_1_1 | Unlabelled | [swayamprabha_chapter_1_1](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_09-59.zip) | 118.33
 Education | swayamprabha_chapter_1_2 | Unlabelled | [swayamprabha_chapter_1_2](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_10-08.zip)
 Education | swayamprabha_chapter_1_3 | Unlabelled | [swayamprabha_chapter_1_3](https://storage.googleapis.com/test_public_bucket/unlabelled/swayamprabha_chapter_1_29-07-2021_10-16.zip)

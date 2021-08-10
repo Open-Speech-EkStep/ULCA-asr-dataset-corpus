@@ -905,10 +905,10 @@ News | newsonair.nic.in_6 | Unlabelled | [newsonair.nic.in_6](https://storage.go
 News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-39.zip)
 News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_13-56.zip)
 News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Nepali_newsonair.nic.in_05-08-2021_14-07.zip)
-### `Kashmiri Unlabelled` _Total Duration is 245.72 hours_
+### `Kashmiri Unlabelled` _Total Duration is 235.59 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_08-52.zip) | 245.72
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_08-52.zip) | 235.59
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_09-00.zip)
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_09-08.zip)
 News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_09-17.zip)
@@ -921,10 +921,10 @@ News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.
 News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_10-14.zip)
 News | newsonair.nic.in_12 | Unlabelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_10-22.zip)
 News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_10-29.zip)
-### `Konkani Unlabelled` _Total Duration is 316.5 hours_
+### `Konkani Unlabelled` _Total Duration is 305.96 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
-News | newsonair.nic.in_1 | Unalabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-01.zip) | 316.5
+News | newsonair.nic.in_1 | Unalabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-01.zip) | 305.96
 News | newsonair.nic.in_2 | Unalabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-11.zip)
 News | newsonair.nic.in_3 | Unalabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-20.zip)
 News | newsonair.nic.in_4 | Unalabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-30.zip)
@@ -939,10 +939,10 @@ News | newsonair.nic.in_12 | Unalabelled | [newsonair.nic.in_12](https://storage
 News | newsonair.nic.in_13 | Unalabelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_11-05.zip)
 News | newsonair.nic.in_14 | Unalabelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_11-11.zip)
 News | newsonair.nic.in_15 | Unalabelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_11-17.zip)
-### `Manipuri Unlabelled` _Total Duration is 212.15 hours_
+### `Manipuri Unlabelled` _Total Duration is 201.45 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
-News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-14.zip) | 212.15
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-14.zip) | 201.45
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-23.zip)
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-32.zip)
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_11-41.zip)

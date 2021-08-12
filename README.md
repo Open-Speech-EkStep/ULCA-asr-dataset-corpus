@@ -1028,9 +1028,11 @@ News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_13](https://storage.
 News | newsonair.nic.in_14 | Unlabelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-42.zip)
 News | newsonair.nic.in_15 | Unlabelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-50.zip)
 News | newsonair.nic.in_16 | Unlabelled | [newsonair.nic.in_16](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_14-58.zip)
-### `Sindhi Unlabelled` _Total Duration is 29.24 hours_
+### `Sindhi Unlabelled` _Total Duration is 45.41 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+Entertainment | Sindhi_Film_Festival | Unlabelled | [Sindhi_Film_Festival](https://storage.googleapis.com/test_public_bucket/unlabelled/Sindhi_Sindhi_Film_Festival_12-08-2021_10-24.zip) | 2.91 
+News | RadioSindhi | Unalbelled | [RadioSindhi](https://storage.googleapis.com/test_public_bucket/unlabelled/Sindhi_RadioSindhi_12-08-2021_10-24.zip) | 13.26
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Sindhi_newsonair.nic.in_10-08-2021_16-39.zip | 29.24
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Sindhi_newsonair.nic.in_10-08-2021_16-45.zip
 ### `Sanskrit Unlabelled` _Total Duration is 82.72 hours_

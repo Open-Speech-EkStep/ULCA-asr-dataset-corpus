@@ -943,9 +943,13 @@ News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.
 News | newsonair.nic.in_11 | Unlabelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_10-14.zip)
 News | newsonair.nic.in_12 | Unlabelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_10-22.zip)
 News | newsonair.nic.in_13 | Unlabelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/unlabelled/Kashmiri_newsonair.nic.in_10-08-2021_10-29.zip)
-### `Konkani Unlabelled` _Total Duration is 305.96 hours_
+### `Konkani Unlabelled` _Total Duration is 340.61 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+Entertainment | Ashawadi_Prakashan_1 | Unlabelled | [Ashawadi_Prakashan_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_Ashawadi_Prakashan_11-08-2021_14-37.zip) | 22
+Entertainment | Ashawadi_Prakashan_2 | Unlabelled | [Ashawadi_Prakashan_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_Ashawadi_Prakashan_11-08-2021_14-43.zip)
+News | FM_Rainbow_konkani | Unlabelled | [FM_Rainbow_konkani](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_FM_Rainbow_konkani_11-08-2021_14-37.zip) | 4
+News | Mann_Ki_Baat_konkani | Unlabelled | [Mann_Ki_Baat_konkani](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_Mann_Ki_Baat_konkani_11-08-2021_14-37.zip) | 7.5
 News | newsonair.nic.in_1 | Unalabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-01.zip) | 305.96
 News | newsonair.nic.in_2 | Unalabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-11.zip)
 News | newsonair.nic.in_3 | Unalabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Konkani_newsonair.nic.in_10-08-2021_09-20.zip)
@@ -986,9 +990,10 @@ News | newsonair.nic.in_7 | Unlabelled | [newsonair.nic.in_7](https://storage.go
 News | newsonair.nic.in_8 | Unlabelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-13.zip)
 News | newsonair.nic.in_9 | Unlabelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-20.zip)
 News | newsonair.nic.in_10 | Unlabelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/unlabelled/Manipuri_newsonair.nic.in_10-08-2021_12-27.zip)
-### `Dogri Unlabelled` _Total Duration is 301.6 hours_
+### `Dogri Unlabelled` _Total Duration is 312.34 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
+News | Akashvani_Jammu | Unlabelled | [Akashvani_Jammu](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_Akashvani_Jammu_11-08-2021_14-45.zip) | 11.34
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_12-29.zip) | 301.6
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_12-39.zip)
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Dogri_newsonair.nic.in_10-08-2021_12-52.zip)
@@ -1018,6 +1023,29 @@ News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.go
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Sanskrit_newsonair.nic.in_10-08-2021_16-54.zip)
 News | newsonair.nic.in_4 | Unlabelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/unlabelled/Sanskrit_newsonair.nic.in_10-08-2021_17-00.zip)
 News | newsonair.nic.in_5 | Unlabelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/unlabelled/Sanskrit_newsonair.nic.in_10-08-2021_17-07.zip)
+### `Bodo Unlabelled` _Total Duration is 29 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Bodo_newsonair.nic.in_11-08-2021_15-27.zip) | 29
+News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Bodo_newsonair.nic.in_11-08-2021_15-34.zip)
+### `Maithili Unlabelled` _Total Duration is 140.98 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | newsonair.nic.in | Unlabelled | [newsonair.nic.in](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_newsonair.nic.in_12-08-2021_01-49.zip) | 11.17
+News | Air_News_Patna | Unlabelled | [Air_News_Patna](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Air_News_Patna_11-08-2021_15-18.zip) | 2
+News | Appan_TV | Unlabelled | [Appan_TV](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Appan_TV_11-08-2021_15-18.zip) | 4
+News | Janata_Television_1 | Unlabelled | [Janata_Television_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Janata_Television_11-08-2021_15-18.zip) | 63
+News | Janata_Television_2 | Unlabelled | [Janata_Television_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Janata_Television_11-08-2021_15-26.zip)
+News | Janata_Television_3 | Unlabelled | [Janata_Television_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Janata_Television_11-08-2021_15-35.zip)
+News | Mithila_Mirror_1 | Unlabelled | [Mithila_Mirror_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Mithila_Mirror_11-08-2021_15-18.zip) | 57
+News | Mithila_Mirror_2 | Unlabelled | [Mithila_Mirror_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Mithila_Mirror_11-08-2021_15-26.zip)
+News | Mithila_Mirror_3 | Unlabelled | [Mithila_Mirror_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Mithila_Mirror_11-08-2021_15-35.zip)
+News | Unacademy_Articulate | Unlabelled | [Unacademy_Articulate](https://storage.googleapis.com/test_public_bucket/unlabelled/Maithili_Unacademy_Articulate_11-08-2021_15-18.zip) | 3
+### `Santali Unlabelled` _Total Duration is 5.8 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+News | Mann_Ki_Baat | Unlabelled | [Mann_Ki_Baat](https://storage.googleapis.com/test_public_bucket/unlabelled/Santali_Mann_Ki_Baat_12-08-2021_01-37.zip) | 4
+Entertainment | Singrai_Soren | Unlabelled | [Singrai_Soren](https://storage.googleapis.com/test_public_bucket/unlabelled/Santali_Singrai_Soren_12-08-2021_01-37.zip) | 1.8
 ### `Hindi labelled External` _Total Duration is 141 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: | 

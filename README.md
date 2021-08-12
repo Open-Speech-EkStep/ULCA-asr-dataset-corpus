@@ -330,9 +330,27 @@ News | DD_News_Odia_Official_1 | Unlabelled | [DD_News_Odia_Official_1](https://
 News | DD_News_Odia_Official_2 | Unlabelled | [DD_News_Odia_Official_2](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_10-58.zip)
 News | DD_News_Odia_Official_3 | Unlabelled | [DD_News_Odia_Official_3](https://storage.googleapis.com/test_public_bucket/unlabelled/DD_News_Odia_Official_27-07-2021_11-04.zip)
 News | Mann_Ki_Baat_odia | Unlabelled | [Mann_Ki_Baat_odia](https://storage.googleapis.com/test_public_bucket/unlabelled/Mann_Ki_Baat_odia_27-07-2021_10-52.zip) | 4.02
-### `Kannada Unlabelled` _Total Duration is 441.99 hours_
+### `Kannada Unlabelled` _Total Duration is 540.21 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs) |
 :--- |:--- | :---: | :---: | :---: |
+General | Doordarshan_Chandana_1 | Unlabelled | [Doordarshan_Chandana_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_Doordarshan_Chandana_12-08-2021_04-11.zip) | 8.33
+General | Doordarshan_Chandana_2 | Unlabelled | [Doordarshan_Chandana_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_Doordarshan_Chandana_12-08-2021_04-14.zip)
+General | Doordarshan_Chandana_3 | Unlabelled | [Doordarshan_Chandana_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_Doordarshan_Chandana_12-08-2021_04-15.zip)
+General | Unacademy_KarnatakaPSC_1 | Unlabelled | [Unacademy_KarnatakaPSC_1](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Unacademy-KarnatakaPSC_12-08-2021_03-53.zip) | 60.3
+General | Unacademy_KarnatakaPSC_2 | Unlabelled | [Unacademy_KarnatakaPSC_2](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Unacademy-KarnatakaPSC_12-08-2021_03-59.zip)
+General | Unacademy_KarnatakaPSC_3 | Unlabelled | [Unacademy_KarnatakaPSC_3](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Unacademy-KarnatakaPSC_12-08-2021_04-05.zip)
+General | Unacademy_KarnatakaPSC_4 | Unlabelled | [Unacademy_KarnatakaPSC_4](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Unacademy-KarnatakaPSC_12-08-2021_04-11.zip)
+General | Unacademy_KarnatakaPSC_5 | Unlabelled | [Unacademy_KarnatakaPSC_5](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Unacademy-KarnatakaPSC_12-08-2021_04-17.zip)
+General | Astroyogi_Kannada_1 | Unlabelled | [Astroyogi_Kannada_1](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_03-53.zip)
+General | Astroyogi_Kannada_2 | Unlabelled | [Astroyogi_Kannada_2](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_03-59.zip)
+General | Astroyogi_Kannada_3 | Unlabelled | [Astroyogi_Kannada_3](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-05.zip)
+General | Astroyogi_Kannada_4 | Unlabelled | [Astroyogi_Kannada_4](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-11.zip)
+General | Astroyogi_Kannada_5 | Unlabelled | [Astroyogi_Kannada_5](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-17.zip)
+General | Astroyogi_Kannada_6 | Unlabelled | [Astroyogi_Kannada_6](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-19.zip)
+General | Astroyogi_Kannada_7 | Unlabelled | [Astroyogi_Kannada_7](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-21.zip)
+General | Astroyogi_Kannada_8 | Unlabelled | [Astroyogi_Kannada_8](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-22.zip)
+General | Astroyogi_Kannada_9 | Unlabelled | [Astroyogi_Kannada_9](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-23.zip)
+General | Astroyogi_Kannada_10 | Unlabelled | [Astroyogi_Kannada_10](https://storage.googleapis.comtest_public_bucket/unlabelled/Kannada_Astroyogi_Kannada_12-08-2021_04-24.zip)
 News | newsonair.nic.in_1 | Unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_newsonair.nic.in_05-08-2021_15-03.zip) | 280
 News | newsonair.nic.in_2 | Unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_newsonair.nic.in_05-08-2021_15-42.zip)
 News | newsonair.nic.in_3 | Unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/unlabelled/Kannada_newsonair.nic.in_05-08-2021_15-49.zip)

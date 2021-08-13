@@ -1156,35 +1156,43 @@ Education | Tamil_Interspeech_Task1_Train | [Tamil_Interspeech_Task1_Train](http
  Education | IITM_ENG_TRAIN | [IITM_ENG_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/English_IITM_eng_train_unlabelled_09-08-2021_11-23.zip) | 120 
  Education | IITM_ASR_TTS_Female_en_un | [IITM_ASR_TTS_Female_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_IN-EN_28-07-2021_11-38.zip) | 4
  Education | IITM_ASR_TTS_Male_en_un | [IITM_ASR_TTS_Male_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_IN-EN_28-07-2021_10-32.zip) | 4
-### `Gujarati labelled External` _Total Duration is 40 hours_
+### `Gujarati labelled External` _Total Duration is 45 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Gujarati_Interspeech_Task1_Train | [Gujarati_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Gujarati_Gujarati_Interspeech_Task1_Train_labelled_12-08-2021_13-09.zip) | 40
-### `Gujarati Unlabelled External` _Total Duration is 40 hours_
+Education | Gujarati_Interspeech_Task1_Valid | [Gujarati_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Gujarati_Gujarati_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
+### `Gujarati Unlabelled External` _Total Duration is 45 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Gujarati_Interspeech_Task1_Train | [Gujarati_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Gujarati_Gujarati_Interspeech_Task1_Train_unlabelled_12-08-2021_13-09.zip) | 40
-### `Telugu labelled External` _Total Duration is 40 hours_
+Education | Gujarati_Interspeech_Task1_Valid | [Gujarati_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Gujarati_Gujarati_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
+### `Telugu labelled External` _Total Duration is 45 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Telugu_Interspeech_Task1_Train | [Telugu_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Telugu_Telugu_Interspeech_Task1_Train_labelled_12-08-2021_13-09.zip) | 40
-### `Telugu Unlabelled External` _Total Duration is 40 hours_
+Education | Telugu_Interspeech_Task1_Valid | [Telugu_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Telugu_Telugu_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
+### `Telugu Unlabelled External` _Total Duration is 45 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Telugu_Interspeech_Task1_Train | [Telugu_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Telugu_Telugu_Interspeech_Task1_Train_unlabelled_12-08-2021_13-09.zip) | 40
-### `Marathi labelled External` _Total Duration is 94  hours_
+Education | Telugu_Interspeech_Task1_Valid | [Telugu_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Telugu_Telugu_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
+### `Marathi labelled External` _Total Duration is 99  hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Marathi_Interspeech_Task1_Train | [Marathi_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Marathi_Marathi_Interspeech_Task1_Train_labelled_12-08-2021_14-16.zip) | 94
-### `Marathi Unlabelled External` _Total Duration is 94 hours_
+Education | Marathi_Interspeech_Task1_Valid | [Marathi_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Marathi_Marathi_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
+### `Marathi Unlabelled External` _Total Duration is 99 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Marathi_Interspeech_Task1_Train | [Marathi_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Marathi_Marathi_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94
-### `Odia labelled External` _Total Duration is 94 hours_
+Education | Marathi_Interspeech_Task1_Valid | [Marathi_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Marathi_Marathi_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
+### `Odia labelled External` _Total Duration is 99 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Odia_Odia_Interspeech_Task1_Train_labelled_12-08-2021_14-16.zip) | 94
-### `Odia Unlabelled External` _Total Duration is 94 hours_
+Education | Odia_Interspeech_Task1_Valid | [Odia_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Odia_Odia_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
+### `Odia Unlabelled External` _Total Duration is 99 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94
+Education | Odia_Interspeech_Task1_Valid | [Odia_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5

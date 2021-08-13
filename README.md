@@ -273,6 +273,36 @@ News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.goog
 News | NTV_Plus_1 | Labelled | [NTV_Plus_1](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_NTV_Plus_09-08-2021_09-46.zip) | 24.35
 News | NTV_Plus_2 | Labelled | [NTV_Plus_2](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_NTV_Plus_09-08-2021_09-58.zip)
 News | Khulla_Manch | Labelled | [Khulla_Manch](https://storage.googleapis.com/test_public_bucket/labelled/Nepali_Khulla_Manch_09-08-2021_09-44.zip) | 5.16
+### `Gujarati Labelled` _Total Duration is 430 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+news | Aakashwani_Mumbai | unlabelled | [Aakashwani_Mumbai](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Aakashwani_Mumbai_13-08-2021_05-30.zip) | 7
+news | AIR_News_Gujarati_1 | unlabelled | [AIR_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_AIR_News_Gujarati_13-08-2021_05-28.zip) | 48
+news | AIR_News_Gujarati_2 | unlabelled | [AIR_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_AIR_News_Gujarati_13-08-2021_05-44.zip)
+news | AIR_News_Gujarati_3 | unlabelled | [AIR_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_AIR_News_Gujarati_13-08-2021_05-59.zip)
+news | gujarat_sahitya_academy_1 | unlabelled | [gujarat_sahitya_academy_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Gujarat_Sahitya_Academy_13-08-2021_05-32.zip) | 67
+news | gujarat_sahitya_academy_2 | unlabelled | [gujarat_sahitya_academy_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Gujarat_Sahitya_Academy_13-08-2021_05-47.zip)
+news | gujarat_sahitya_academy_3 | unlabelled | [gujarat_sahitya_academy_3](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Gujarat_Sahitya_Academy_13-08-2021_06-05.zip)
+news | gujarat_sahitya_academy_4 | unlabelled | [gujarat_sahitya_academy_4](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Gujarat_Sahitya_Academy_13-08-2021_06-13.zip)
+news | gujarat_sahitya_academy_5 | unlabelled | [gujarat_sahitya_academy_5](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Gujarat_Sahitya_Academy_13-08-2021_06-17.zip)
+news | newsonair.nic.in_1 | unlabelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_newsonair.nic.in_13-08-2021_05-29.zip) | 63
+news | newsonair.nic.in_2 | unlabelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_newsonair.nic.in_13-08-2021_05-44.zip)
+news | newsonair.nic.in_3 | unlabelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_newsonair.nic.in_13-08-2021_05-59.zip)
+news | bbc_news_gujarati_1 | unlabelled | [bbc_news_gujarati_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_12-08-2021_23-23.zip) | 86
+news | bbc_news_gujarati_2 | unlabelled | [bbc_news_gujarati_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_12-08-2021_23-57.zip)
+news | bbc_news_gujarati_3 | unlabelled | [bbc_news_gujarati_3](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_13-08-2021_00-08.zip)
+news | bbc_news_gujarati_4 | unlabelled | [bbc_news_gujarati_4](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_13-08-2021_00-30.zip)
+news | bbc_news_gujarati_5 | unlabelled | [bbc_news_gujarati_5](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_13-08-2021_00-55.zip)
+news | bbc_news_gujarati_6 | unlabelled | [bbc_news_gujarati_6](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_13-08-2021_01-03.zip)
+news | bbc_news_gujarati_7 | unlabelled | [bbc_news_gujarati_7](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_BBC_News_Gujarati_13-08-2021_01-26.zip)
+news | DD_News_Gujarati_1 | unlabelled | [DD_News_Gujarati_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_12-08-2021_23-23.zip) | 89
+news | DD_News_Gujarati_2 | unlabelled | [DD_News_Gujarati_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_12-08-2021_23-57.zip)
+news | DD_News_Gujarati_3 | unlabelled | [DD_News_Gujarati_3](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_13-08-2021_00-08.zip)
+news | DD_News_Gujarati_4 | unlabelled | [DD_News_Gujarati_4](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_13-08-2021_00-30.zip)
+news | DD_News_Gujarati_5 | unlabelled | [DD_News_Gujarati_5](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_13-08-2021_00-55.zip)
+news | DD_News_Gujarati_6 | unlabelled | [DD_News_Gujarati_6](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_13-08-2021_01-03.zip)
+news | Unacademy_GPSC_1 | unlabelled | [Unacademy_GPSC_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Unacademy_GPSC_12-08-2021_23-26.zip) | 30
+news | Unacademy_GPSC_2 | unlabelled | [Unacademy_GPSC_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Unacademy_GPSC_12-08-2021_23-59.zip)
 ### `Bengali Unlabelled` _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

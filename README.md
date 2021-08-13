@@ -89,7 +89,7 @@ Education | swayamprabha_chapter_5_2 | Labelled | [swayamprabha_chapter_5_2](htt
 Education | swayamprabha_chapter_5_3 | Labelled | [swayamprabha_chapter_5_3](https://storage.googleapis.com/test_public_bucket/labelled/swayamprabha_chapter_5_27-07-2021_20-18.zip)
 News | newsonair.nic.in_1 | Labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_07-24.zip) | 791
 News | newsonair.nic.in_2 | Labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-00.zip)
-News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-29.zip)
+News | newsonair.nic.in_3 | Labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-29.zip)k
 News | newsonair.nic.in_4 | Labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_09-50.zip)
 News | newsonair.nic.in_5 | Labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-13.zip)
 News | newsonair.nic.in_6 | Labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/newsonair.nic.in_28-07-2021_10-31.zip)
@@ -1094,20 +1094,22 @@ Entertainment | Singrai_Soren | Unlabelled | [Singrai_Soren](https://storage.goo
  Education | IITM_HIN_TRAIN | [IITM_HIN_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Hindi_IITM_hindi_train_unlabelled_09-08-2021_17-16.zip) | 125
  Education | IITM_ASR_TTS_Female_hi_un | [IITM_ASR_TTS_Female_hi](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_hi_28-07-2021_13-23.zip) | 4
  Education | IITM_ASR_TTS_male_hi_un | [IITM_ASR_TTS_male_hi](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_hi_28-07-2021_15-53.zip) | 4
-### `Tamil labelled External` _Total Duration is 133 hours_
+### `Tamil labelled External` _Total Duration is 173 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: | 
  Education | IITM_TAMIL_DEV | [IITM_TAMIl_DEV](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_IITM_tamil_dev_09-08-2021_17-51.zip) | 4
  Education | IITM_TAMIL_EVAL | [IITM_TAMIl_EVAL](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_IITM_tamil_eval_09-08-2021_17-58.zip) | 4
  Education | IITM_TAMIL_TRAIN | [IITM_TAMIl_TRAIN](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_IITM_tamil_train_09-08-2021_18-03.zip) | 120
  Education | Tamil_Interspeech_Task1_Valid | [Tamil_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/EducationTamil_Tamil_Interspeech_Task1_Valid_labelled_12-08-2021_12-23.zip) | 5
-### `Tamil Unlabelled External` _Total Duration is 133 hours_
+ Education | Tamil_Interspeech_Task1_Train | [Tamil_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_Tamil_Interspeech_Task1_Train_labelled_12-08-2021_12-33.zip) | 40
+### `Tamil Unlabelled External` _Total Duration is 173 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: |
  Education | IITM_TAMIL_DEV | [IITM_TAMIL_DEV](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_IITM_tamil_dev_unlabelled_09-08-2021_17-51.zip) | 4
  Education | IITM_TAMIL_EVAL | [IITM_TAMIl_EVAL](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_IITM_tamil_eval_unlabelled_09-08-2021_17-58.zip) | 4
  Education | IITM_TAMIL_TRAIN | [IITM_TAMIl_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_IITM_tamil_train_unlabelled_09-08-2021_18-03.zip) | 120
  Education | Tamil_Interspeech_Task1_Valid | [Tamil_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_Tamil_Interspeech_Task1_Valid_12-08-2021_11-58.zip) | 5
+Education | Tamil_Interspeech_Task1_Train | [Tamil_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_Tamil_Interspeech_Task1_Train_unlabelled_12-08-2021_12-33.zip) | 40
 ### `English labelled External` _Total Duration is 136 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: |
@@ -1124,3 +1126,35 @@ Entertainment | Singrai_Soren | Unlabelled | [Singrai_Soren](https://storage.goo
  Education | IITM_ENG_TRAIN | [IITM_ENG_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/English_IITM_eng_train_unlabelled_09-08-2021_11-23.zip) | 120 
  Education | IITM_ASR_TTS_Female_en_un | [IITM_ASR_TTS_Female_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_IN-EN_28-07-2021_11-38.zip) | 4
  Education | IITM_ASR_TTS_Male_en_un | [IITM_ASR_TTS_Male_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_IN-EN_28-07-2021_10-32.zip) | 4
+### `Gujarati labelled External` _Total Duration is 40 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Gujarati_Interspeech_Task1_Train | [Gujarati_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Gujarati_Gujarati_Interspeech_Task1_Train_labelled_12-08-2021_13-09.zip) | 40
+### `Gujarati Unlabelled External` _Total Duration is 40 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Gujarati_Interspeech_Task1_Train | [Gujarati_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Gujarati_Gujarati_Interspeech_Task1_Train_unlabelled_12-08-2021_13-09.zip) | 40
+### `Telugu labelled External` _Total Duration is 40 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Telugu_Interspeech_Task1_Train | [Telugu_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Telugu_Telugu_Interspeech_Task1_Train_labelled_12-08-2021_13-09.zip) | 40
+### `Telugu Unlabelled External` _Total Duration is 40 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Telugu_Interspeech_Task1_Train | [Telugu_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Telugu_Telugu_Interspeech_Task1_Train_unlabelled_12-08-2021_13-09.zip) | 40
+### `Marathi labelled External` _Total Duration is 94  hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Marathi_Interspeech_Task1_Train | [Marathi_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Marathi_Marathi_Interspeech_Task1_Train_labelled_12-08-2021_14-16.zip) | 94
+### `Marathi Unlabelled External` _Total Duration is 94 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Marathi_Interspeech_Task1_Train | [Marathi_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Marathi_Marathi_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94
+### `Odia labelled External` _Total Duration is 94 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Odia_Odia_Interspeech_Task1_Train_labelled_12-08-2021_14-16.zip) | 94
+### `Odia Unlabelled External` _Total Duration is 94 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94

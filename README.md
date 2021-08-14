@@ -1196,3 +1196,21 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94
 Education | Odia_Interspeech_Task1_Valid | [Odia_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
+### `Nepali labelled External` _Total Duration is 129 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | nepali_openslr_train_1 | [nepali_openslr_train_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled1_13-08-2021_11-46.zip) | 129
+education | nepali_openslr_train_2 | [nepali_openslr_train_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled2_13-08-2021_11-46.zip)
+education | nepali_openslr_train_3 | [nepali_openslr_train_3](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled3_13-08-2021_11-46.zip)
+education | nepali_openslr_train_4 | [nepali_openslr_train_4](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled4_13-08-2021_13-26.zip)
+education | nepali_openslr_train_5 | [nepali_openslr_train_5](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled5_13-08-2021_13-26.zip)
+education | nepali_openslr_train_6 | [nepali_openslr_train_6](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled6_13-08-2021_13-26.zip)
+### `Nepali unlabelled External` _Total Duration is 129 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | nepali_openslr_train_1 | [nepali_openslr_train_1](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled1_13-08-2021_11-46.zip) | 129
+education | nepali_openslr_train_2 | [nepali_openslr_train_2](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled2_13-08-2021_11-46.zip)
+education | nepali_openslr_train_3 | [nepali_openslr_train_3](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled3_13-08-2021_11-46.zip)
+education | nepali_openslr_train_4 | [nepali_openslr_train_4](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled4_13-08-2021_13-26.zip)
+education | nepali_openslr_train_5 | [nepali_openslr_train_5](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled5_13-08-2021_13-26.zip)
+education | nepali_openslr_train_6 | [nepali_openslr_train_6](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled6_13-08-2021_13-26.zip)

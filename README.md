@@ -303,6 +303,67 @@ news | DD_News_Gujarati_5 | unlabelled | [DD_News_Gujarati_5](https://storage.go
 news | DD_News_Gujarati_6 | unlabelled | [DD_News_Gujarati_6](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_DD_News_Gujarati_13-08-2021_01-03.zip)
 news | Unacademy_GPSC_1 | unlabelled | [Unacademy_GPSC_1](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Unacademy_GPSC_12-08-2021_23-26.zip) | 30
 news | Unacademy_GPSC_2 | unlabelled | [Unacademy_GPSC_2](https://storage.googleapis.com/test_public_bucket/labelled/Gujarati_Unacademy_GPSC_12-08-2021_23-59.zip)
+### `Marathi Labelled` _Total Duration is 1388.31 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+news | newsonair.nic.in_1 | labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_00-21.zip) | 920
+news | newsonair.nic.in_2 | labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_00-31.zip)
+news | newsonair.nic.in_3 | labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_00-44.zip)
+news | newsonair.nic.in_4 | labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_00-56.zip)
+news | newsonair.nic.in_5 | labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_01-12.zip)
+news | newsonair.nic.in_6 | labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_01-29.zip)
+news | newsonair.nic.in_7 | labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_01-47.zip)
+news | newsonair.nic.in_8 | labelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_02-02.zip)
+news | newsonair.nic.in_9 | labelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_02-19.zip)
+news | newsonair.nic.in_10 | labelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_02-35.zip)
+news | newsonair.nic.in_11 | labelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_02-51.zip)
+news | newsonair.nic.in_12 | labelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_03-08.zip)
+news | newsonair.nic.in_13 | labelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_03-22.zip)
+news | newsonair.nic.in_14 | labelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_03-36.zip)
+news | newsonair.nic.in_15 | labelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_03-51.zip)
+news | newsonair.nic.in_16 | labelled | [newsonair.nic.in_16](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_04-04.zip)
+news | newsonair.nic.in_17 | labelled | [newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_04-18.zip)
+news | newsonair.nic.in_18 | labelled | [newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_04-30.zip)
+news | newsonair.nic.in_19 | labelled | [newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_04-44.zip)
+news | newsonair.nic.in_20 | labelled | [newsonair.nic.in_20](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_04-58.zip)
+news | newsonair.nic.in_21 | labelled | [newsonair.nic.in_21](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_05-12.zip)
+news | newsonair.nic.in_22 | labelled | [newsonair.nic.in_22](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_05-27.zip)
+news | newsonair.nic.in_23 | labelled | [newsonair.nic.in_23](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_05-41.zip)
+news | newsonair.nic.in_24 | labelled | [newsonair.nic.in_24](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_05-56.zip)
+news | newsonair.nic.in_25 | labelled | [newsonair.nic.in_25](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_06-11.zip)
+news | newsonair.nic.in_26 | labelled | [newsonair.nic.in_26](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_06-26.zip)
+news | newsonair.nic.in_27 | labelled | [newsonair.nic.in_27](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_06-41.zip)
+news | newsonair.nic.in_28 | labelled | [newsonair.nic.in_28](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_06-56.zip)
+news | newsonair.nic.in_29 | labelled | [newsonair.nic.in_29](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_07-11.zip)
+news | newsonair.nic.in_30 | labelled | [newsonair.nic.in_30](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_07-25.zip)
+news | newsonair.nic.in_31 | labelled | [newsonair.nic.in_31](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_07-40.zip)
+news | newsonair.nic.in_32 | labelled | [newsonair.nic.in_32](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_07-53.zip)
+news | newsonair.nic.in_33 | labelled | [newsonair.nic.in_33](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_08-08.zip)
+news | newsonair.nic.in_34 | labelled | [newsonair.nic.in_34](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_newsonair.nic.in_15-08-2021_08-21.zip)
+entertainment | Bharatiya_Digital_Party | labelled | [Bharatiya_Digital_Party](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Bharatiya_Digital_Party_13-08-2021_10-25.zip) | 3
+entertainment | Cafe_Marathi | labelled | [Cafe_Marathi](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Cafe_Marathi_13-08-2021_10-25.zip) | 1.98
+news | Lokmat_1 | labelled | [Lokmat_1](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_01-37.zip) | 220
+news | Lokmat_2 | labelled | [Lokmat_2](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_01-48.zip)
+news | Lokmat_3 | labelled | [Lokmat_3](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_02-02.zip)
+news | Lokmat_4 | labelled | [Lokmat_4](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_02-14.zip)
+news | Lokmat_5 | labelled | [Lokmat_5](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_02-25.zip)
+news | Lokmat_6 | labelled | [Lokmat_6](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_02-36.zip)
+news | Lokmat_7 | labelled | [Lokmat_7](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_02-53.zip)
+news | Lokmat_8 | labelled | [Lokmat_8](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_03-03.zip)
+news | Lokmat_9 | labelled | [Lokmat_8](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_03-13.zip)
+news | Lokmat_10 | labelled | [Lokmat_10](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_03-24.zip)
+news | Lokmat_11 | labelled | [Lokmat_11](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_03-33.zip)
+news | Lokmat_12 | labelled | [Lokmat_12](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Lokmat_14-08-2021_03-41.zip)
+education | Maha_GST | labelled | [Maha_GST](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Maha_GST_13-08-2021_10-26.zip) | 8.4
+education | OLI_NSS | labelled | [OLI_NSS](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_OLI_NSS_13-08-2021_10-25.zip) | 5.65
+philosophy | josh_talks_marathi_1 | labelled | [josh_talks_marathi_1](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_josh_talks_marathi_13-08-2021_10-26.zip) | 30.57
+philosophy | josh_talks_marathi_2 | labelled | [josh_talks_marathi_2](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_josh_talks_marathi_13-08-2021_10-34.zip)
+news | max_maharashtra_1 | labelled | [max_maharashtra_1](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_01-37.zip) | 99.38
+news | max_maharashtra_2 | labelled | [max_maharashtra_2](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_01-48.zip)
+news | max_maharashtra_3 | labelled | [max_maharashtra_3](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-02.zip)
+news | max_maharashtra_4 | labelled | [max_maharashtra_4](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-14.zip)
+news | max_maharashtra_5 | labelled | [max_maharashtra_5](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-25.zip)
+news | max_maharashtra_6 | labelled | [max_maharashtra_6](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-36.zip)
 ### `Bengali Unlabelled` _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

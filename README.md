@@ -364,6 +364,79 @@ news | max_maharashtra_3 | labelled | [max_maharashtra_3](https://storage.google
 news | max_maharashtra_4 | labelled | [max_maharashtra_4](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-14.zip)
 news | max_maharashtra_5 | labelled | [max_maharashtra_5](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-25.zip)
 news | max_maharashtra_6 | labelled | [max_maharashtra_6](https://storage.googleapis.com/test_public_bucket/labelled/Marathi_Max_Maharashtra_14-08-2021_02-36.zip)
+### `Telugu Labelled` _Total Duration is 1025.93 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+news            | BBC_News_Telugu_1           | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_BBC_News_Telugu_17-08-2021_00-57.zip           |   |
+news            | BBC_News_Telugu_2           | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_BBC_News_Telugu_17-08-2021_01-05.zip           |   |
+news            | BBC_News_Telugu_3           | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_BBC_News_Telugu_17-08-2021_01-12.zip           |   |
+news            | BBC_News_Telugu_4           | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_BBC_News_Telugu_17-08-2021_01-19.zip           |   |
+news            | BBC_News_Telugu_5           | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_BBC_News_Telugu_17-08-2021_01-27.zip           |   |
+news            | BBC_News_Telugu_6           | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_BBC_News_Telugu_17-08-2021_01-35.zip           |   |
+entertainment   | Chai_Bisket_Stories_1       | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Chai_Bisket_Stories_16-08-2021_14-12.zip       |   |
+entertainment   | Chai_Bisket_Stories_2       | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Chai_Bisket_Stories_16-08-2021_14-14.zip       |   |
+entertainment   | Chai_Bisket_Stories_3       | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Chai_Bisket_Stories_16-08-2021_14-17.zip       |   |
+news            | DD_Saptagiri_1              | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_DD_Saptagiri_16-08-2021_14-12.zip              |   |
+news            | DD_Saptagiri_2              | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_DD_Saptagiri_16-08-2021_14-14.zip              |   |
+news            | DD_Saptagiri_3              | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_DD_Saptagiri_16-08-2021_14-17.zip              |   |
+news            | DD_Saptagiri_4              | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_DD_Saptagiri_16-08-2021_14-19.zip              |   |
+news            | DD_Saptagiri_5              | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_DD_Saptagiri_16-08-2021_14-23.zip              |   |
+philosophy      | Josh_Talks_Telugu_1         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Josh_Talks_Telugu_16-08-2021_14-12.zip         |   |
+philosophy      | Josh_Talks_Telugu_2         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Josh_Talks_Telugu_16-08-2021_14-14.zip         |   |
+philosophy      | Josh_Talks_Telugu_3         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Josh_Talks_Telugu_16-08-2021_14-17.zip         |   |
+philosophy      | Josh_Talks_Telugu_4         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Josh_Talks_Telugu_16-08-2021_14-19.zip         |   |
+philosophy      | Josh_Talks_Telugu_5         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Josh_Talks_Telugu_16-08-2021_14-24.zip         |   |
+philosophy      | Josh_Talks_Telugu_6         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Josh_Talks_Telugu_16-08-2021_14-34.zip         |   |
+art-and-culture | Telangana_Sahitya_Akademi_1 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-12.zip |   |
+art-and-culture | Telangana_Sahitya_Akademi_2 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-14.zip |   |
+art-and-culture | Telangana_Sahitya_Akademi_3 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-17.zip |   |
+art-and-culture | Telangana_Sahitya_Akademi_4 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-19.zip |   |
+art-and-culture | Telangana_Sahitya_Akademi_5 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-21.zip |   |
+art-and-culture | Telangana_Sahitya_Akademi_6 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-34.zip |   |
+art-and-culture | Telangana_Sahitya_Akademi_7 | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Telangana_Sahitya_Akademi_16-08-2021_14-40.zip |   |
+news            | Zee_Telugu_1                | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Zee_Telugu_16-08-2021_14-12.zip                |   |
+news            | Zee_Telugu_2                | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Zee_Telugu_16-08-2021_14-14.zip                |   |
+news            | Zee_Telugu_3                | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Zee_Telugu_16-08-2021_14-17.zip                |   |
+news            | Zee_Telugu_4                | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_Zee_Telugu_16-08-2021_14-18.zip                |   |
+entertainment   | iDream_Telugu_Movies_1      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-12.zip      |   |
+entertainment   | iDream_Telugu_Movies_2      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-14.zip      |   |
+entertainment   | iDream_Telugu_Movies_3      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-17.zip      |   |
+entertainment   | iDream_Telugu_Movies_4      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-18.zip      |   |
+entertainment   | iDream_Telugu_Movies_5      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-21.zip      |   |
+entertainment   | iDream_Telugu_Movies_6      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-34.zip      |   |
+entertainment   | iDream_Telugu_Movies_7      | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_iDream_Telugu_Movies_16-08-2021_14-40.zip      |   |
+news            newsonair.nic.in_1          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_06-17.zip          |   |
+news            newsonair.nic.in_2          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_06-30.zip          |   |
+news            newsonair.nic.in_3          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_06-45.zip          |   |
+news            newsonair.nic.in_4          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_07-01.zip          |   |
+news            newsonair.nic.in_5          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_07-16.zip          |   |
+news            newsonair.nic.in_6          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_07-34.zip          |   |
+news            newsonair.nic.in_7          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_07-51.zip          |   |
+news            newsonair.nic.in_8          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_08-06.zip          |   |
+news            newsonair.nic.in_9          | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_08-22.zip          |   |
+news            newsonair.nic.in_10         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_08-39.zip          |   |
+news            newsonair.nic.in_11         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_08-47.zip          |   |
+news            newsonair.nic.in_12         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_09-04.zip          |   |
+news            newsonair.nic.in_13         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_09-19.zip          |   |
+news            newsonair.nic.in_14         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_09-34.zip          |   |
+news            newsonair.nic.in_15         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_09-50.zip          |   |
+news            newsonair.nic.in_16         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_10-03.zip          |   |
+news            newsonair.nic.in_17         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_10-19.zip          |   |
+news            newsonair.nic.in_18         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_10-32.zip          |   |
+news            newsonair.nic.in_19         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_10-48.zip          |   |
+news            newsonair.nic.in_20         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_11-02.zip          |   |
+news            newsonair.nic.in_21         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_11-16.zip          |   |
+news            newsonair.nic.in_22         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_11-23.zip          |   |
+news            newsonair.nic.in_23         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_11-38.zip          |   |
+news            newsonair.nic.in_24         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_11-54.zip          |   |
+news            newsonair.nic.in_25         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_12-10.zip          |   |
+news            newsonair.nic.in_26         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_12-26.zip          |   |
+news            newsonair.nic.in_27         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_12-40.zip          |   |
+news            newsonair.nic.in_28         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_12-54.zip          |   |
+news            newsonair.nic.in_29         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-06.zip          |   |
+news            newsonair.nic.in_30         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-17.zip          |   |
+news            newsonair.nic.in_31         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-25.zip          |   |
+news            newsonair.nic.in_32         | labelled | https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-34.zip          |   |
 ### `Bengali Unlabelled` _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

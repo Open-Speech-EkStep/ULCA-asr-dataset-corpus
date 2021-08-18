@@ -437,6 +437,31 @@ news | newsonair.nic.in_29 | labelled | [newsonair.nic.in_29](https://storage.go
 news | newsonair.nic.in_30 | labelled | [newsonair.nic.in_30](https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-17.zip)
 news | newsonair.nic.in_31 | labelled | [newsonair.nic.in_31](https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-25.zip)
 news | newsonair.nic.in_32 | labelled | [newsonair.nic.in_32](https://storage.googleapis.comtest_public_bucket/labelled/Telugu_newsonair.nic.in_16-08-2021_13-34.zip)
+### `Odia Labelled` _Total Duration is 584 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+news | dd_news_odia_official_1 | labelled | [dd_news_odia_official_1](https://storage.googleapis.com/test_public_bucket/labelled/Odia_DD_News_Odia_Official_17-08-2021_10-25.zip) | 35.37
+news | dd_news_odia_official_2 | labelled | [dd_news_odia_official_2](https://storage.googleapis.com/test_public_bucket/labelled/Odia_DD_News_Odia_Official_17-08-2021_10-30.zip)
+news | dd_news_odia_official_3 | labelled | [dd_news_odia_official_3](https://storage.googleapis.com/test_public_bucket/labelled/Odia_DD_News_Odia_Official_17-08-2021_10-35.zip)
+news | newsonair.nic.in_1 | labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_00-15.zip) | 450
+news | newsonair.nic.in_2 | labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_00-26.zip)
+news | newsonair.nic.in_3 | labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_00-38.zip)
+news | newsonair.nic.in_4 | labelled | [newsonair.nic.in_4](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_00-52.zip)
+news | newsonair.nic.in_5 | labelled | [newsonair.nic.in_5](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_01-05.zip)
+news | newsonair.nic.in_6 | labelled | [newsonair.nic.in_6](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_01-20.zip)
+news | newsonair.nic.in_7 | labelled | [newsonair.nic.in_7](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_01-33.zip)
+news | newsonair.nic.in_8 | labelled | [newsonair.nic.in_8](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_01-47.zip)
+news | newsonair.nic.in_9 | labelled | [newsonair.nic.in_9](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_02-00.zip)
+news | newsonair.nic.in_10 | labelled | [newsonair.nic.in_10](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_02-14.zip)
+news | newsonair.nic.in_11 | labelled | [newsonair.nic.in_11](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_02-27.zip)
+news | newsonair.nic.in_12 | labelled | [newsonair.nic.in_12](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_02-39.zip)
+news | newsonair.nic.in_13 | labelled | [newsonair.nic.in_13](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_02-52.zip)
+news | newsonair.nic.in_14 | labelled | [newsonair.nic.in_14](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-04.zip)
+news | newsonair.nic.in_15 | labelled | [newsonair.nic.in_15](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-17.zip)
+news | newsonair.nic.in_16 | labelled | [newsonair.nic.in_16](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-31.zip)
+news | newsonair.nic.in_17 | labelled | [newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-44.zip)
+news | newsonair.nic.in_18 | labelled | [newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-56.zip)
+news | newsonair.nic.in_19 | labelled | [newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_04-08.zip)
 ### `Bengali Unlabelled` _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |
@@ -1258,7 +1283,7 @@ Entertainment | Singrai_Soren | Unlabelled | [Singrai_Soren](https://storage.goo
  Education | IITM_HIN_TRAIN | [IITM_HIN_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Hindi_IITM_hindi_train_unlabelled_09-08-2021_17-16.zip) | 125
  Education | IITM_ASR_TTS_Female_hi_un | [IITM_ASR_TTS_Female_hi](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_hi_28-07-2021_13-23.zip) | 4
  Education | IITM_ASR_TTS_male_hi_un | [IITM_ASR_TTS_male_hi](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_hi_28-07-2021_15-53.zip) | 4
-### `Tamil labelled External` _Total Duration is 173 hours_
+### `Tamil labelled External` _Total Duration is 180 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: | 
  Education | IITM_TAMIL_DEV | [IITM_TAMIl_DEV](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_IITM_tamil_dev_09-08-2021_17-51.zip) | 4
@@ -1266,7 +1291,8 @@ Entertainment | Singrai_Soren | Unlabelled | [Singrai_Soren](https://storage.goo
  Education | IITM_TAMIL_TRAIN | [IITM_TAMIl_TRAIN](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_IITM_tamil_train_09-08-2021_18-03.zip) | 120
  Education | Tamil_Interspeech_Task1_Valid | [Tamil_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/EducationTamil_Tamil_Interspeech_Task1_Valid_labelled_12-08-2021_12-23.zip) | 5
  Education | Tamil_Interspeech_Task1_Train | [Tamil_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_Tamil_Interspeech_Task1_Train_labelled_12-08-2021_12-33.zip) | 40
-### `Tamil Unlabelled External` _Total Duration is 173 hours_
+ Education | Openslr_Tamil | [Openslr_Tamil](https://storage.googleapis.com/test_public_bucket/external/labelled/Tamil_Tamil_Openslr_labelled_17-08-2021_06-21.zip) | 7
+### `Tamil Unlabelled External` _Total Duration is 180 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: |
  Education | IITM_TAMIL_DEV | [IITM_TAMIL_DEV](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_IITM_tamil_dev_unlabelled_09-08-2021_17-51.zip) | 4
@@ -1274,6 +1300,7 @@ Entertainment | Singrai_Soren | Unlabelled | [Singrai_Soren](https://storage.goo
  Education | IITM_TAMIL_TRAIN | [IITM_TAMIl_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_IITM_tamil_train_unlabelled_09-08-2021_18-03.zip) | 120
  Education | Tamil_Interspeech_Task1_Valid | [Tamil_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_Tamil_Interspeech_Task1_Valid_12-08-2021_11-58.zip) | 5
 Education | Tamil_Interspeech_Task1_Train | [Tamil_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_Tamil_Interspeech_Task1_Train_unlabelled_12-08-2021_12-33.zip) | 40
+Education | Openslr_Tamil | [Openslr_Tamil](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Tamil_Tamil_Openslr_unlabelled_17-08-2021_06-21.zip) | 7
 ### `English labelled External` _Total Duration is 136 hours_
  Domain | Source | Corpus_Download_link | Duration(hrs)
  :--- |:--- | :---: | :---: |
@@ -1290,26 +1317,30 @@ Education | Tamil_Interspeech_Task1_Train | [Tamil_Interspeech_Task1_Train](http
  Education | IITM_ENG_TRAIN | [IITM_ENG_TRAIN](https://storage.googleapis.com/test_public_bucket/external/unlabelled/English_IITM_eng_train_unlabelled_09-08-2021_11-23.zip) | 120 
  Education | IITM_ASR_TTS_Female_en_un | [IITM_ASR_TTS_Female_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Female_IN-EN_28-07-2021_11-38.zip) | 4
  Education | IITM_ASR_TTS_Male_en_un | [IITM_ASR_TTS_Male_en](https://storage.googleapis.com/test_public_bucket/external/unlabelled/IITM_ASR_TTS_Male_IN-EN_28-07-2021_10-32.zip) | 4
-### `Gujarati labelled External` _Total Duration is 45 hours_
+### `Gujarati labelled External` _Total Duration is 52 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Gujarati_Interspeech_Task1_Train | [Gujarati_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Gujarati_Gujarati_Interspeech_Task1_Train_labelled_12-08-2021_13-09.zip) | 40
 Education | Gujarati_Interspeech_Task1_Valid | [Gujarati_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Gujarati_Gujarati_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
-### `Gujarati Unlabelled External` _Total Duration is 45 hours_
+education | openslr_gujarati | [openslr_gujarati](https://storage.googleapis.com/test_public_bucket/external/labelled/Gujarati_Gujarati_Openslr_labelled_17-08-2021_05-39.zip) | 7
+### `Gujarati Unlabelled External` _Total Duration is 52 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Gujarati_Interspeech_Task1_Train | [Gujarati_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Gujarati_Gujarati_Interspeech_Task1_Train_unlabelled_12-08-2021_13-09.zip) | 40
 Education | Gujarati_Interspeech_Task1_Valid | [Gujarati_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Gujarati_Gujarati_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
-### `Telugu labelled External` _Total Duration is 45 hours_
+education | openslr_gujarati | [openslr_gujarati](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Gujarati_Gujarati_Openslr_unlabelled_17-08-2021_05-39.zip) | 7
+### `Telugu labelled External` _Total Duration is 50 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Telugu_Interspeech_Task1_Train | [Telugu_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Telugu_Telugu_Interspeech_Task1_Train_labelled_12-08-2021_13-09.zip) | 40
 Education | Telugu_Interspeech_Task1_Valid | [Telugu_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Telugu_Telugu_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
-### `Telugu Unlabelled External` _Total Duration is 45 hours_
+education | openslr_telugu | [openslr_telugu](https://storage.googleapis.com/test_public_bucket/external/labelled/Telugu_Telugu_Openslr_labelled_17-08-2021_05-39.zip) | 5
+### `Telugu Unlabelled External` _Total Duration is 50 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Telugu_Interspeech_Task1_Train | [Telugu_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Telugu_Telugu_Interspeech_Task1_Train_unlabelled_12-08-2021_13-09.zip) | 40
 Education | Telugu_Interspeech_Task1_Valid | [Telugu_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Telugu_Telugu_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
+education | openslr_telugu | [openslr_telugu](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Telugu_Telugu_Openslr_unlabelled_17-08-2021_05-39.zip) | 5
 ### `Marathi labelled External` _Total Duration is 99  hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
@@ -1330,7 +1361,7 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94
 Education | Odia_Interspeech_Task1_Valid | [Odia_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Odia_Odia_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
-### `Nepali labelled External` _Total Duration is 129 hours_
+### `Nepali labelled External` _Total Duration is 143 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 education | nepali_openslr_train_1 | [nepali_openslr_train_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled1_13-08-2021_11-46.zip) | 129
@@ -1339,7 +1370,9 @@ education | nepali_openslr_train_3 | [nepali_openslr_train_3](https://storage.go
 education | nepali_openslr_train_4 | [nepali_openslr_train_4](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled4_13-08-2021_13-26.zip)
 education | nepali_openslr_train_5 | [nepali_openslr_train_5](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled5_13-08-2021_13-26.zip)
 education | nepali_openslr_train_6 | [nepali_openslr_train_6](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Train_labelled6_13-08-2021_13-26.zip)
-### `Nepali unlabelled External` _Total Duration is 129 hours_
+education | nepali_openslr_valid | [nepali_openslr_valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Valid_labelled_17-08-2021_04-49.zip) | 6
+education | nepali_openslr_test | [nepali_openslr_test](https://storage.googleapis.com/test_public_bucket/external/labelled/Nepali_Nepali_Openslr_Test_labelled_17-08-2021_04-49.zip) | 8
+### `Nepali unlabelled External` _Total Duration is 143 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 education | nepali_openslr_train_1 | [nepali_openslr_train_1](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled1_13-08-2021_11-46.zip) | 129
@@ -1348,3 +1381,36 @@ education | nepali_openslr_train_3 | [nepali_openslr_train_3](https://storage.go
 education | nepali_openslr_train_4 | [nepali_openslr_train_4](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled4_13-08-2021_13-26.zip)
 education | nepali_openslr_train_5 | [nepali_openslr_train_5](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled5_13-08-2021_13-26.zip)
 education | nepali_openslr_train_6 | [nepali_openslr_train_6](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Train_unlabelled6_13-08-2021_13-26.zip)
+education | nepali_openslr_valid | [nepali_openslr_valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Valid_unlabelled_17-08-2021_04-49.zip) | 6
+education | nepali_openslr_test | [nepali_openslr_test](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Nepali_Nepali_Openslr_Test_unlabelled_17-08-2021_04-49.zip) | 8
+### `Bengali labelled External` _Total Duration is 200 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | openslr_bengali_1 | [openslr_bengali_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled1_17-08-2021_12-11.zip) | 200
+education | openslr_bengali_2 | [openslr_bengali_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled2_17-08-2021_12-11.zip)
+education | openslr_bengali_3 | [openslr_bengali_3](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled3_17-08-2021_12-11.zip)
+education | openslr_bengali_4 | [openslr_bengali_4](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled4_17-08-2021_12-11.zip)
+education | openslr_bengali_5 | [openslr_bengali_5](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled5_17-08-2021_14-36.zip)
+education | openslr_bengali_6 | [openslr_bengali_6](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled6_17-08-2021_14-36.zip)
+education | openslr_bengali_7 | [openslr_bengali_7](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled7_17-08-2021_14-36.zip)
+education | openslr_bengali_8 | [openslr_bengali_8](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled8_17-08-2021_14-36.zip)
+### `Bengali unlabelled External` _Total Duration is 200 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | openslr_bengali_1 | [openslr_bengali_1](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled1_17-08-2021_12-11.zip) | 200
+education | openslr_bengali_2 | [openslr_bengali_2](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled2_17-08-2021_12-11.zip)
+education | openslr_bengali_3 | [openslr_bengali_3](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled3_17-08-2021_12-11.zip)
+education | openslr_bengali_4 | [openslr_bengali_4](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled4_17-08-2021_12-11.zip)
+education | openslr_bengali_5 | [openslr_bengali_5](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled5_17-08-2021_14-36.zip)
+education | openslr_bengali_6 | [openslr_bengali_6](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled6_17-08-2021_14-36.zip)
+education | openslr_bengali_7 | [openslr_bengali_7](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled7_17-08-2021_14-36.zip)
+education | openslr_bengali_8 | [openslr_bengali_8](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Bengali_Bengali_Openslr_unlabelled8_17-08-2021_14-36.zip)
+### `Kannada labelled External` _Total Duration is 8 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | openslr_kannada | [openslr_kannada](https://storage.googleapis.com/test_public_bucket/external/labelled/Kannada_Kannada_Openslr_labelled_17-08-2021_05-39.zip) | 8
+### `Kannada unlabelled External` _Total Duration is 8 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | openslr_kannada | [openslr_kannada](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Kannada_Kannada_Openslr_unlabelled_17-08-2021_05-39.zip) | 8
+

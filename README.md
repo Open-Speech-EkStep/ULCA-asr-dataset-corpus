@@ -462,6 +462,15 @@ news | newsonair.nic.in_16 | labelled | [newsonair.nic.in_16](https://storage.go
 news | newsonair.nic.in_17 | labelled | [newsonair.nic.in_17](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-44.zip)
 news | newsonair.nic.in_18 | labelled | [newsonair.nic.in_18](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_03-56.zip)
 news | newsonair.nic.in_19 | labelled | [newsonair.nic.in_19](https://storage.googleapis.com/test_public_bucket/labelled/Odia_newsonair.nic.in_18-08-2021_04-08.zip)
+### `Sanskrit Labelled` _Total Duration is 124.72 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+news | DD_News_1 | labelled | [DD_News_1](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_DD_News_24-08-2021_01-03.zip) | 29
+news | DD_News_2 | labelled | [DD_News_2](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_DD_News_24-08-2021_01-14.zip)
+news | NEWS_ON_AIR_SANSKRIT | labelled | [NEWS_ON_AIR_SANSKRIT](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_NEWS_ON_AIR_SANSKRIT_24-08-2021_01-03.zip) | 13
+news | newsonair.nic.in_1 | labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_newsonair.nic.in_23-08-2021_16-13.zip) | 82
+news | newsonair.nic.in_2 | labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_newsonair.nic.in_23-08-2021_16-27.zip)
+news | newsonair.nic.in_3 | labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_newsonair.nic.in_23-08-2021_16-43.zip)
 ### `Bengali Unlabelled` _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

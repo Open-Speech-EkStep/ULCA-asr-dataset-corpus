@@ -471,6 +471,19 @@ news | NEWS_ON_AIR_SANSKRIT | labelled | [NEWS_ON_AIR_SANSKRIT](https://storage.
 news | newsonair.nic.in_1 | labelled | [newsonair.nic.in_1](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_newsonair.nic.in_23-08-2021_16-13.zip) | 82
 news | newsonair.nic.in_2 | labelled | [newsonair.nic.in_2](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_newsonair.nic.in_23-08-2021_16-27.zip)
 news | newsonair.nic.in_3 | labelled | [newsonair.nic.in_3](https://storage.googleapis.com/test_public_bucket/labelled/Sanskrit_newsonair.nic.in_23-08-2021_16-43.zip)
+### `Maithili Labelled` _Total Duration is 139.44 hours_
+Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: | :---: |
+news | Air_News_Patna | labelled | [Air_News_Patna](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Air_News_Patna_27-08-2021_04-15.zip) | 2
+news | Appan_TV | labelled | [Appan_TV](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Appan_TV_27-08-2021_04-17.zip) | 4.4
+news | Janata_Television_1 | labelled | [Janata_Television_1](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Janata_Television_27-08-2021_04-21.zip) | 63
+news | Janata_Television_2 | labelled | [Janata_Television_2](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Janata_Television_30-08-2021_04-56.zip)
+news | Janata_Television_3 | labelled | [Janata_Television_3](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Janata_Television_30-08-2021_05-12.zip)
+news | Mithila_Mirror_1 | labelled | [Mithila_Mirror_1](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Mithila_Mirror_27-08-2021_04-20.zip) | 57.16
+news | Mithila_Mirror_2 | labelled | [Mithila_Mirror_2](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Mithila_Mirror_30-08-2021_04-55.zip)
+news | Mithila_Mirror_3 | labelled | [Mithila_Mirror_3](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Mithila_Mirror_30-08-2021_05-12.zip)
+education | Unacademy_Articulate | labelled | [Unacademy_Articulate](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_Unacademy_Articulate_27-08-2021_04-20.zip) | 1.5
+news | newsonair.nic.in | labelled | [newsonair.nic.in](https://storage.googleapis.comtest_public_bucket/labelled/Maithili_newsonair.nic.in_27-08-2021_06-31.zip) | 11.19
 ### `Bengali Unlabelled` _Total Duration is 562.47 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: |

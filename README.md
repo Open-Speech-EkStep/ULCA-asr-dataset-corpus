@@ -1377,11 +1377,12 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Marathi_Interspeech_Task1_Train | [Marathi_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Marathi_Marathi_Interspeech_Task1_Train_unlabelled_12-08-2021_14-16.zip) | 94
 Education | Marathi_Interspeech_Task1_Valid | [Marathi_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Marathi_Marathi_Interspeech_Task1_Valid_unlabelled_13-08-2021_07-20.zip) | 5
-### `Odia labelled External` _Total Duration is 99 hours_
+### `Odia labelled External` _Total Duration is 105.5 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 Education | Odia_Interspeech_Task1_Train | [Odia_Interspeech_Task1_Train](https://storage.googleapis.com/test_public_bucket/external/labelled/Odia_Odia_Interspeech_Task1_Train_labelled_12-08-2021_14-16.zip) | 94
 Education | Odia_Interspeech_Task1_Valid | [Odia_Interspeech_Task1_Valid](https://storage.googleapis.com/test_public_bucket/external/labelled/Odia_Odia_Interspeech_Task1_Valid_labelled_13-08-2021_07-20.zip) | 5
+news | DD_Odia_test_set_sme | [DD_Odia_test_set_sme](https://storage.googleapis.com/test_public_bucket/external/labelled/Odia_test_set_sme_DD_Odia_01-09-2021_09-43.zip) | 6.5
 ### `Odia Unlabelled External` _Total Duration is 99 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
@@ -1439,4 +1440,7 @@ education | openslr_kannada | [openslr_kannada](https://storage.googleapis.com/t
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 education | openslr_kannada | [openslr_kannada](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Kannada_Kannada_Openslr_unlabelled_17-08-2021_05-39.zip) | 8
-
+### `Sanskrit labelled External` _Total Duration is 10 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_test_set_sme | [newsonair.nic.in_test_set_sme](https://storage.googleapis.com/test_public_bucket/external/labelled/Sanskrit_test_set_sme_newsonair_01-09-2021_09-43.zip) | 10

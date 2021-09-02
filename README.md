@@ -1449,3 +1449,21 @@ news | newsonair.nic.in_test_set_sme | [newsonair.nic.in_test_set_sme](https://s
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | newsonair.nic.in_test_set_sme | [newsonair.nic.in_test_set_sme](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Sanskrit_test_set_sme_newsonair_01-09-2021_09-57.zip) | 6.5
+### `Dogri labelled External` _Total Duration is 54 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Dogri_newsonair_dogri_external_aligned1_lab_02-09-2021_06-55.zip) | 54
+news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Dogri_newsonair_dogri_external_aligned2_lab_02-09-2021_06-55.zip)
+### `Dogri unlabelled External` _Total Duration is 54 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Dogri_newsonair_dogri_external_aligned1_unlab_02-09-2021_06-55.zip) | 54
+news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Dogri_newsonair_dogri_external_aligned2_unlab_02-09-2021_06-55.zip)
+### `Konkani labelled External` _Total Duration is 26 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned | [newsonair.nic.in_aligned](https://storage.googleapis.com/test_public_bucket/external/labelled/Konkani_newsonair_konkani_external_aligned_lab_02-09-2021_06-55.zip) | 26
+### `Konkani unlabelled External` _Total Duration is 26 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned | [newsonair.nic.in_aligned](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Konkani_newsonair_konkani_external_aligned_unlab_02-09-2021_06-55.zip) | 26

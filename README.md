@@ -1467,3 +1467,13 @@ news | newsonair.nic.in_aligned | [newsonair.nic.in_aligned](https://storage.goo
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | newsonair.nic.in_aligned | [newsonair.nic.in_aligned](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Konkani_newsonair_konkani_external_aligned_unlab_02-09-2021_06-55.zip) | 26
+### `Maithili labelled External` _Total Duration is 40 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Maithili_newsonair_maithili_aligned_external_lab1_06-09-2021_04-17.zip) | 40
+news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Maithili_newsonair_maithili_aligned_external_lab2_06-09-2021_04-17.zip)
+### `Maitjili unlabelled External` _Total Duration is 40 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Maithili_newsonair_maithili_aligned_external_unlab1_06-09-2021_04-17.zip) | 40
+news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Maithili_newsonair_maithili_aligned_external_unlab2_06-09-2021_04-17.zip)

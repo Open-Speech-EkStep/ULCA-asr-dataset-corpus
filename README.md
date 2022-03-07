@@ -1444,10 +1444,10 @@ education | openslr_kannada | [openslr_kannada](https://storage.googleapis.com/t
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 education | openslr_kannada | [openslr_kannada](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Kannada_Kannada_Openslr_unlabelled_17-08-2021_05-39.zip) | 8
-### `Sanskrit labelled External` _Total Duration is 6.5 hours_
+### `Sanskrit labelled External` _Total Duration is 7.5 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
-news | newsonair.nic.in_test_set_sme | [newsonair.nic.in_test_set_sme](https://storage.googleapis.com/test_public_bucket/external/labelled/Sanskrit_test_set_sme_newsonair_01-09-2021_09-43.zip) | 6.5
+news | newsonair.nic.in_test_set_sme | [newsonair.nic.in_test_set_sme](https://storage.googleapis.com/test_public_bucket/external/labelled/Sanskrit_newsonair_sme_external_07-03-2022_13-28.zip) | 7.5
 ### `Sanskrit unlabelled External` _Total Duration is 6.5 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |

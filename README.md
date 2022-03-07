@@ -1513,3 +1513,7 @@ education | NIOSSeniorSecondaryCourses_sme_external | [NIOSSeniorSecondaryCourse
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | Kashmiri_newsonair_sme_external | [Kashmiri_newsonair_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Kashmiri_newsonair_sme_external_07-03-2022_10-26.zip) | 10
+### `Manipuri labelled External` _Total Duration is 10 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | Manipuri_newsonair.nic.in_sme_external | [Manipuri_newsonair.nic.in_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Manipuri_newsonair_sme_external_07-03-2022_12-09.zip) | 10

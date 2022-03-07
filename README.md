@@ -1422,6 +1422,9 @@ education | openslr_bengali_5 | [openslr_bengali_5](https://storage.googleapis.c
 education | openslr_bengali_6 | [openslr_bengali_6](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled6_17-08-2021_14-36.zip)
 education | openslr_bengali_7 | [openslr_bengali_7](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled7_17-08-2021_14-36.zip)
 education | openslr_bengali_8 | [openslr_bengali_8](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_Bengali_Openslr_labelled8_17-08-2021_14-36.zip)
+news | Bangla_World_Service_AIR_sme_external | [Bangla_World_Service_AIR_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_sme_external_Bangla_World_Service_AIR_04-03-2022_10-57.zip)
+general | Bengali_Poetry_sme_external | [Bengali_Poetry_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_sme_external_Bengali_Poetry_04-03-2022_10-46.zip)
+general | Mirchi_Bangla_sme_external | [Mirchi_Bangla_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Bengali_sme_external_Mirchi_Bangla_04-03-2022_10-46.zip)
 ### `Bengali unlabelled External` _Total Duration is 200 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |

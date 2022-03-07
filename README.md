@@ -1480,3 +1480,7 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Maithili_newsonair_maithili_aligned_external_unlab1_06-09-2021_04-17.zip) | 40
 news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/unlabelled/Maithili_newsonair_maithili_aligned_external_unlab2_06-09-2021_04-17.zip)
+### `Vakyansh Benchmark Dataset` _Total Duration is 21 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+general | Vakyansh Benchmark Dataset without numbers | [Vakyansh Benchmark Dataset](https://storage.googleapis.com/vakyansh-open-models/data/vakyansh_benchmarking_dataset.zip) | 21

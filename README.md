@@ -1486,7 +1486,7 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 general | Vakyansh Benchmark Dataset without numbers | [Vakyansh Benchmark Dataset](https://storage.googleapis.com/vakyansh-open-models/data/vakyansh_benchmarking_dataset.zip) | 21
 ### `Urdu labelled External`
 Domain | Source | Corpus_Download_link
-:--- |:--- | :---: | :---: |
+:--- |:--- | :---: |
 news | BBC_News_sme_external | [BBC_News_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Urdu_sme_external_BBC_News_04-03-2022_07-00.zip)
 news | CEC_Urdu_sme_external | [CEC_Urdu_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Urdu_sme_external_CEC_Urdu_04-03-2022_07-47.zip)
 news | DD_Urdu_News_sme_external | [DD_Urdu_News_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Urdu_sme_external_DD_Urdu_News_04-03-2022_07-47.zip)

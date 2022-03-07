@@ -1504,3 +1504,7 @@ news | DD_Malayalam_sme_external_4 | [DD_Malayalam_sme_external_4](https://stora
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 general | Punjabi SME Dataset | [Punjabi SME Dataset](https://storage.googleapis.com/test_public_bucket/external/labelled/Punjabi_sme_dataset_punjabi_2_lab_15-09-2021_09-09.zip) | 20
+### `Assamese labelled External` _Total Duration is 10 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+education | NIOSSeniorSecondaryCourses_sme_external | [NIOSSeniorSecondaryCourses_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/assamese_NIOSSeniorSecondaryCourses_sme_external_07-03-2022_10-34.zip) | 10

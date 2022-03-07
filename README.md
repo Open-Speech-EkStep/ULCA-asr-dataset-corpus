@@ -1492,3 +1492,11 @@ news | CEC_Urdu_sme_external | [CEC_Urdu_sme_external](https://storage.googleapi
 news | DD_Urdu_News_sme_external | [DD_Urdu_News_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Urdu_sme_external_DD_Urdu_News_04-03-2022_07-47.zip)
 news | DD_urdu_v2_sme_external | [DD_urdu_v2_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Urdu_sme_external_DD_urdu_v2_04-03-2022_07-47.zip)
 news | NEWS_ON_AIR_sme_external | [NEWS_ON_AIR_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Urdu_sme_external_NEWS_ON_AIR_URDU_04-03-2022_07-47.zip)
+### `Malayalam labelled External`
+Domain | Source | Corpus_Download_link
+:--- |:--- | :---: |
+news | DD_Malayalam_sme_external_0 | [DD_Malayalam_sme_external_0](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_0_04-03-2022_11-39.zip)
+news | DD_Malayalam_sme_external_1 | [DD_Malayalam_sme_external_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_1_04-03-2022_11-39.zip)
+news | DD_Malayalam_sme_external_2 | [DD_Malayalam_sme_external_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_2_04-03-2022_11-39.zip)
+news | DD_Malayalam_sme_external_3 | [DD_Malayalam_sme_external_3](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_3_04-03-2022_11-39.zip)
+news | DD_Malayalam_sme_external_4 | [DD_Malayalam_sme_external_4](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_4_04-03-2022_11-39.zip)

@@ -1475,6 +1475,7 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Maithili_newsonair_maithili_aligned_external_lab1_06-09-2021_04-17.zip) | 40
 news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Maithili_newsonair_maithili_aligned_external_lab2_06-09-2021_04-17.zip)
+news | newsonair.nic.in_sme_external | [newsonair.nic.in_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Maithili_newsonair_sme_external_07-03-2022_11-09.zip) | 11 
 ### `Maithili unlabelled External` _Total Duration is 40 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |

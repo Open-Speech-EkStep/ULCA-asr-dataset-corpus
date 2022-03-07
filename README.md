@@ -1508,3 +1508,7 @@ general | Punjabi SME Dataset | [Punjabi SME Dataset](https://storage.googleapis
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 education | NIOSSeniorSecondaryCourses_sme_external | [NIOSSeniorSecondaryCourses_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/assamese_NIOSSeniorSecondaryCourses_sme_external_07-03-2022_10-34.zip) | 10
+### `Kashmiri labelled External` _Total Duration is 10 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | Kashmiri_newsonair_sme_external | [Kashmiri_newsonair_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Kashmiri_newsonair_sme_external_07-03-2022_10-26.zip) | 10

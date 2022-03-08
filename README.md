@@ -1522,3 +1522,8 @@ Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Rajasthani_newsonair_aligned_external_1_08-03-2022_07-03.zip) | 54
 news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Rajasthani_newsonair_aligned_external_2_08-03-2022_07-03.zip)
+### `Bhojpuri Labelled External` _Total Duration is 60 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Bhojpuri_newsonair_aligned_external_1_08-03-2022_07-36.zip) | 60
+news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Bhojpuri_newsonair_aligned_external_2_08-03-2022_07-36.zip)

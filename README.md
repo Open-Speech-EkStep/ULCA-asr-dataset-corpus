@@ -1517,3 +1517,8 @@ news | Kashmiri_newsonair_sme_external | [Kashmiri_newsonair_sme_external](https
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
 news | Manipuri_newsonair.nic.in_sme_external | [Manipuri_newsonair.nic.in_sme_external](https://storage.googleapis.com/test_public_bucket/external/labelled/Manipuri_newsonair_sme_external_07-03-2022_12-09.zip) | 10
+### `Rajasthani Labelled External` _Total Duration is 54 hours_
+Domain | Source | Corpus_Download_link |  Duration(hrs)
+:--- |:--- | :---: | :---: |
+news | newsonair.nic.in_aligned_1 | [newsonair.nic.in_aligned_1](https://storage.googleapis.com/test_public_bucket/external/labelled/Rajasthani_newsonair_aligned_external_1_08-03-2022_07-03.zip) | 54
+news | newsonair.nic.in_aligned_2 | [newsonair.nic.in_aligned_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Rajasthani_newsonair_aligned_external_2_08-03-2022_07-03.zip)

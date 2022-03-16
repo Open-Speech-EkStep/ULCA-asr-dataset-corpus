@@ -1501,10 +1501,10 @@ news | DD_Malayalam_sme_external_1 | [DD_Malayalam_sme_external_1](https://stora
 news | DD_Malayalam_sme_external_2 | [DD_Malayalam_sme_external_2](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_2_04-03-2022_11-39.zip)
 news | DD_Malayalam_sme_external_3 | [DD_Malayalam_sme_external_3](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_3_04-03-2022_11-39.zip)
 news | DD_Malayalam_sme_external_4 | [DD_Malayalam_sme_external_4](https://storage.googleapis.com/test_public_bucket/external/labelled/Malayalam_sme_external_dd_malayalam_4_04-03-2022_11-39.zip)
-### `Punjabi labelled External` _Total Duration is 20 hours_
+### `Punjabi labelled External` _Total Duration is 11 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |
-general | Punjabi SME Dataset | [Punjabi SME Dataset](https://storage.googleapis.com/test_public_bucket/external/labelled/Punjabi_sme_dataset_punjabi_2_lab_15-09-2021_09-09.zip) | 20
+general | Punjabi SME Dataset | [Punjabi SME Dataset](https://storage.googleapis.com/test_public_bucket/external/labelled/Punjabi_sme_dataset_punjabi_2_lab_15-09-2021_09-09.zip) |11
 ### `Assamese labelled External` _Total Duration is 10 hours_
 Domain | Source | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: |

@@ -112,6 +112,7 @@ News | newsonair.nic.in_22 | Labelled | [newsonair.nic.in_22](https://storage.go
 News | newsonair.nic.in_23 | Labelled | [newsonair.nic.in_23](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_19-41.zip)
 News | newsonair.nic.in_24 | Labelled | [newsonair.nic.in_24](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_20-07.zip)
 News | newsonair.nic.in_25 | Labelled | [newsonair.nic.in_25](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_20-33.zip)
+General | Brahmakumaris | Labelled | [Brahamakumaris](https://storage.googleapis.com/test_public_bucket/labelled/Brahmakumaris.zip)
 ### `Tamil Labelled`  _Total Duration is 1160.24 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 

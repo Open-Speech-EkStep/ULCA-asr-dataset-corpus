@@ -114,6 +114,14 @@ News | newsonair.nic.in_24 | Labelled | [newsonair.nic.in_24](https://storage.go
 News | newsonair.nic.in_25 | Labelled | [newsonair.nic.in_25](https://storage.googleapis.com/test_public_bucket/labelled/Hindi_newsonair.nic.in_08-08-2021_20-33.zip)
 General | Brahmakumaris | Labelled | [Brahamakumaris](https://storage.googleapis.com/test_public_bucket/labelled/Brahmakumaris.zip)
 General | Brahmakumaris Conferences | Labelled | [Brahmakumaris Conferences](https://storage.googleapis.com/test_public_bucket/labelled/Brahmakumaris_conferences.zip)
+General | brahmakumaris_1 | Labelled | [brahmakumaris_1](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour.zip)
+General | brahmakumaris_2 | Labelled | [brahmakumaris_2](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_2.zip)
+General | brahmakumaris_3 | Labelled | [brahmakumaris_3](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_3.zip)
+General | brahmakumaris_4 | Labelled | [brahmakumaris_4](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_4.zip)
+General | brahmakumaris_5 | Labelled | [brahmakumaris_5](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_5.zip)
+General | brahmakumaris_6 | Labelled | [brahmakumaris_6](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_6.zip)
+General | brahmakumaris_7 | Labelled | [brahmakumaris_7](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_7.zip)
+General | brahmakumaris_8 | Labelled | [brahmakumaris_8](https://storage.googleapis.com/test_public_bucket/labelled/brahmakumaris_one_hour_8.zip)
 ### `Tamil Labelled`  _Total Duration is 1160.24 hours_
 Domain | Source | Type | Corpus_Download_link |  Duration(hrs)
 :--- |:--- | :---: | :---: | :---: 
